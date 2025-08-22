@@ -1,0 +1,10327 @@
+[
+  {
+    "Model": "mT5-Base",
+    "Language": "et",
+    "Score": 50.3,
+    "Dataset": "xcopa",
+    "Metric": "accuracy"
+  },
+  {
+    "Model": "mT5-Base",
+    "Language": "ht",
+    "Score": 49.9,
+    "Dataset": "xcopa",
+    "Metric": "accuracy"
+  },
+  {
+    "Model": "mT5-Base",
+    "Language": "id",
+    "Score": 49.2,
+    "Dataset": "xcopa",
+    "Metric": "accuracy"
+  },
+  {
+    "Model": "mT5-Base",
+    "Language": "it",
+    "Score": 49.6,
+    "Dataset": "xcopa",
+    "Metric": "accuracy"
+  },
+  {
+    "Model": "mT5-Base",
+    "Language": "qu",
+    "Score": 50.5,
+    "Dataset": "xcopa",
+    "Metric": "accuracy"
+  },
+  {
+    "Model": "mT5-Base",
+    "Language": "sw",
+    "Score": 50.4,
+    "Dataset": "xcopa",
+    "Metric": "accuracy"
+  },
+  {
+    "Model": "mT5-Base",
+    "Language": "ta",
+    "Score": 49.2,
+    "Dataset": "xcopa",
+    "Metric": "accuracy"
+  },
+  {
+    "Model": "mT5-Base",
+    "Language": "th",
+    "Score": 50.7,
+    "Dataset": "xcopa",
+    "Metric": "accuracy"
+  },
+  {
+    "Model": "mT5-Base",
+    "Language": "tr",
+    "Score": 49.5,
+    "Dataset": "xcopa",
+    "Metric": "accuracy"
+  },
+  {
+    "Model": "mT5-Base",
+    "Language": "avg",
+    "Score": 49.9,
+    "Dataset": "xcopa",
+    "Metric": "accuracy"
+  },
+  {
+    "Model": "TuLRv6 - XXL",
+    "Language": "et",
+    "Score": 77.4,
+    "Dataset": "xcopa",
+    "Metric": "accuracy"
+  },
+  {
+    "Model": "TuLRv6 - XXL",
+    "Language": "ht",
+    "Score": 78.0,
+    "Dataset": "xcopa",
+    "Metric": "accuracy"
+  },
+  {
+    "Model": "TuLRv6 - XXL",
+    "Language": "id",
+    "Score": 92.6,
+    "Dataset": "xcopa",
+    "Metric": "accuracy"
+  },
+  {
+    "Model": "TuLRv6 - XXL",
+    "Language": "it",
+    "Score": 96.0,
+    "Dataset": "xcopa",
+    "Metric": "accuracy"
+  },
+  {
+    "Model": "TuLRv6 - XXL",
+    "Language": "qu",
+    "Score": 61.0,
+    "Dataset": "xcopa",
+    "Metric": "accuracy"
+  },
+  {
+    "Model": "TuLRv6 - XXL",
+    "Language": "sw",
+    "Score": 69.4,
+    "Dataset": "xcopa",
+    "Metric": "accuracy"
+  },
+  {
+    "Model": "TuLRv6 - XXL",
+    "Language": "ta",
+    "Score": 85.4,
+    "Dataset": "xcopa",
+    "Metric": "accuracy"
+  },
+  {
+    "Model": "TuLRv6 - XXL",
+    "Language": "th",
+    "Score": 87.2,
+    "Dataset": "xcopa",
+    "Metric": "accuracy"
+  },
+  {
+    "Model": "TuLRv6 - XXL",
+    "Language": "tr",
+    "Score": 92.8,
+    "Dataset": "xcopa",
+    "Metric": "accuracy"
+  },
+  {
+    "Model": "TuLRv6 - XXL",
+    "Language": "avg",
+    "Score": 74.0,
+    "Dataset": "xcopa",
+    "Metric": "accuracy"
+  },
+  {
+    "Model": "BLOOMZ",
+    "Language": "en",
+    "Score": 88.0,
+    "Dataset": "xcopa",
+    "Metric": "accuracy"
+  },
+  {
+    "Model": "BLOOMZ",
+    "Language": "et",
+    "Score": 48.0,
+    "Dataset": "xcopa",
+    "Metric": "accuracy"
+  },
+  {
+    "Model": "BLOOMZ",
+    "Language": "ht",
+    "Score": 55.0,
+    "Dataset": "xcopa",
+    "Metric": "accuracy"
+  },
+  {
+    "Model": "BLOOMZ",
+    "Language": "id",
+    "Score": 86.0,
+    "Dataset": "xcopa",
+    "Metric": "accuracy"
+  },
+  {
+    "Model": "BLOOMZ",
+    "Language": "it",
+    "Score": 74.0,
+    "Dataset": "xcopa",
+    "Metric": "accuracy"
+  },
+  {
+    "Model": "BLOOMZ",
+    "Language": "qu",
+    "Score": 50.0,
+    "Dataset": "xcopa",
+    "Metric": "accuracy"
+  },
+  {
+    "Model": "BLOOMZ",
+    "Language": "sw",
+    "Score": 60.0,
+    "Dataset": "xcopa",
+    "Metric": "accuracy"
+  },
+  {
+    "Model": "BLOOMZ",
+    "Language": "ta",
+    "Score": 67.0,
+    "Dataset": "xcopa",
+    "Metric": "accuracy"
+  },
+  {
+    "Model": "BLOOMZ",
+    "Language": "th",
+    "Score": 50.0,
+    "Dataset": "xcopa",
+    "Metric": "accuracy"
+  },
+  {
+    "Model": "BLOOMZ",
+    "Language": "tr",
+    "Score": 54.0,
+    "Dataset": "xcopa",
+    "Metric": "accuracy"
+  },
+  {
+    "Model": "BLOOMZ",
+    "Language": "avg",
+    "Score": 63.2,
+    "Dataset": "xcopa",
+    "Metric": "accuracy"
+  },
+  {
+    "Model": "XGLM",
+    "Language": "et",
+    "Score": 65.9,
+    "Dataset": "xcopa",
+    "Metric": "accuracy"
+  },
+  {
+    "Model": "XGLM",
+    "Language": "ht",
+    "Score": 58.9,
+    "Dataset": "xcopa",
+    "Metric": "accuracy"
+  },
+  {
+    "Model": "XGLM",
+    "Language": "id",
+    "Score": 68.9,
+    "Dataset": "xcopa",
+    "Metric": "accuracy"
+  },
+  {
+    "Model": "XGLM",
+    "Language": "it",
+    "Score": 69.2,
+    "Dataset": "xcopa",
+    "Metric": "accuracy"
+  },
+  {
+    "Model": "XGLM",
+    "Language": "qu",
+    "Score": 47.1,
+    "Dataset": "xcopa",
+    "Metric": "accuracy"
+  },
+  {
+    "Model": "XGLM",
+    "Language": "sw",
+    "Score": 62.9,
+    "Dataset": "xcopa",
+    "Metric": "accuracy"
+  },
+  {
+    "Model": "XGLM",
+    "Language": "ta",
+    "Score": 56.3,
+    "Dataset": "xcopa",
+    "Metric": "accuracy"
+  },
+  {
+    "Model": "XGLM",
+    "Language": "th",
+    "Score": 62.0,
+    "Dataset": "xcopa",
+    "Metric": "accuracy"
+  },
+  {
+    "Model": "XGLM",
+    "Language": "tr",
+    "Score": 58.5,
+    "Dataset": "xcopa",
+    "Metric": "accuracy"
+  },
+  {
+    "Model": "XGLM",
+    "Language": "avg",
+    "Score": 61.1,
+    "Dataset": "xcopa",
+    "Metric": "accuracy"
+  },
+  {
+    "Model": "gpt-3.5-turbo",
+    "Language": "en",
+    "Score": 97.8,
+    "Dataset": "xcopa",
+    "Metric": "accuracy"
+  },
+  {
+    "Model": "gpt-3.5-turbo",
+    "Language": "et",
+    "Score": 90.6,
+    "Dataset": "xcopa",
+    "Metric": "accuracy"
+  },
+  {
+    "Model": "gpt-3.5-turbo",
+    "Language": "ht",
+    "Score": 72.0,
+    "Dataset": "xcopa",
+    "Metric": "accuracy"
+  },
+  {
+    "Model": "gpt-3.5-turbo",
+    "Language": "id",
+    "Score": 90.4,
+    "Dataset": "xcopa",
+    "Metric": "accuracy"
+  },
+  {
+    "Model": "gpt-3.5-turbo",
+    "Language": "it",
+    "Score": 95.2,
+    "Dataset": "xcopa",
+    "Metric": "accuracy"
+  },
+  {
+    "Model": "gpt-3.5-turbo",
+    "Language": "qu",
+    "Score": 54.6,
+    "Dataset": "xcopa",
+    "Metric": "accuracy"
+  },
+  {
+    "Model": "gpt-3.5-turbo",
+    "Language": "sw",
+    "Score": 82.0,
+    "Dataset": "xcopa",
+    "Metric": "accuracy"
+  },
+  {
+    "Model": "gpt-3.5-turbo",
+    "Language": "ta",
+    "Score": 59.0,
+    "Dataset": "xcopa",
+    "Metric": "accuracy"
+  },
+  {
+    "Model": "gpt-3.5-turbo",
+    "Language": "th",
+    "Score": 77.6,
+    "Dataset": "xcopa",
+    "Metric": "accuracy"
+  },
+  {
+    "Model": "gpt-3.5-turbo",
+    "Language": "tr",
+    "Score": 91.0,
+    "Dataset": "xcopa",
+    "Metric": "accuracy"
+  },
+  {
+    "Model": "gpt-3.5-turbo",
+    "Language": "avg",
+    "Score": 81.0,
+    "Dataset": "xcopa",
+    "Metric": "accuracy"
+  },
+  {
+    "Model": "gpt-3.5-turbo (TT)",
+    "Language": "en",
+    "Score": 97.8,
+    "Dataset": "xcopa",
+    "Metric": "accuracy"
+  },
+  {
+    "Model": "gpt-3.5-turbo (TT)",
+    "Language": "et",
+    "Score": 88.2,
+    "Dataset": "xcopa",
+    "Metric": "accuracy"
+  },
+  {
+    "Model": "gpt-3.5-turbo (TT)",
+    "Language": "ht",
+    "Score": 79.4,
+    "Dataset": "xcopa",
+    "Metric": "accuracy"
+  },
+  {
+    "Model": "gpt-3.5-turbo (TT)",
+    "Language": "id",
+    "Score": 90.8,
+    "Dataset": "xcopa",
+    "Metric": "accuracy"
+  },
+  {
+    "Model": "gpt-3.5-turbo (TT)",
+    "Language": "it",
+    "Score": 94.4,
+    "Dataset": "xcopa",
+    "Metric": "accuracy"
+  },
+  {
+    "Model": "gpt-3.5-turbo (TT)",
+    "Language": "qu",
+    "Score": 50.0,
+    "Dataset": "xcopa",
+    "Metric": "accuracy"
+  },
+  {
+    "Model": "gpt-3.5-turbo (TT)",
+    "Language": "sw",
+    "Score": 77.6,
+    "Dataset": "xcopa",
+    "Metric": "accuracy"
+  },
+  {
+    "Model": "gpt-3.5-turbo (TT)",
+    "Language": "ta",
+    "Score": 87.0,
+    "Dataset": "xcopa",
+    "Metric": "accuracy"
+  },
+  {
+    "Model": "gpt-3.5-turbo (TT)",
+    "Language": "th",
+    "Score": 82.2,
+    "Dataset": "xcopa",
+    "Metric": "accuracy"
+  },
+  {
+    "Model": "gpt-3.5-turbo (TT)",
+    "Language": "tr",
+    "Score": 87.8,
+    "Dataset": "xcopa",
+    "Metric": "accuracy"
+  },
+  {
+    "Model": "gpt-3.5-turbo (TT)",
+    "Language": "avg",
+    "Score": 83.5,
+    "Dataset": "xcopa",
+    "Metric": "accuracy"
+  },
+  {
+    "Model": "text-davinci-003",
+    "Language": "en",
+    "Score": 98.2,
+    "Dataset": "xcopa",
+    "Metric": "accuracy"
+  },
+  {
+    "Model": "text-davinci-003",
+    "Language": "et",
+    "Score": 87.8,
+    "Dataset": "xcopa",
+    "Metric": "accuracy"
+  },
+  {
+    "Model": "text-davinci-003",
+    "Language": "ht",
+    "Score": 75.0,
+    "Dataset": "xcopa",
+    "Metric": "accuracy"
+  },
+  {
+    "Model": "text-davinci-003",
+    "Language": "id",
+    "Score": 91.4,
+    "Dataset": "xcopa",
+    "Metric": "accuracy"
+  },
+  {
+    "Model": "text-davinci-003",
+    "Language": "it",
+    "Score": 96.0,
+    "Dataset": "xcopa",
+    "Metric": "accuracy"
+  },
+  {
+    "Model": "text-davinci-003",
+    "Language": "qu",
+    "Score": 54.8,
+    "Dataset": "xcopa",
+    "Metric": "accuracy"
+  },
+  {
+    "Model": "text-davinci-003",
+    "Language": "sw",
+    "Score": 63.6,
+    "Dataset": "xcopa",
+    "Metric": "accuracy"
+  },
+  {
+    "Model": "text-davinci-003",
+    "Language": "ta",
+    "Score": 53.8,
+    "Dataset": "xcopa",
+    "Metric": "accuracy"
+  },
+  {
+    "Model": "text-davinci-003",
+    "Language": "th",
+    "Score": 66.6,
+    "Dataset": "xcopa",
+    "Metric": "accuracy"
+  },
+  {
+    "Model": "text-davinci-003",
+    "Language": "tr",
+    "Score": 87.8,
+    "Dataset": "xcopa",
+    "Metric": "accuracy"
+  },
+  {
+    "Model": "text-davinci-003",
+    "Language": "avg",
+    "Score": 77.5,
+    "Dataset": "xcopa",
+    "Metric": "accuracy"
+  },
+  {
+    "Model": "text-davinci-003 (TT)",
+    "Language": "en",
+    "Score": 98.2,
+    "Dataset": "xcopa",
+    "Metric": "accuracy"
+  },
+  {
+    "Model": "text-davinci-003 (TT)",
+    "Language": "et",
+    "Score": 89.6,
+    "Dataset": "xcopa",
+    "Metric": "accuracy"
+  },
+  {
+    "Model": "text-davinci-003 (TT)",
+    "Language": "ht",
+    "Score": 82.8,
+    "Dataset": "xcopa",
+    "Metric": "accuracy"
+  },
+  {
+    "Model": "text-davinci-003 (TT)",
+    "Language": "id",
+    "Score": 93.0,
+    "Dataset": "xcopa",
+    "Metric": "accuracy"
+  },
+  {
+    "Model": "text-davinci-003 (TT)",
+    "Language": "it",
+    "Score": 94.6,
+    "Dataset": "xcopa",
+    "Metric": "accuracy"
+  },
+  {
+    "Model": "text-davinci-003 (TT)",
+    "Language": "qu",
+    "Score": 50.0,
+    "Dataset": "xcopa",
+    "Metric": "accuracy"
+  },
+  {
+    "Model": "text-davinci-003 (TT)",
+    "Language": "sw",
+    "Score": 82.8,
+    "Dataset": "xcopa",
+    "Metric": "accuracy"
+  },
+  {
+    "Model": "text-davinci-003 (TT)",
+    "Language": "ta",
+    "Score": 87.0,
+    "Dataset": "xcopa",
+    "Metric": "accuracy"
+  },
+  {
+    "Model": "text-davinci-003 (TT)",
+    "Language": "th",
+    "Score": 84.8,
+    "Dataset": "xcopa",
+    "Metric": "accuracy"
+  },
+  {
+    "Model": "text-davinci-003 (TT)",
+    "Language": "tr",
+    "Score": 89.8,
+    "Dataset": "xcopa",
+    "Metric": "accuracy"
+  },
+  {
+    "Model": "text-davinci-003 (TT)",
+    "Language": "avg",
+    "Score": 85.3,
+    "Dataset": "xcopa",
+    "Metric": "accuracy"
+  },
+  {
+    "Model": "gpt-4-32k",
+    "Language": "en",
+    "Score": 99.6,
+    "Dataset": "xcopa",
+    "Metric": "accuracy"
+  },
+  {
+    "Model": "gpt-4-32k",
+    "Language": "et",
+    "Score": 98.8,
+    "Dataset": "xcopa",
+    "Metric": "accuracy"
+  },
+  {
+    "Model": "gpt-4-32k",
+    "Language": "ht",
+    "Score": 93.2,
+    "Dataset": "xcopa",
+    "Metric": "accuracy"
+  },
+  {
+    "Model": "gpt-4-32k",
+    "Language": "id",
+    "Score": 97.6,
+    "Dataset": "xcopa",
+    "Metric": "accuracy"
+  },
+  {
+    "Model": "gpt-4-32k",
+    "Language": "it",
+    "Score": 99.8,
+    "Dataset": "xcopa",
+    "Metric": "accuracy"
+  },
+  {
+    "Model": "gpt-4-32k",
+    "Language": "qu",
+    "Score": 58.6,
+    "Dataset": "xcopa",
+    "Metric": "accuracy"
+  },
+  {
+    "Model": "gpt-4-32k",
+    "Language": "sw",
+    "Score": 94.4,
+    "Dataset": "xcopa",
+    "Metric": "accuracy"
+  },
+  {
+    "Model": "gpt-4-32k",
+    "Language": "ta",
+    "Score": 79.6,
+    "Dataset": "xcopa",
+    "Metric": "accuracy"
+  },
+  {
+    "Model": "gpt-4-32k",
+    "Language": "th",
+    "Score": 87.8,
+    "Dataset": "xcopa",
+    "Metric": "accuracy"
+  },
+  {
+    "Model": "gpt-4-32k",
+    "Language": "tr",
+    "Score": 97.4,
+    "Dataset": "xcopa",
+    "Metric": "accuracy"
+  },
+  {
+    "Model": "gpt-4-32k",
+    "Language": "avg",
+    "Score": 90.7,
+    "Dataset": "xcopa",
+    "Metric": "accuracy"
+  },
+  {
+    "Model": "gpt-4-32k (TT)",
+    "Language": "en",
+    "Score": 99.6,
+    "Dataset": "xcopa",
+    "Metric": "accuracy"
+  },
+  {
+    "Model": "gpt-4-32k (TT)",
+    "Language": "et",
+    "Score": 94.4,
+    "Dataset": "xcopa",
+    "Metric": "accuracy"
+  },
+  {
+    "Model": "gpt-4-32k (TT)",
+    "Language": "ht",
+    "Score": 85.8,
+    "Dataset": "xcopa",
+    "Metric": "accuracy"
+  },
+  {
+    "Model": "gpt-4-32k (TT)",
+    "Language": "id",
+    "Score": 96.0,
+    "Dataset": "xcopa",
+    "Metric": "accuracy"
+  },
+  {
+    "Model": "gpt-4-32k (TT)",
+    "Language": "it",
+    "Score": 98.2,
+    "Dataset": "xcopa",
+    "Metric": "accuracy"
+  },
+  {
+    "Model": "gpt-4-32k (TT)",
+    "Language": "qu",
+    "Score": 85.8,
+    "Dataset": "xcopa",
+    "Metric": "accuracy"
+  },
+  {
+    "Model": "gpt-4-32k (TT)",
+    "Language": "sw",
+    "Score": 83.4,
+    "Dataset": "xcopa",
+    "Metric": "accuracy"
+  },
+  {
+    "Model": "gpt-4-32k (TT)",
+    "Language": "ta",
+    "Score": 91.4,
+    "Dataset": "xcopa",
+    "Metric": "accuracy"
+  },
+  {
+    "Model": "gpt-4-32k (TT)",
+    "Language": "th",
+    "Score": 87.8,
+    "Dataset": "xcopa",
+    "Metric": "accuracy"
+  },
+  {
+    "Model": "gpt-4-32k (TT)",
+    "Language": "tr",
+    "Score": 92.2,
+    "Dataset": "xcopa",
+    "Metric": "accuracy"
+  },
+  {
+    "Model": "gpt-4-32k (TT)",
+    "Language": "avg",
+    "Score": 90.6,
+    "Dataset": "xcopa",
+    "Metric": "accuracy"
+  },
+  {
+    "Model": "mBERT",
+    "Language": "en",
+    "Score": 83.5,
+    "Dataset": "xquad",
+    "Metric": "f1"
+  },
+  {
+    "Model": "mBERT",
+    "Language": "ar",
+    "Score": 61.5,
+    "Dataset": "xquad",
+    "Metric": "f1"
+  },
+  {
+    "Model": "mBERT",
+    "Language": "de",
+    "Score": 70.6,
+    "Dataset": "xquad",
+    "Metric": "f1"
+  },
+  {
+    "Model": "mBERT",
+    "Language": "el",
+    "Score": 62.6,
+    "Dataset": "xquad",
+    "Metric": "f1"
+  },
+  {
+    "Model": "mBERT",
+    "Language": "es",
+    "Score": 75.5,
+    "Dataset": "xquad",
+    "Metric": "f1"
+  },
+  {
+    "Model": "mBERT",
+    "Language": "hi",
+    "Score": 59.2,
+    "Dataset": "xquad",
+    "Metric": "f1"
+  },
+  {
+    "Model": "mBERT",
+    "Language": "ru",
+    "Score": 71.3,
+    "Dataset": "xquad",
+    "Metric": "f1"
+  },
+  {
+    "Model": "mBERT",
+    "Language": "th",
+    "Score": 42.7,
+    "Dataset": "xquad",
+    "Metric": "f1"
+  },
+  {
+    "Model": "mBERT",
+    "Language": "tr",
+    "Score": 55.4,
+    "Dataset": "xquad",
+    "Metric": "f1"
+  },
+  {
+    "Model": "mBERT",
+    "Language": "vi",
+    "Score": 69.5,
+    "Dataset": "xquad",
+    "Metric": "f1"
+  },
+  {
+    "Model": "mBERT",
+    "Language": "zh",
+    "Score": 58.0,
+    "Dataset": "xquad",
+    "Metric": "f1"
+  },
+  {
+    "Model": "mBERT",
+    "Language": "avg",
+    "Score": 64.5,
+    "Dataset": "xquad",
+    "Metric": "f1"
+  },
+  {
+    "Model": "mT5-Base",
+    "Language": "en",
+    "Score": 84.6,
+    "Dataset": "xquad",
+    "Metric": "f1"
+  },
+  {
+    "Model": "mT5-Base",
+    "Language": "ar",
+    "Score": 63.8,
+    "Dataset": "xquad",
+    "Metric": "f1"
+  },
+  {
+    "Model": "mT5-Base",
+    "Language": "de",
+    "Score": 73.8,
+    "Dataset": "xquad",
+    "Metric": "f1"
+  },
+  {
+    "Model": "mT5-Base",
+    "Language": "el",
+    "Score": 59.6,
+    "Dataset": "xquad",
+    "Metric": "f1"
+  },
+  {
+    "Model": "mT5-Base",
+    "Language": "es",
+    "Score": 74.8,
+    "Dataset": "xquad",
+    "Metric": "f1"
+  },
+  {
+    "Model": "mT5-Base",
+    "Language": "hi",
+    "Score": 60.3,
+    "Dataset": "xquad",
+    "Metric": "f1"
+  },
+  {
+    "Model": "mT5-Base",
+    "Language": "ru",
+    "Score": 57.8,
+    "Dataset": "xquad",
+    "Metric": "f1"
+  },
+  {
+    "Model": "mT5-Base",
+    "Language": "th",
+    "Score": 57.6,
+    "Dataset": "xquad",
+    "Metric": "f1"
+  },
+  {
+    "Model": "mT5-Base",
+    "Language": "tr",
+    "Score": 67.9,
+    "Dataset": "xquad",
+    "Metric": "f1"
+  },
+  {
+    "Model": "mT5-Base",
+    "Language": "vi",
+    "Score": 70.7,
+    "Dataset": "xquad",
+    "Metric": "f1"
+  },
+  {
+    "Model": "mT5-Base",
+    "Language": "zh",
+    "Score": 66.1,
+    "Dataset": "xquad",
+    "Metric": "f1"
+  },
+  {
+    "Model": "mT5-Base",
+    "Language": "avg",
+    "Score": 67.0,
+    "Dataset": "xquad",
+    "Metric": "f1"
+  },
+  {
+    "Model": "XLM-R Large",
+    "Language": "en",
+    "Score": 86.5,
+    "Dataset": "xquad",
+    "Metric": "f1"
+  },
+  {
+    "Model": "XLM-R Large",
+    "Language": "ar",
+    "Score": 68.6,
+    "Dataset": "xquad",
+    "Metric": "f1"
+  },
+  {
+    "Model": "XLM-R Large",
+    "Language": "de",
+    "Score": 80.4,
+    "Dataset": "xquad",
+    "Metric": "f1"
+  },
+  {
+    "Model": "XLM-R Large",
+    "Language": "el",
+    "Score": 79.8,
+    "Dataset": "xquad",
+    "Metric": "f1"
+  },
+  {
+    "Model": "XLM-R Large",
+    "Language": "es",
+    "Score": 82.0,
+    "Dataset": "xquad",
+    "Metric": "f1"
+  },
+  {
+    "Model": "XLM-R Large",
+    "Language": "hi",
+    "Score": 76.7,
+    "Dataset": "xquad",
+    "Metric": "f1"
+  },
+  {
+    "Model": "XLM-R Large",
+    "Language": "ru",
+    "Score": 80.1,
+    "Dataset": "xquad",
+    "Metric": "f1"
+  },
+  {
+    "Model": "XLM-R Large",
+    "Language": "th",
+    "Score": 74.2,
+    "Dataset": "xquad",
+    "Metric": "f1"
+  },
+  {
+    "Model": "XLM-R Large",
+    "Language": "tr",
+    "Score": 75.9,
+    "Dataset": "xquad",
+    "Metric": "f1"
+  },
+  {
+    "Model": "XLM-R Large",
+    "Language": "vi",
+    "Score": 79.1,
+    "Dataset": "xquad",
+    "Metric": "f1"
+  },
+  {
+    "Model": "XLM-R Large",
+    "Language": "zh",
+    "Score": 59.3,
+    "Dataset": "xquad",
+    "Metric": "f1"
+  },
+  {
+    "Model": "XLM-R Large",
+    "Language": "avg",
+    "Score": 76.6,
+    "Dataset": "xquad",
+    "Metric": "f1"
+  },
+  {
+    "Model": "TuLRv6 - XXL",
+    "Language": "en",
+    "Score": 90.1,
+    "Dataset": "xquad",
+    "Metric": "f1"
+  },
+  {
+    "Model": "TuLRv6 - XXL",
+    "Language": "ar",
+    "Score": 85.4,
+    "Dataset": "xquad",
+    "Metric": "f1"
+  },
+  {
+    "Model": "TuLRv6 - XXL",
+    "Language": "de",
+    "Score": 86.1,
+    "Dataset": "xquad",
+    "Metric": "f1"
+  },
+  {
+    "Model": "TuLRv6 - XXL",
+    "Language": "el",
+    "Score": 86.3,
+    "Dataset": "xquad",
+    "Metric": "f1"
+  },
+  {
+    "Model": "TuLRv6 - XXL",
+    "Language": "es",
+    "Score": 87.6,
+    "Dataset": "xquad",
+    "Metric": "f1"
+  },
+  {
+    "Model": "TuLRv6 - XXL",
+    "Language": "hi",
+    "Score": 85.9,
+    "Dataset": "xquad",
+    "Metric": "f1"
+  },
+  {
+    "Model": "TuLRv6 - XXL",
+    "Language": "ru",
+    "Score": 86.8,
+    "Dataset": "xquad",
+    "Metric": "f1"
+  },
+  {
+    "Model": "TuLRv6 - XXL",
+    "Language": "th",
+    "Score": 87.0,
+    "Dataset": "xquad",
+    "Metric": "f1"
+  },
+  {
+    "Model": "TuLRv6 - XXL",
+    "Language": "tr",
+    "Score": 84.3,
+    "Dataset": "xquad",
+    "Metric": "f1"
+  },
+  {
+    "Model": "TuLRv6 - XXL",
+    "Language": "vi",
+    "Score": 87.6,
+    "Dataset": "xquad",
+    "Metric": "f1"
+  },
+  {
+    "Model": "TuLRv6 - XXL",
+    "Language": "zh",
+    "Score": 79.2,
+    "Dataset": "xquad",
+    "Metric": "f1"
+  },
+  {
+    "Model": "TuLRv6 - XXL",
+    "Language": "avg",
+    "Score": 86.0,
+    "Dataset": "xquad",
+    "Metric": "f1"
+  },
+  {
+    "Model": "BLOOMZ",
+    "Language": "en",
+    "Score": 92.1,
+    "Dataset": "xquad",
+    "Metric": "f1"
+  },
+  {
+    "Model": "BLOOMZ",
+    "Language": "ar",
+    "Score": 82.8,
+    "Dataset": "xquad",
+    "Metric": "f1"
+  },
+  {
+    "Model": "BLOOMZ",
+    "Language": "de",
+    "Score": 76.3,
+    "Dataset": "xquad",
+    "Metric": "f1"
+  },
+  {
+    "Model": "BLOOMZ",
+    "Language": "el",
+    "Score": 49.7,
+    "Dataset": "xquad",
+    "Metric": "f1"
+  },
+  {
+    "Model": "BLOOMZ",
+    "Language": "es",
+    "Score": 86.8,
+    "Dataset": "xquad",
+    "Metric": "f1"
+  },
+  {
+    "Model": "BLOOMZ",
+    "Language": "hi",
+    "Score": 83.4,
+    "Dataset": "xquad",
+    "Metric": "f1"
+  },
+  {
+    "Model": "BLOOMZ",
+    "Language": "ru",
+    "Score": 65.7,
+    "Dataset": "xquad",
+    "Metric": "f1"
+  },
+  {
+    "Model": "BLOOMZ",
+    "Language": "th",
+    "Score": 20.5,
+    "Dataset": "xquad",
+    "Metric": "f1"
+  },
+  {
+    "Model": "BLOOMZ",
+    "Language": "tr",
+    "Score": 51.4,
+    "Dataset": "xquad",
+    "Metric": "f1"
+  },
+  {
+    "Model": "BLOOMZ",
+    "Language": "vi",
+    "Score": 86.9,
+    "Dataset": "xquad",
+    "Metric": "f1"
+  },
+  {
+    "Model": "BLOOMZ",
+    "Language": "zh",
+    "Score": 82.4,
+    "Dataset": "xquad",
+    "Metric": "f1"
+  },
+  {
+    "Model": "BLOOMZ",
+    "Language": "avg",
+    "Score": 70.7,
+    "Dataset": "xquad",
+    "Metric": "f1"
+  },
+  {
+    "Model": "gpt-3.5-turbo",
+    "Language": "en",
+    "Score": 79.3,
+    "Dataset": "xquad",
+    "Metric": "f1"
+  },
+  {
+    "Model": "gpt-3.5-turbo",
+    "Language": "ar",
+    "Score": 59.6,
+    "Dataset": "xquad",
+    "Metric": "f1"
+  },
+  {
+    "Model": "gpt-3.5-turbo",
+    "Language": "de",
+    "Score": 70.6,
+    "Dataset": "xquad",
+    "Metric": "f1"
+  },
+  {
+    "Model": "gpt-3.5-turbo",
+    "Language": "el",
+    "Score": 49.0,
+    "Dataset": "xquad",
+    "Metric": "f1"
+  },
+  {
+    "Model": "gpt-3.5-turbo",
+    "Language": "es",
+    "Score": 70.3,
+    "Dataset": "xquad",
+    "Metric": "f1"
+  },
+  {
+    "Model": "gpt-3.5-turbo",
+    "Language": "hi",
+    "Score": 54.0,
+    "Dataset": "xquad",
+    "Metric": "f1"
+  },
+  {
+    "Model": "gpt-3.5-turbo",
+    "Language": "ru",
+    "Score": 58.0,
+    "Dataset": "xquad",
+    "Metric": "f1"
+  },
+  {
+    "Model": "gpt-3.5-turbo",
+    "Language": "th",
+    "Score": 41.9,
+    "Dataset": "xquad",
+    "Metric": "f1"
+  },
+  {
+    "Model": "gpt-3.5-turbo",
+    "Language": "tr",
+    "Score": 61.8,
+    "Dataset": "xquad",
+    "Metric": "f1"
+  },
+  {
+    "Model": "gpt-3.5-turbo",
+    "Language": "vi",
+    "Score": 69.1,
+    "Dataset": "xquad",
+    "Metric": "f1"
+  },
+  {
+    "Model": "gpt-3.5-turbo",
+    "Language": "zh",
+    "Score": 50.4,
+    "Dataset": "xquad",
+    "Metric": "f1"
+  },
+  {
+    "Model": "gpt-3.5-turbo",
+    "Language": "avg",
+    "Score": 60.4,
+    "Dataset": "xquad",
+    "Metric": "f1"
+  },
+  {
+    "Model": "text-davinci-003",
+    "Language": "en",
+    "Score": 77.2,
+    "Dataset": "xquad",
+    "Metric": "f1"
+  },
+  {
+    "Model": "text-davinci-003",
+    "Language": "ar",
+    "Score": 36.8,
+    "Dataset": "xquad",
+    "Metric": "f1"
+  },
+  {
+    "Model": "text-davinci-003",
+    "Language": "de",
+    "Score": 55.2,
+    "Dataset": "xquad",
+    "Metric": "f1"
+  },
+  {
+    "Model": "text-davinci-003",
+    "Language": "el",
+    "Score": 31.8,
+    "Dataset": "xquad",
+    "Metric": "f1"
+  },
+  {
+    "Model": "text-davinci-003",
+    "Language": "es",
+    "Score": 61.8,
+    "Dataset": "xquad",
+    "Metric": "f1"
+  },
+  {
+    "Model": "text-davinci-003",
+    "Language": "hi",
+    "Score": 19.9,
+    "Dataset": "xquad",
+    "Metric": "f1"
+  },
+  {
+    "Model": "text-davinci-003",
+    "Language": "ru",
+    "Score": 29.4,
+    "Dataset": "xquad",
+    "Metric": "f1"
+  },
+  {
+    "Model": "text-davinci-003",
+    "Language": "th",
+    "Score": 11.5,
+    "Dataset": "xquad",
+    "Metric": "f1"
+  },
+  {
+    "Model": "text-davinci-003",
+    "Language": "tr",
+    "Score": 44.8,
+    "Dataset": "xquad",
+    "Metric": "f1"
+  },
+  {
+    "Model": "text-davinci-003",
+    "Language": "vi",
+    "Score": 41.7,
+    "Dataset": "xquad",
+    "Metric": "f1"
+  },
+  {
+    "Model": "text-davinci-003",
+    "Language": "zh",
+    "Score": 35.6,
+    "Dataset": "xquad",
+    "Metric": "f1"
+  },
+  {
+    "Model": "text-davinci-003",
+    "Language": "avg",
+    "Score": 40.5,
+    "Dataset": "xquad",
+    "Metric": "f1"
+  },
+  {
+    "Model": "gpt-4-32k",
+    "Language": "en",
+    "Score": 83.2,
+    "Dataset": "xquad",
+    "Metric": "f1"
+  },
+  {
+    "Model": "gpt-4-32k",
+    "Language": "ar",
+    "Score": 67.8,
+    "Dataset": "xquad",
+    "Metric": "f1"
+  },
+  {
+    "Model": "gpt-4-32k",
+    "Language": "de",
+    "Score": 71.9,
+    "Dataset": "xquad",
+    "Metric": "f1"
+  },
+  {
+    "Model": "gpt-4-32k",
+    "Language": "el",
+    "Score": 62.3,
+    "Dataset": "xquad",
+    "Metric": "f1"
+  },
+  {
+    "Model": "gpt-4-32k",
+    "Language": "es",
+    "Score": 77.5,
+    "Dataset": "xquad",
+    "Metric": "f1"
+  },
+  {
+    "Model": "gpt-4-32k",
+    "Language": "hi",
+    "Score": 63.9,
+    "Dataset": "xquad",
+    "Metric": "f1"
+  },
+  {
+    "Model": "gpt-4-32k",
+    "Language": "ru",
+    "Score": 63.8,
+    "Dataset": "xquad",
+    "Metric": "f1"
+  },
+  {
+    "Model": "gpt-4-32k",
+    "Language": "th",
+    "Score": 54.6,
+    "Dataset": "xquad",
+    "Metric": "f1"
+  },
+  {
+    "Model": "gpt-4-32k",
+    "Language": "tr",
+    "Score": 70.8,
+    "Dataset": "xquad",
+    "Metric": "f1"
+  },
+  {
+    "Model": "gpt-4-32k",
+    "Language": "vi",
+    "Score": 75.8,
+    "Dataset": "xquad",
+    "Metric": "f1"
+  },
+  {
+    "Model": "gpt-4-32k",
+    "Language": "zh",
+    "Score": 60.0,
+    "Dataset": "xquad",
+    "Metric": "f1"
+  },
+  {
+    "Model": "gpt-4-32k",
+    "Language": "avg",
+    "Score": 68.3,
+    "Dataset": "xquad",
+    "Metric": "f1"
+  },
+  {
+    "Model": "mBERT",
+    "Language": "en",
+    "Score": 72.2,
+    "Dataset": "xquad",
+    "Metric": "exact_match"
+  },
+  {
+    "Model": "mBERT",
+    "Language": "ar",
+    "Score": 45.1,
+    "Dataset": "xquad",
+    "Metric": "exact_match"
+  },
+  {
+    "Model": "mBERT",
+    "Language": "de",
+    "Score": 54.0,
+    "Dataset": "xquad",
+    "Metric": "exact_match"
+  },
+  {
+    "Model": "mBERT",
+    "Language": "el",
+    "Score": 44.9,
+    "Dataset": "xquad",
+    "Metric": "exact_match"
+  },
+  {
+    "Model": "mBERT",
+    "Language": "es",
+    "Score": 56.9,
+    "Dataset": "xquad",
+    "Metric": "exact_match"
+  },
+  {
+    "Model": "mBERT",
+    "Language": "hi",
+    "Score": 46.0,
+    "Dataset": "xquad",
+    "Metric": "exact_match"
+  },
+  {
+    "Model": "mBERT",
+    "Language": "ru",
+    "Score": 53.3,
+    "Dataset": "xquad",
+    "Metric": "exact_match"
+  },
+  {
+    "Model": "mBERT",
+    "Language": "th",
+    "Score": 33.5,
+    "Dataset": "xquad",
+    "Metric": "exact_match"
+  },
+  {
+    "Model": "mBERT",
+    "Language": "tr",
+    "Score": 40.1,
+    "Dataset": "xquad",
+    "Metric": "exact_match"
+  },
+  {
+    "Model": "mBERT",
+    "Language": "vi",
+    "Score": 49.6,
+    "Dataset": "xquad",
+    "Metric": "exact_match"
+  },
+  {
+    "Model": "mBERT",
+    "Language": "zh",
+    "Score": 48.3,
+    "Dataset": "xquad",
+    "Metric": "exact_match"
+  },
+  {
+    "Model": "mBERT",
+    "Language": "avg",
+    "Score": 49.4,
+    "Dataset": "xquad",
+    "Metric": "exact_match"
+  },
+  {
+    "Model": "mT5-Base",
+    "Language": "en",
+    "Score": 71.7,
+    "Dataset": "xquad",
+    "Metric": "exact_match"
+  },
+  {
+    "Model": "mT5-Base",
+    "Language": "ar",
+    "Score": 44.3,
+    "Dataset": "xquad",
+    "Metric": "exact_match"
+  },
+  {
+    "Model": "mT5-Base",
+    "Language": "de",
+    "Score": 54.5,
+    "Dataset": "xquad",
+    "Metric": "exact_match"
+  },
+  {
+    "Model": "mT5-Base",
+    "Language": "el",
+    "Score": 35.6,
+    "Dataset": "xquad",
+    "Metric": "exact_match"
+  },
+  {
+    "Model": "mT5-Base",
+    "Language": "es",
+    "Score": 56.1,
+    "Dataset": "xquad",
+    "Metric": "exact_match"
+  },
+  {
+    "Model": "mT5-Base",
+    "Language": "hi",
+    "Score": 43.4,
+    "Dataset": "xquad",
+    "Metric": "exact_match"
+  },
+  {
+    "Model": "mT5-Base",
+    "Language": "ru",
+    "Score": 34.7,
+    "Dataset": "xquad",
+    "Metric": "exact_match"
+  },
+  {
+    "Model": "mT5-Base",
+    "Language": "th",
+    "Score": 45.7,
+    "Dataset": "xquad",
+    "Metric": "exact_match"
+  },
+  {
+    "Model": "mT5-Base",
+    "Language": "tr",
+    "Score": 48.2,
+    "Dataset": "xquad",
+    "Metric": "exact_match"
+  },
+  {
+    "Model": "mT5-Base",
+    "Language": "vi",
+    "Score": 50.3,
+    "Dataset": "xquad",
+    "Metric": "exact_match"
+  },
+  {
+    "Model": "mT5-Base",
+    "Language": "zh",
+    "Score": 54.1,
+    "Dataset": "xquad",
+    "Metric": "exact_match"
+  },
+  {
+    "Model": "mT5-Base",
+    "Language": "avg",
+    "Score": 49.0,
+    "Dataset": "xquad",
+    "Metric": "exact_match"
+  },
+  {
+    "Model": "XLM-R Large",
+    "Language": "en",
+    "Score": 75.7,
+    "Dataset": "xquad",
+    "Metric": "exact_match"
+  },
+  {
+    "Model": "XLM-R Large",
+    "Language": "ar",
+    "Score": 49.0,
+    "Dataset": "xquad",
+    "Metric": "exact_match"
+  },
+  {
+    "Model": "XLM-R Large",
+    "Language": "de",
+    "Score": 63.4,
+    "Dataset": "xquad",
+    "Metric": "exact_match"
+  },
+  {
+    "Model": "XLM-R Large",
+    "Language": "el",
+    "Score": 61.7,
+    "Dataset": "xquad",
+    "Metric": "exact_match"
+  },
+  {
+    "Model": "XLM-R Large",
+    "Language": "es",
+    "Score": 63.9,
+    "Dataset": "xquad",
+    "Metric": "exact_match"
+  },
+  {
+    "Model": "XLM-R Large",
+    "Language": "hi",
+    "Score": 59.7,
+    "Dataset": "xquad",
+    "Metric": "exact_match"
+  },
+  {
+    "Model": "XLM-R Large",
+    "Language": "ru",
+    "Score": 64.3,
+    "Dataset": "xquad",
+    "Metric": "exact_match"
+  },
+  {
+    "Model": "XLM-R Large",
+    "Language": "th",
+    "Score": 62.8,
+    "Dataset": "xquad",
+    "Metric": "exact_match"
+  },
+  {
+    "Model": "XLM-R Large",
+    "Language": "tr",
+    "Score": 59.3,
+    "Dataset": "xquad",
+    "Metric": "exact_match"
+  },
+  {
+    "Model": "XLM-R Large",
+    "Language": "vi",
+    "Score": 59.0,
+    "Dataset": "xquad",
+    "Metric": "exact_match"
+  },
+  {
+    "Model": "XLM-R Large",
+    "Language": "zh",
+    "Score": 50.0,
+    "Dataset": "xquad",
+    "Metric": "exact_match"
+  },
+  {
+    "Model": "XLM-R Large",
+    "Language": "avg",
+    "Score": 60.8,
+    "Dataset": "xquad",
+    "Metric": "exact_match"
+  },
+  {
+    "Model": "TuLRv6 - XXL",
+    "Language": "en",
+    "Score": 80.6,
+    "Dataset": "xquad",
+    "Metric": "exact_match"
+  },
+  {
+    "Model": "TuLRv6 - XXL",
+    "Language": "ar",
+    "Score": 69.6,
+    "Dataset": "xquad",
+    "Metric": "exact_match"
+  },
+  {
+    "Model": "TuLRv6 - XXL",
+    "Language": "de",
+    "Score": 70.4,
+    "Dataset": "xquad",
+    "Metric": "exact_match"
+  },
+  {
+    "Model": "TuLRv6 - XXL",
+    "Language": "el",
+    "Score": 70.4,
+    "Dataset": "xquad",
+    "Metric": "exact_match"
+  },
+  {
+    "Model": "TuLRv6 - XXL",
+    "Language": "es",
+    "Score": 71.0,
+    "Dataset": "xquad",
+    "Metric": "exact_match"
+  },
+  {
+    "Model": "TuLRv6 - XXL",
+    "Language": "hi",
+    "Score": 70.5,
+    "Dataset": "xquad",
+    "Metric": "exact_match"
+  },
+  {
+    "Model": "TuLRv6 - XXL",
+    "Language": "ru",
+    "Score": 73.2,
+    "Dataset": "xquad",
+    "Metric": "exact_match"
+  },
+  {
+    "Model": "TuLRv6 - XXL",
+    "Language": "th",
+    "Score": 81.1,
+    "Dataset": "xquad",
+    "Metric": "exact_match"
+  },
+  {
+    "Model": "TuLRv6 - XXL",
+    "Language": "tr",
+    "Score": 71.0,
+    "Dataset": "xquad",
+    "Metric": "exact_match"
+  },
+  {
+    "Model": "TuLRv6 - XXL",
+    "Language": "vi",
+    "Score": 71.3,
+    "Dataset": "xquad",
+    "Metric": "exact_match"
+  },
+  {
+    "Model": "TuLRv6 - XXL",
+    "Language": "zh",
+    "Score": 73.2,
+    "Dataset": "xquad",
+    "Metric": "exact_match"
+  },
+  {
+    "Model": "TuLRv6 - XXL",
+    "Language": "avg",
+    "Score": 72.9,
+    "Dataset": "xquad",
+    "Metric": "exact_match"
+  },
+  {
+    "Model": "BLOOMZ",
+    "Language": "en",
+    "Score": 83.8,
+    "Dataset": "xquad",
+    "Metric": "exact_match"
+  },
+  {
+    "Model": "BLOOMZ",
+    "Language": "ar",
+    "Score": 69.7,
+    "Dataset": "xquad",
+    "Metric": "exact_match"
+  },
+  {
+    "Model": "BLOOMZ",
+    "Language": "de",
+    "Score": 60.4,
+    "Dataset": "xquad",
+    "Metric": "exact_match"
+  },
+  {
+    "Model": "BLOOMZ",
+    "Language": "el",
+    "Score": 37.6,
+    "Dataset": "xquad",
+    "Metric": "exact_match"
+  },
+  {
+    "Model": "BLOOMZ",
+    "Language": "es",
+    "Score": 71.4,
+    "Dataset": "xquad",
+    "Metric": "exact_match"
+  },
+  {
+    "Model": "BLOOMZ",
+    "Language": "hi",
+    "Score": 72.9,
+    "Dataset": "xquad",
+    "Metric": "exact_match"
+  },
+  {
+    "Model": "BLOOMZ",
+    "Language": "ru",
+    "Score": 47.2,
+    "Dataset": "xquad",
+    "Metric": "exact_match"
+  },
+  {
+    "Model": "BLOOMZ",
+    "Language": "th",
+    "Score": 15.5,
+    "Dataset": "xquad",
+    "Metric": "exact_match"
+  },
+  {
+    "Model": "BLOOMZ",
+    "Language": "tr",
+    "Score": 37.2,
+    "Dataset": "xquad",
+    "Metric": "exact_match"
+  },
+  {
+    "Model": "BLOOMZ",
+    "Language": "vi",
+    "Score": 72.7,
+    "Dataset": "xquad",
+    "Metric": "exact_match"
+  },
+  {
+    "Model": "BLOOMZ",
+    "Language": "zh",
+    "Score": 78.6,
+    "Dataset": "xquad",
+    "Metric": "exact_match"
+  },
+  {
+    "Model": "BLOOMZ",
+    "Language": "avg",
+    "Score": 58.8,
+    "Dataset": "xquad",
+    "Metric": "exact_match"
+  },
+  {
+    "Model": "gpt-3.5-turbo",
+    "Language": "en",
+    "Score": 58.7,
+    "Dataset": "xquad",
+    "Metric": "exact_match"
+  },
+  {
+    "Model": "gpt-3.5-turbo",
+    "Language": "ar",
+    "Score": 35.1,
+    "Dataset": "xquad",
+    "Metric": "exact_match"
+  },
+  {
+    "Model": "gpt-3.5-turbo",
+    "Language": "de",
+    "Score": 46.6,
+    "Dataset": "xquad",
+    "Metric": "exact_match"
+  },
+  {
+    "Model": "gpt-3.5-turbo",
+    "Language": "el",
+    "Score": 22.8,
+    "Dataset": "xquad",
+    "Metric": "exact_match"
+  },
+  {
+    "Model": "gpt-3.5-turbo",
+    "Language": "es",
+    "Score": 40.8,
+    "Dataset": "xquad",
+    "Metric": "exact_match"
+  },
+  {
+    "Model": "gpt-3.5-turbo",
+    "Language": "hi",
+    "Score": 29.0,
+    "Dataset": "xquad",
+    "Metric": "exact_match"
+  },
+  {
+    "Model": "gpt-3.5-turbo",
+    "Language": "ru",
+    "Score": 31.3,
+    "Dataset": "xquad",
+    "Metric": "exact_match"
+  },
+  {
+    "Model": "gpt-3.5-turbo",
+    "Language": "th",
+    "Score": 30.4,
+    "Dataset": "xquad",
+    "Metric": "exact_match"
+  },
+  {
+    "Model": "gpt-3.5-turbo",
+    "Language": "tr",
+    "Score": 35.0,
+    "Dataset": "xquad",
+    "Metric": "exact_match"
+  },
+  {
+    "Model": "gpt-3.5-turbo",
+    "Language": "vi",
+    "Score": 42.4,
+    "Dataset": "xquad",
+    "Metric": "exact_match"
+  },
+  {
+    "Model": "gpt-3.5-turbo",
+    "Language": "zh",
+    "Score": 48.3,
+    "Dataset": "xquad",
+    "Metric": "exact_match"
+  },
+  {
+    "Model": "gpt-3.5-turbo",
+    "Language": "avg",
+    "Score": 38.2,
+    "Dataset": "xquad",
+    "Metric": "exact_match"
+  },
+  {
+    "Model": "text-davinci-003",
+    "Language": "en",
+    "Score": 61.8,
+    "Dataset": "xquad",
+    "Metric": "exact_match"
+  },
+  {
+    "Model": "text-davinci-003",
+    "Language": "ar",
+    "Score": 22.5,
+    "Dataset": "xquad",
+    "Metric": "exact_match"
+  },
+  {
+    "Model": "text-davinci-003",
+    "Language": "de",
+    "Score": 39.7,
+    "Dataset": "xquad",
+    "Metric": "exact_match"
+  },
+  {
+    "Model": "text-davinci-003",
+    "Language": "el",
+    "Score": 19.7,
+    "Dataset": "xquad",
+    "Metric": "exact_match"
+  },
+  {
+    "Model": "text-davinci-003",
+    "Language": "es",
+    "Score": 41.3,
+    "Dataset": "xquad",
+    "Metric": "exact_match"
+  },
+  {
+    "Model": "text-davinci-003",
+    "Language": "hi",
+    "Score": 10.0,
+    "Dataset": "xquad",
+    "Metric": "exact_match"
+  },
+  {
+    "Model": "text-davinci-003",
+    "Language": "ru",
+    "Score": 17.6,
+    "Dataset": "xquad",
+    "Metric": "exact_match"
+  },
+  {
+    "Model": "text-davinci-003",
+    "Language": "th",
+    "Score": 8.7,
+    "Dataset": "xquad",
+    "Metric": "exact_match"
+  },
+  {
+    "Model": "text-davinci-003",
+    "Language": "tr",
+    "Score": 29.2,
+    "Dataset": "xquad",
+    "Metric": "exact_match"
+  },
+  {
+    "Model": "text-davinci-003",
+    "Language": "vi",
+    "Score": 25.4,
+    "Dataset": "xquad",
+    "Metric": "exact_match"
+  },
+  {
+    "Model": "text-davinci-003",
+    "Language": "zh",
+    "Score": 32.8,
+    "Dataset": "xquad",
+    "Metric": "exact_match"
+  },
+  {
+    "Model": "text-davinci-003",
+    "Language": "avg",
+    "Score": 28.1,
+    "Dataset": "xquad",
+    "Metric": "exact_match"
+  },
+  {
+    "Model": "gpt-4-32k",
+    "Language": "en",
+    "Score": 65.6,
+    "Dataset": "xquad",
+    "Metric": "exact_match"
+  },
+  {
+    "Model": "gpt-4-32k",
+    "Language": "ar",
+    "Score": 42.4,
+    "Dataset": "xquad",
+    "Metric": "exact_match"
+  },
+  {
+    "Model": "gpt-4-32k",
+    "Language": "de",
+    "Score": 48.7,
+    "Dataset": "xquad",
+    "Metric": "exact_match"
+  },
+  {
+    "Model": "gpt-4-32k",
+    "Language": "el",
+    "Score": 36.6,
+    "Dataset": "xquad",
+    "Metric": "exact_match"
+  },
+  {
+    "Model": "gpt-4-32k",
+    "Language": "es",
+    "Score": 50.7,
+    "Dataset": "xquad",
+    "Metric": "exact_match"
+  },
+  {
+    "Model": "gpt-4-32k",
+    "Language": "hi",
+    "Score": 36.7,
+    "Dataset": "xquad",
+    "Metric": "exact_match"
+  },
+  {
+    "Model": "gpt-4-32k",
+    "Language": "ru",
+    "Score": 35.8,
+    "Dataset": "xquad",
+    "Metric": "exact_match"
+  },
+  {
+    "Model": "gpt-4-32k",
+    "Language": "th",
+    "Score": 42.0,
+    "Dataset": "xquad",
+    "Metric": "exact_match"
+  },
+  {
+    "Model": "gpt-4-32k",
+    "Language": "tr",
+    "Score": 46.6,
+    "Dataset": "xquad",
+    "Metric": "exact_match"
+  },
+  {
+    "Model": "gpt-4-32k",
+    "Language": "vi",
+    "Score": 49.7,
+    "Dataset": "xquad",
+    "Metric": "exact_match"
+  },
+  {
+    "Model": "gpt-4-32k",
+    "Language": "zh",
+    "Score": 57.5,
+    "Dataset": "xquad",
+    "Metric": "exact_match"
+  },
+  {
+    "Model": "gpt-4-32k",
+    "Language": "avg",
+    "Score": 46.6,
+    "Dataset": "xquad",
+    "Metric": "exact_match"
+  },
+  {
+    "Model": "mBERT",
+    "Language": "en",
+    "Score": 75.3,
+    "Dataset": "tydiqa",
+    "Metric": "f1"
+  },
+  {
+    "Model": "mBERT",
+    "Language": "ar",
+    "Score": 62.2,
+    "Dataset": "tydiqa",
+    "Metric": "f1"
+  },
+  {
+    "Model": "mBERT",
+    "Language": "bn",
+    "Score": 49.3,
+    "Dataset": "tydiqa",
+    "Metric": "f1"
+  },
+  {
+    "Model": "mBERT",
+    "Language": "fi",
+    "Score": 59.7,
+    "Dataset": "tydiqa",
+    "Metric": "f1"
+  },
+  {
+    "Model": "mBERT",
+    "Language": "id",
+    "Score": 64.8,
+    "Dataset": "tydiqa",
+    "Metric": "f1"
+  },
+  {
+    "Model": "mBERT",
+    "Language": "ko",
+    "Score": 58.8,
+    "Dataset": "tydiqa",
+    "Metric": "f1"
+  },
+  {
+    "Model": "mBERT",
+    "Language": "ru",
+    "Score": 60.0,
+    "Dataset": "tydiqa",
+    "Metric": "f1"
+  },
+  {
+    "Model": "mBERT",
+    "Language": "sw",
+    "Score": 57.5,
+    "Dataset": "tydiqa",
+    "Metric": "f1"
+  },
+  {
+    "Model": "mBERT",
+    "Language": "te",
+    "Score": 49.6,
+    "Dataset": "tydiqa",
+    "Metric": "f1"
+  },
+  {
+    "Model": "mBERT",
+    "Language": "avg",
+    "Score": 59.7,
+    "Dataset": "tydiqa",
+    "Metric": "f1"
+  },
+  {
+    "Model": "mT5-Base",
+    "Language": "en",
+    "Score": 71.8,
+    "Dataset": "tydiqa",
+    "Metric": "f1"
+  },
+  {
+    "Model": "mT5-Base",
+    "Language": "ar",
+    "Score": 67.1,
+    "Dataset": "tydiqa",
+    "Metric": "f1"
+  },
+  {
+    "Model": "mT5-Base",
+    "Language": "bn",
+    "Score": 40.7,
+    "Dataset": "tydiqa",
+    "Metric": "f1"
+  },
+  {
+    "Model": "mT5-Base",
+    "Language": "fi",
+    "Score": 67.0,
+    "Dataset": "tydiqa",
+    "Metric": "f1"
+  },
+  {
+    "Model": "mT5-Base",
+    "Language": "id",
+    "Score": 71.3,
+    "Dataset": "tydiqa",
+    "Metric": "f1"
+  },
+  {
+    "Model": "mT5-Base",
+    "Language": "ko",
+    "Score": 49.5,
+    "Dataset": "tydiqa",
+    "Metric": "f1"
+  },
+  {
+    "Model": "mT5-Base",
+    "Language": "ru",
+    "Score": 54.9,
+    "Dataset": "tydiqa",
+    "Metric": "f1"
+  },
+  {
+    "Model": "mT5-Base",
+    "Language": "sw",
+    "Score": 60.4,
+    "Dataset": "tydiqa",
+    "Metric": "f1"
+  },
+  {
+    "Model": "mT5-Base",
+    "Language": "te",
+    "Score": 40.6,
+    "Dataset": "tydiqa",
+    "Metric": "f1"
+  },
+  {
+    "Model": "mT5-Base",
+    "Language": "avg",
+    "Score": 58.1,
+    "Dataset": "tydiqa",
+    "Metric": "f1"
+  },
+  {
+    "Model": "XLM-R Large",
+    "Language": "en",
+    "Score": 71.5,
+    "Dataset": "tydiqa",
+    "Metric": "f1"
+  },
+  {
+    "Model": "XLM-R Large",
+    "Language": "ar",
+    "Score": 67.6,
+    "Dataset": "tydiqa",
+    "Metric": "f1"
+  },
+  {
+    "Model": "XLM-R Large",
+    "Language": "bn",
+    "Score": 64.0,
+    "Dataset": "tydiqa",
+    "Metric": "f1"
+  },
+  {
+    "Model": "XLM-R Large",
+    "Language": "fi",
+    "Score": 70.5,
+    "Dataset": "tydiqa",
+    "Metric": "f1"
+  },
+  {
+    "Model": "XLM-R Large",
+    "Language": "id",
+    "Score": 77.4,
+    "Dataset": "tydiqa",
+    "Metric": "f1"
+  },
+  {
+    "Model": "XLM-R Large",
+    "Language": "ko",
+    "Score": 31.9,
+    "Dataset": "tydiqa",
+    "Metric": "f1"
+  },
+  {
+    "Model": "XLM-R Large",
+    "Language": "ru",
+    "Score": 67.0,
+    "Dataset": "tydiqa",
+    "Metric": "f1"
+  },
+  {
+    "Model": "XLM-R Large",
+    "Language": "sw",
+    "Score": 66.1,
+    "Dataset": "tydiqa",
+    "Metric": "f1"
+  },
+  {
+    "Model": "XLM-R Large",
+    "Language": "te",
+    "Score": 70.1,
+    "Dataset": "tydiqa",
+    "Metric": "f1"
+  },
+  {
+    "Model": "XLM-R Large",
+    "Language": "avg",
+    "Score": 65.1,
+    "Dataset": "tydiqa",
+    "Metric": "f1"
+  },
+  {
+    "Model": "TuLRv6 - XXL",
+    "Language": "en",
+    "Score": 85.4,
+    "Dataset": "tydiqa",
+    "Metric": "f1"
+  },
+  {
+    "Model": "TuLRv6 - XXL",
+    "Language": "ar",
+    "Score": 84.1,
+    "Dataset": "tydiqa",
+    "Metric": "f1"
+  },
+  {
+    "Model": "TuLRv6 - XXL",
+    "Language": "bn",
+    "Score": 86.9,
+    "Dataset": "tydiqa",
+    "Metric": "f1"
+  },
+  {
+    "Model": "TuLRv6 - XXL",
+    "Language": "fi",
+    "Score": 83.8,
+    "Dataset": "tydiqa",
+    "Metric": "f1"
+  },
+  {
+    "Model": "TuLRv6 - XXL",
+    "Language": "id",
+    "Score": 88.8,
+    "Dataset": "tydiqa",
+    "Metric": "f1"
+  },
+  {
+    "Model": "TuLRv6 - XXL",
+    "Language": "ko",
+    "Score": 78.5,
+    "Dataset": "tydiqa",
+    "Metric": "f1"
+  },
+  {
+    "Model": "TuLRv6 - XXL",
+    "Language": "ru",
+    "Score": 81.9,
+    "Dataset": "tydiqa",
+    "Metric": "f1"
+  },
+  {
+    "Model": "TuLRv6 - XXL",
+    "Language": "sw",
+    "Score": 87.2,
+    "Dataset": "tydiqa",
+    "Metric": "f1"
+  },
+  {
+    "Model": "TuLRv6 - XXL",
+    "Language": "te",
+    "Score": 85.2,
+    "Dataset": "tydiqa",
+    "Metric": "f1"
+  },
+  {
+    "Model": "TuLRv6 - XXL",
+    "Language": "avg",
+    "Score": 84.6,
+    "Dataset": "tydiqa",
+    "Metric": "f1"
+  },
+  {
+    "Model": "BLOOMZ",
+    "Language": "en",
+    "Score": 82.4,
+    "Dataset": "tydiqa",
+    "Metric": "f1"
+  },
+  {
+    "Model": "BLOOMZ",
+    "Language": "ar",
+    "Score": 81.9,
+    "Dataset": "tydiqa",
+    "Metric": "f1"
+  },
+  {
+    "Model": "BLOOMZ",
+    "Language": "bn",
+    "Score": 87.8,
+    "Dataset": "tydiqa",
+    "Metric": "f1"
+  },
+  {
+    "Model": "BLOOMZ",
+    "Language": "fi",
+    "Score": 43.6,
+    "Dataset": "tydiqa",
+    "Metric": "f1"
+  },
+  {
+    "Model": "BLOOMZ",
+    "Language": "id",
+    "Score": 85.0,
+    "Dataset": "tydiqa",
+    "Metric": "f1"
+  },
+  {
+    "Model": "BLOOMZ",
+    "Language": "ko",
+    "Score": 52.3,
+    "Dataset": "tydiqa",
+    "Metric": "f1"
+  },
+  {
+    "Model": "BLOOMZ",
+    "Language": "ru",
+    "Score": 67.4,
+    "Dataset": "tydiqa",
+    "Metric": "f1"
+  },
+  {
+    "Model": "BLOOMZ",
+    "Language": "sw",
+    "Score": 86.0,
+    "Dataset": "tydiqa",
+    "Metric": "f1"
+  },
+  {
+    "Model": "BLOOMZ",
+    "Language": "te",
+    "Score": 90.3,
+    "Dataset": "tydiqa",
+    "Metric": "f1"
+  },
+  {
+    "Model": "BLOOMZ",
+    "Language": "avg",
+    "Score": 75.2,
+    "Dataset": "tydiqa",
+    "Metric": "f1"
+  },
+  {
+    "Model": "gpt-3.5-turbo",
+    "Language": "en",
+    "Score": 54.8,
+    "Dataset": "tydiqa",
+    "Metric": "f1"
+  },
+  {
+    "Model": "gpt-3.5-turbo",
+    "Language": "ar",
+    "Score": 50.9,
+    "Dataset": "tydiqa",
+    "Metric": "f1"
+  },
+  {
+    "Model": "gpt-3.5-turbo",
+    "Language": "bn",
+    "Score": 60.7,
+    "Dataset": "tydiqa",
+    "Metric": "f1"
+  },
+  {
+    "Model": "gpt-3.5-turbo",
+    "Language": "fi",
+    "Score": 66.6,
+    "Dataset": "tydiqa",
+    "Metric": "f1"
+  },
+  {
+    "Model": "gpt-3.5-turbo",
+    "Language": "id",
+    "Score": 67.2,
+    "Dataset": "tydiqa",
+    "Metric": "f1"
+  },
+  {
+    "Model": "gpt-3.5-turbo",
+    "Language": "ko",
+    "Score": 59.7,
+    "Dataset": "tydiqa",
+    "Metric": "f1"
+  },
+  {
+    "Model": "gpt-3.5-turbo",
+    "Language": "ru",
+    "Score": 45.8,
+    "Dataset": "tydiqa",
+    "Metric": "f1"
+  },
+  {
+    "Model": "gpt-3.5-turbo",
+    "Language": "sw",
+    "Score": 64.3,
+    "Dataset": "tydiqa",
+    "Metric": "f1"
+  },
+  {
+    "Model": "gpt-3.5-turbo",
+    "Language": "te",
+    "Score": 70.9,
+    "Dataset": "tydiqa",
+    "Metric": "f1"
+  },
+  {
+    "Model": "gpt-3.5-turbo",
+    "Language": "avg",
+    "Score": 60.1,
+    "Dataset": "tydiqa",
+    "Metric": "f1"
+  },
+  {
+    "Model": "text-davinci-003",
+    "Language": "en",
+    "Score": 73.7,
+    "Dataset": "tydiqa",
+    "Metric": "f1"
+  },
+  {
+    "Model": "text-davinci-003",
+    "Language": "ar",
+    "Score": 56.2,
+    "Dataset": "tydiqa",
+    "Metric": "f1"
+  },
+  {
+    "Model": "text-davinci-003",
+    "Language": "bn",
+    "Score": 16.1,
+    "Dataset": "tydiqa",
+    "Metric": "f1"
+  },
+  {
+    "Model": "text-davinci-003",
+    "Language": "fi",
+    "Score": 70.3,
+    "Dataset": "tydiqa",
+    "Metric": "f1"
+  },
+  {
+    "Model": "text-davinci-003",
+    "Language": "id",
+    "Score": 68.6,
+    "Dataset": "tydiqa",
+    "Metric": "f1"
+  },
+  {
+    "Model": "text-davinci-003",
+    "Language": "ko",
+    "Score": 40.6,
+    "Dataset": "tydiqa",
+    "Metric": "f1"
+  },
+  {
+    "Model": "text-davinci-003",
+    "Language": "ru",
+    "Score": 42.3,
+    "Dataset": "tydiqa",
+    "Metric": "f1"
+  },
+  {
+    "Model": "text-davinci-003",
+    "Language": "sw",
+    "Score": 74.1,
+    "Dataset": "tydiqa",
+    "Metric": "f1"
+  },
+  {
+    "Model": "text-davinci-003",
+    "Language": "te",
+    "Score": 5.8,
+    "Dataset": "tydiqa",
+    "Metric": "f1"
+  },
+  {
+    "Model": "text-davinci-003",
+    "Language": "avg",
+    "Score": 49.8,
+    "Dataset": "tydiqa",
+    "Metric": "f1"
+  },
+  {
+    "Model": "gpt-4-32k",
+    "Language": "en",
+    "Score": 72.9,
+    "Dataset": "tydiqa",
+    "Metric": "f1"
+  },
+  {
+    "Model": "gpt-4-32k",
+    "Language": "ar",
+    "Score": 60.8,
+    "Dataset": "tydiqa",
+    "Metric": "f1"
+  },
+  {
+    "Model": "gpt-4-32k",
+    "Language": "bn",
+    "Score": 68.0,
+    "Dataset": "tydiqa",
+    "Metric": "f1"
+  },
+  {
+    "Model": "gpt-4-32k",
+    "Language": "fi",
+    "Score": 75.4,
+    "Dataset": "tydiqa",
+    "Metric": "f1"
+  },
+  {
+    "Model": "gpt-4-32k",
+    "Language": "id",
+    "Score": 80.8,
+    "Dataset": "tydiqa",
+    "Metric": "f1"
+  },
+  {
+    "Model": "gpt-4-32k",
+    "Language": "ko",
+    "Score": 69.7,
+    "Dataset": "tydiqa",
+    "Metric": "f1"
+  },
+  {
+    "Model": "gpt-4-32k",
+    "Language": "ru",
+    "Score": 61.4,
+    "Dataset": "tydiqa",
+    "Metric": "f1"
+  },
+  {
+    "Model": "gpt-4-32k",
+    "Language": "sw",
+    "Score": 81.8,
+    "Dataset": "tydiqa",
+    "Metric": "f1"
+  },
+  {
+    "Model": "gpt-4-32k",
+    "Language": "te",
+    "Score": 72.5,
+    "Dataset": "tydiqa",
+    "Metric": "f1"
+  },
+  {
+    "Model": "gpt-4-32k",
+    "Language": "avg",
+    "Score": 71.5,
+    "Dataset": "tydiqa",
+    "Metric": "f1"
+  },
+  {
+    "Model": "mBERT",
+    "Language": "en",
+    "Score": 63.6,
+    "Dataset": "tydiqa",
+    "Metric": "exact_match"
+  },
+  {
+    "Model": "mBERT",
+    "Language": "ar",
+    "Score": 42.8,
+    "Dataset": "tydiqa",
+    "Metric": "exact_match"
+  },
+  {
+    "Model": "mBERT",
+    "Language": "bn",
+    "Score": 32.7,
+    "Dataset": "tydiqa",
+    "Metric": "exact_match"
+  },
+  {
+    "Model": "mBERT",
+    "Language": "fi",
+    "Score": 45.3,
+    "Dataset": "tydiqa",
+    "Metric": "exact_match"
+  },
+  {
+    "Model": "mBERT",
+    "Language": "id",
+    "Score": 45.8,
+    "Dataset": "tydiqa",
+    "Metric": "exact_match"
+  },
+  {
+    "Model": "mBERT",
+    "Language": "ko",
+    "Score": 50.0,
+    "Dataset": "tydiqa",
+    "Metric": "exact_match"
+  },
+  {
+    "Model": "mBERT",
+    "Language": "ru",
+    "Score": 38.8,
+    "Dataset": "tydiqa",
+    "Metric": "exact_match"
+  },
+  {
+    "Model": "mBERT",
+    "Language": "sw",
+    "Score": 37.9,
+    "Dataset": "tydiqa",
+    "Metric": "exact_match"
+  },
+  {
+    "Model": "mBERT",
+    "Language": "te",
+    "Score": 38.4,
+    "Dataset": "tydiqa",
+    "Metric": "exact_match"
+  },
+  {
+    "Model": "mBERT",
+    "Language": "avg",
+    "Score": 43.9,
+    "Dataset": "tydiqa",
+    "Metric": "exact_match"
+  },
+  {
+    "Model": "mT5-Base",
+    "Language": "en",
+    "Score": 60.9,
+    "Dataset": "tydiqa",
+    "Metric": "exact_match"
+  },
+  {
+    "Model": "mT5-Base",
+    "Language": "ar",
+    "Score": 50.4,
+    "Dataset": "tydiqa",
+    "Metric": "exact_match"
+  },
+  {
+    "Model": "mT5-Base",
+    "Language": "bn",
+    "Score": 22.1,
+    "Dataset": "tydiqa",
+    "Metric": "exact_match"
+  },
+  {
+    "Model": "mT5-Base",
+    "Language": "fi",
+    "Score": 52.2,
+    "Dataset": "tydiqa",
+    "Metric": "exact_match"
+  },
+  {
+    "Model": "mT5-Base",
+    "Language": "id",
+    "Score": 54.5,
+    "Dataset": "tydiqa",
+    "Metric": "exact_match"
+  },
+  {
+    "Model": "mT5-Base",
+    "Language": "ko",
+    "Score": 37.7,
+    "Dataset": "tydiqa",
+    "Metric": "exact_match"
+  },
+  {
+    "Model": "mT5-Base",
+    "Language": "ru",
+    "Score": 32.6,
+    "Dataset": "tydiqa",
+    "Metric": "exact_match"
+  },
+  {
+    "Model": "mT5-Base",
+    "Language": "sw",
+    "Score": 43.9,
+    "Dataset": "tydiqa",
+    "Metric": "exact_match"
+  },
+  {
+    "Model": "mT5-Base",
+    "Language": "te",
+    "Score": 31.1,
+    "Dataset": "tydiqa",
+    "Metric": "exact_match"
+  },
+  {
+    "Model": "mT5-Base",
+    "Language": "avg",
+    "Score": 42.8,
+    "Dataset": "tydiqa",
+    "Metric": "exact_match"
+  },
+  {
+    "Model": "XLM-R Large",
+    "Language": "en",
+    "Score": 56.8,
+    "Dataset": "tydiqa",
+    "Metric": "exact_match"
+  },
+  {
+    "Model": "XLM-R Large",
+    "Language": "ar",
+    "Score": 40.4,
+    "Dataset": "tydiqa",
+    "Metric": "exact_match"
+  },
+  {
+    "Model": "XLM-R Large",
+    "Language": "bn",
+    "Score": 47.8,
+    "Dataset": "tydiqa",
+    "Metric": "exact_match"
+  },
+  {
+    "Model": "XLM-R Large",
+    "Language": "fi",
+    "Score": 53.2,
+    "Dataset": "tydiqa",
+    "Metric": "exact_match"
+  },
+  {
+    "Model": "XLM-R Large",
+    "Language": "id",
+    "Score": 61.9,
+    "Dataset": "tydiqa",
+    "Metric": "exact_match"
+  },
+  {
+    "Model": "XLM-R Large",
+    "Language": "ko",
+    "Score": 10.9,
+    "Dataset": "tydiqa",
+    "Metric": "exact_match"
+  },
+  {
+    "Model": "XLM-R Large",
+    "Language": "ru",
+    "Score": 42.1,
+    "Dataset": "tydiqa",
+    "Metric": "exact_match"
+  },
+  {
+    "Model": "XLM-R Large",
+    "Language": "sw",
+    "Score": 48.1,
+    "Dataset": "tydiqa",
+    "Metric": "exact_match"
+  },
+  {
+    "Model": "XLM-R Large",
+    "Language": "te",
+    "Score": 43.6,
+    "Dataset": "tydiqa",
+    "Metric": "exact_match"
+  },
+  {
+    "Model": "XLM-R Large",
+    "Language": "avg",
+    "Score": 45.0,
+    "Dataset": "tydiqa",
+    "Metric": "exact_match"
+  },
+  {
+    "Model": "TuLRv6 - XXL",
+    "Language": "en",
+    "Score": 76.4,
+    "Dataset": "tydiqa",
+    "Metric": "exact_match"
+  },
+  {
+    "Model": "TuLRv6 - XXL",
+    "Language": "ar",
+    "Score": 70.4,
+    "Dataset": "tydiqa",
+    "Metric": "exact_match"
+  },
+  {
+    "Model": "TuLRv6 - XXL",
+    "Language": "bn",
+    "Score": 79.6,
+    "Dataset": "tydiqa",
+    "Metric": "exact_match"
+  },
+  {
+    "Model": "TuLRv6 - XXL",
+    "Language": "fi",
+    "Score": 72.8,
+    "Dataset": "tydiqa",
+    "Metric": "exact_match"
+  },
+  {
+    "Model": "TuLRv6 - XXL",
+    "Language": "id",
+    "Score": 77.9,
+    "Dataset": "tydiqa",
+    "Metric": "exact_match"
+  },
+  {
+    "Model": "TuLRv6 - XXL",
+    "Language": "ko",
+    "Score": 67.8,
+    "Dataset": "tydiqa",
+    "Metric": "exact_match"
+  },
+  {
+    "Model": "TuLRv6 - XXL",
+    "Language": "ru",
+    "Score": 68.6,
+    "Dataset": "tydiqa",
+    "Metric": "exact_match"
+  },
+  {
+    "Model": "TuLRv6 - XXL",
+    "Language": "sw",
+    "Score": 79.6,
+    "Dataset": "tydiqa",
+    "Metric": "exact_match"
+  },
+  {
+    "Model": "TuLRv6 - XXL",
+    "Language": "te",
+    "Score": 71.6,
+    "Dataset": "tydiqa",
+    "Metric": "exact_match"
+  },
+  {
+    "Model": "TuLRv6 - XXL",
+    "Language": "avg",
+    "Score": 73.8,
+    "Dataset": "tydiqa",
+    "Metric": "exact_match"
+  },
+  {
+    "Model": "BLOOMZ",
+    "Language": "en",
+    "Score": 70.9,
+    "Dataset": "tydiqa",
+    "Metric": "exact_match"
+  },
+  {
+    "Model": "BLOOMZ",
+    "Language": "ar",
+    "Score": 62.2,
+    "Dataset": "tydiqa",
+    "Metric": "exact_match"
+  },
+  {
+    "Model": "BLOOMZ",
+    "Language": "bn",
+    "Score": 82.3,
+    "Dataset": "tydiqa",
+    "Metric": "exact_match"
+  },
+  {
+    "Model": "BLOOMZ",
+    "Language": "fi",
+    "Score": 28.6,
+    "Dataset": "tydiqa",
+    "Metric": "exact_match"
+  },
+  {
+    "Model": "BLOOMZ",
+    "Language": "id",
+    "Score": 71.0,
+    "Dataset": "tydiqa",
+    "Metric": "exact_match"
+  },
+  {
+    "Model": "BLOOMZ",
+    "Language": "ko",
+    "Score": 43.1,
+    "Dataset": "tydiqa",
+    "Metric": "exact_match"
+  },
+  {
+    "Model": "BLOOMZ",
+    "Language": "ru",
+    "Score": 51.5,
+    "Dataset": "tydiqa",
+    "Metric": "exact_match"
+  },
+  {
+    "Model": "BLOOMZ",
+    "Language": "sw",
+    "Score": 77.2,
+    "Dataset": "tydiqa",
+    "Metric": "exact_match"
+  },
+  {
+    "Model": "BLOOMZ",
+    "Language": "te",
+    "Score": 81.6,
+    "Dataset": "tydiqa",
+    "Metric": "exact_match"
+  },
+  {
+    "Model": "BLOOMZ",
+    "Language": "avg",
+    "Score": 63.2,
+    "Dataset": "tydiqa",
+    "Metric": "exact_match"
+  },
+  {
+    "Model": "gpt-3.5-turbo",
+    "Language": "en",
+    "Score": 30.7,
+    "Dataset": "tydiqa",
+    "Metric": "exact_match"
+  },
+  {
+    "Model": "gpt-3.5-turbo",
+    "Language": "ar",
+    "Score": 24.2,
+    "Dataset": "tydiqa",
+    "Metric": "exact_match"
+  },
+  {
+    "Model": "gpt-3.5-turbo",
+    "Language": "bn",
+    "Score": 32.7,
+    "Dataset": "tydiqa",
+    "Metric": "exact_match"
+  },
+  {
+    "Model": "gpt-3.5-turbo",
+    "Language": "fi",
+    "Score": 49.0,
+    "Dataset": "tydiqa",
+    "Metric": "exact_match"
+  },
+  {
+    "Model": "gpt-3.5-turbo",
+    "Language": "id",
+    "Score": 43.4,
+    "Dataset": "tydiqa",
+    "Metric": "exact_match"
+  },
+  {
+    "Model": "gpt-3.5-turbo",
+    "Language": "ko",
+    "Score": 45.3,
+    "Dataset": "tydiqa",
+    "Metric": "exact_match"
+  },
+  {
+    "Model": "gpt-3.5-turbo",
+    "Language": "ru",
+    "Score": 20.0,
+    "Dataset": "tydiqa",
+    "Metric": "exact_match"
+  },
+  {
+    "Model": "gpt-3.5-turbo",
+    "Language": "sw",
+    "Score": 47.7,
+    "Dataset": "tydiqa",
+    "Metric": "exact_match"
+  },
+  {
+    "Model": "gpt-3.5-turbo",
+    "Language": "te",
+    "Score": 53.1,
+    "Dataset": "tydiqa",
+    "Metric": "exact_match"
+  },
+  {
+    "Model": "gpt-3.5-turbo",
+    "Language": "avg",
+    "Score": 38.4,
+    "Dataset": "tydiqa",
+    "Metric": "exact_match"
+  },
+  {
+    "Model": "text-davinci-003",
+    "Language": "en",
+    "Score": 59.1,
+    "Dataset": "tydiqa",
+    "Metric": "exact_match"
+  },
+  {
+    "Model": "text-davinci-003",
+    "Language": "ar",
+    "Score": 38.7,
+    "Dataset": "tydiqa",
+    "Metric": "exact_match"
+  },
+  {
+    "Model": "text-davinci-003",
+    "Language": "bn",
+    "Score": 10.6,
+    "Dataset": "tydiqa",
+    "Metric": "exact_match"
+  },
+  {
+    "Model": "text-davinci-003",
+    "Language": "fi",
+    "Score": 58.8,
+    "Dataset": "tydiqa",
+    "Metric": "exact_match"
+  },
+  {
+    "Model": "text-davinci-003",
+    "Language": "id",
+    "Score": 51.2,
+    "Dataset": "tydiqa",
+    "Metric": "exact_match"
+  },
+  {
+    "Model": "text-davinci-003",
+    "Language": "ko",
+    "Score": 32.2,
+    "Dataset": "tydiqa",
+    "Metric": "exact_match"
+  },
+  {
+    "Model": "text-davinci-003",
+    "Language": "ru",
+    "Score": 28.9,
+    "Dataset": "tydiqa",
+    "Metric": "exact_match"
+  },
+  {
+    "Model": "text-davinci-003",
+    "Language": "sw",
+    "Score": 62.3,
+    "Dataset": "tydiqa",
+    "Metric": "exact_match"
+  },
+  {
+    "Model": "text-davinci-003",
+    "Language": "te",
+    "Score": 3.0,
+    "Dataset": "tydiqa",
+    "Metric": "exact_match"
+  },
+  {
+    "Model": "text-davinci-003",
+    "Language": "avg",
+    "Score": 38.3,
+    "Dataset": "tydiqa",
+    "Metric": "exact_match"
+  },
+  {
+    "Model": "gpt-4-32k",
+    "Language": "en",
+    "Score": 51.4,
+    "Dataset": "tydiqa",
+    "Metric": "exact_match"
+  },
+  {
+    "Model": "gpt-4-32k",
+    "Language": "ar",
+    "Score": 32.7,
+    "Dataset": "tydiqa",
+    "Metric": "exact_match"
+  },
+  {
+    "Model": "gpt-4-32k",
+    "Language": "bn",
+    "Score": 42.5,
+    "Dataset": "tydiqa",
+    "Metric": "exact_match"
+  },
+  {
+    "Model": "gpt-4-32k",
+    "Language": "fi",
+    "Score": 57.7,
+    "Dataset": "tydiqa",
+    "Metric": "exact_match"
+  },
+  {
+    "Model": "gpt-4-32k",
+    "Language": "id",
+    "Score": 61.1,
+    "Dataset": "tydiqa",
+    "Metric": "exact_match"
+  },
+  {
+    "Model": "gpt-4-32k",
+    "Language": "ko",
+    "Score": 58.5,
+    "Dataset": "tydiqa",
+    "Metric": "exact_match"
+  },
+  {
+    "Model": "gpt-4-32k",
+    "Language": "ru",
+    "Score": 30.5,
+    "Dataset": "tydiqa",
+    "Metric": "exact_match"
+  },
+  {
+    "Model": "gpt-4-32k",
+    "Language": "sw",
+    "Score": 68.7,
+    "Dataset": "tydiqa",
+    "Metric": "exact_match"
+  },
+  {
+    "Model": "gpt-4-32k",
+    "Language": "te",
+    "Score": 54.9,
+    "Dataset": "tydiqa",
+    "Metric": "exact_match"
+  },
+  {
+    "Model": "gpt-4-32k",
+    "Language": "avg",
+    "Score": 50.9,
+    "Dataset": "tydiqa",
+    "Metric": "exact_match"
+  },
+  {
+    "Model": "mBERT",
+    "Language": "en",
+    "Score": 80.2,
+    "Dataset": "mlqa",
+    "Metric": "f1"
+  },
+  {
+    "Model": "mBERT",
+    "Language": "ar",
+    "Score": 52.3,
+    "Dataset": "mlqa",
+    "Metric": "f1"
+  },
+  {
+    "Model": "mBERT",
+    "Language": "de",
+    "Score": 59.0,
+    "Dataset": "mlqa",
+    "Metric": "f1"
+  },
+  {
+    "Model": "mBERT",
+    "Language": "es",
+    "Score": 67.4,
+    "Dataset": "mlqa",
+    "Metric": "f1"
+  },
+  {
+    "Model": "mBERT",
+    "Language": "hi",
+    "Score": 50.2,
+    "Dataset": "mlqa",
+    "Metric": "f1"
+  },
+  {
+    "Model": "mBERT",
+    "Language": "vi",
+    "Score": 61.2,
+    "Dataset": "mlqa",
+    "Metric": "f1"
+  },
+  {
+    "Model": "mBERT",
+    "Language": "zh",
+    "Score": 59.6,
+    "Dataset": "mlqa",
+    "Metric": "f1"
+  },
+  {
+    "Model": "mBERT",
+    "Language": "avg",
+    "Score": 61.4,
+    "Dataset": "mlqa",
+    "Metric": "f1"
+  },
+  {
+    "Model": "mT5-Base",
+    "Language": "en",
+    "Score": 81.7,
+    "Dataset": "mlqa",
+    "Metric": "f1"
+  },
+  {
+    "Model": "mT5-Base",
+    "Language": "ar",
+    "Score": 57.1,
+    "Dataset": "mlqa",
+    "Metric": "f1"
+  },
+  {
+    "Model": "mT5-Base",
+    "Language": "de",
+    "Score": 62.1,
+    "Dataset": "mlqa",
+    "Metric": "f1"
+  },
+  {
+    "Model": "mT5-Base",
+    "Language": "es",
+    "Score": 67.1,
+    "Dataset": "mlqa",
+    "Metric": "f1"
+  },
+  {
+    "Model": "mT5-Base",
+    "Language": "hi",
+    "Score": 55.4,
+    "Dataset": "mlqa",
+    "Metric": "f1"
+  },
+  {
+    "Model": "mT5-Base",
+    "Language": "vi",
+    "Score": 65.9,
+    "Dataset": "mlqa",
+    "Metric": "f1"
+  },
+  {
+    "Model": "mT5-Base",
+    "Language": "zh",
+    "Score": 61.6,
+    "Dataset": "mlqa",
+    "Metric": "f1"
+  },
+  {
+    "Model": "mT5-Base",
+    "Language": "avg",
+    "Score": 64.4,
+    "Dataset": "mlqa",
+    "Metric": "f1"
+  },
+  {
+    "Model": "XLM-R Large",
+    "Language": "en",
+    "Score": 83.5,
+    "Dataset": "mlqa",
+    "Metric": "f1"
+  },
+  {
+    "Model": "XLM-R Large",
+    "Language": "ar",
+    "Score": 66.6,
+    "Dataset": "mlqa",
+    "Metric": "f1"
+  },
+  {
+    "Model": "XLM-R Large",
+    "Language": "de",
+    "Score": 70.1,
+    "Dataset": "mlqa",
+    "Metric": "f1"
+  },
+  {
+    "Model": "XLM-R Large",
+    "Language": "es",
+    "Score": 74.1,
+    "Dataset": "mlqa",
+    "Metric": "f1"
+  },
+  {
+    "Model": "XLM-R Large",
+    "Language": "hi",
+    "Score": 70.6,
+    "Dataset": "mlqa",
+    "Metric": "f1"
+  },
+  {
+    "Model": "XLM-R Large",
+    "Language": "vi",
+    "Score": 74.0,
+    "Dataset": "mlqa",
+    "Metric": "f1"
+  },
+  {
+    "Model": "XLM-R Large",
+    "Language": "zh",
+    "Score": 62.1,
+    "Dataset": "mlqa",
+    "Metric": "f1"
+  },
+  {
+    "Model": "XLM-R Large",
+    "Language": "avg",
+    "Score": 71.6,
+    "Dataset": "mlqa",
+    "Metric": "f1"
+  },
+  {
+    "Model": "TuLRv6 - XXL",
+    "Language": "en",
+    "Score": 86.6,
+    "Dataset": "mlqa",
+    "Metric": "f1"
+  },
+  {
+    "Model": "TuLRv6 - XXL",
+    "Language": "ar",
+    "Score": 76.2,
+    "Dataset": "mlqa",
+    "Metric": "f1"
+  },
+  {
+    "Model": "TuLRv6 - XXL",
+    "Language": "de",
+    "Score": 80.2,
+    "Dataset": "mlqa",
+    "Metric": "f1"
+  },
+  {
+    "Model": "TuLRv6 - XXL",
+    "Language": "es",
+    "Score": 81.7,
+    "Dataset": "mlqa",
+    "Metric": "f1"
+  },
+  {
+    "Model": "TuLRv6 - XXL",
+    "Language": "hi",
+    "Score": 82.2,
+    "Dataset": "mlqa",
+    "Metric": "f1"
+  },
+  {
+    "Model": "TuLRv6 - XXL",
+    "Language": "vi",
+    "Score": 82.3,
+    "Dataset": "mlqa",
+    "Metric": "f1"
+  },
+  {
+    "Model": "TuLRv6 - XXL",
+    "Language": "zh",
+    "Score": 78.1,
+    "Dataset": "mlqa",
+    "Metric": "f1"
+  },
+  {
+    "Model": "TuLRv6 - XXL",
+    "Language": "avg",
+    "Score": 81.0,
+    "Dataset": "mlqa",
+    "Metric": "f1"
+  },
+  {
+    "Model": "gpt-3.5-turbo",
+    "Language": "en",
+    "Score": 72.8,
+    "Dataset": "mlqa",
+    "Metric": "f1"
+  },
+  {
+    "Model": "gpt-3.5-turbo",
+    "Language": "ar",
+    "Score": 48.5,
+    "Dataset": "mlqa",
+    "Metric": "f1"
+  },
+  {
+    "Model": "gpt-3.5-turbo",
+    "Language": "de",
+    "Score": 51.0,
+    "Dataset": "mlqa",
+    "Metric": "f1"
+  },
+  {
+    "Model": "gpt-3.5-turbo",
+    "Language": "es",
+    "Score": 53.8,
+    "Dataset": "mlqa",
+    "Metric": "f1"
+  },
+  {
+    "Model": "gpt-3.5-turbo",
+    "Language": "hi",
+    "Score": 50.7,
+    "Dataset": "mlqa",
+    "Metric": "f1"
+  },
+  {
+    "Model": "gpt-3.5-turbo",
+    "Language": "vi",
+    "Score": 58.9,
+    "Dataset": "mlqa",
+    "Metric": "f1"
+  },
+  {
+    "Model": "gpt-3.5-turbo",
+    "Language": "zh",
+    "Score": 56.7,
+    "Dataset": "mlqa",
+    "Metric": "f1"
+  },
+  {
+    "Model": "gpt-3.5-turbo",
+    "Language": "avg",
+    "Score": 56.1,
+    "Dataset": "mlqa",
+    "Metric": "f1"
+  },
+  {
+    "Model": "gpt-3.5-turbo (TT)",
+    "Language": "en",
+    "Score": 72.8,
+    "Dataset": "mlqa",
+    "Metric": "f1"
+  },
+  {
+    "Model": "gpt-3.5-turbo (TT)",
+    "Language": "ar",
+    "Score": 37.8,
+    "Dataset": "mlqa",
+    "Metric": "f1"
+  },
+  {
+    "Model": "gpt-3.5-turbo (TT)",
+    "Language": "de",
+    "Score": 44.3,
+    "Dataset": "mlqa",
+    "Metric": "f1"
+  },
+  {
+    "Model": "gpt-3.5-turbo (TT)",
+    "Language": "es",
+    "Score": 54.1,
+    "Dataset": "mlqa",
+    "Metric": "f1"
+  },
+  {
+    "Model": "gpt-3.5-turbo (TT)",
+    "Language": "hi",
+    "Score": 37.3,
+    "Dataset": "mlqa",
+    "Metric": "f1"
+  },
+  {
+    "Model": "gpt-3.5-turbo (TT)",
+    "Language": "vi",
+    "Score": 41.6,
+    "Dataset": "mlqa",
+    "Metric": "f1"
+  },
+  {
+    "Model": "gpt-3.5-turbo (TT)",
+    "Language": "zh",
+    "Score": 36.5,
+    "Dataset": "mlqa",
+    "Metric": "f1"
+  },
+  {
+    "Model": "gpt-3.5-turbo (TT)",
+    "Language": "avg",
+    "Score": 46.4,
+    "Dataset": "mlqa",
+    "Metric": "f1"
+  },
+  {
+    "Model": "text-davinci-003",
+    "Language": "en",
+    "Score": 74.8,
+    "Dataset": "mlqa",
+    "Metric": "f1"
+  },
+  {
+    "Model": "text-davinci-003",
+    "Language": "ar",
+    "Score": 38.4,
+    "Dataset": "mlqa",
+    "Metric": "f1"
+  },
+  {
+    "Model": "text-davinci-003",
+    "Language": "de",
+    "Score": 57.7,
+    "Dataset": "mlqa",
+    "Metric": "f1"
+  },
+  {
+    "Model": "text-davinci-003",
+    "Language": "es",
+    "Score": 62.9,
+    "Dataset": "mlqa",
+    "Metric": "f1"
+  },
+  {
+    "Model": "text-davinci-003",
+    "Language": "hi",
+    "Score": 24.9,
+    "Dataset": "mlqa",
+    "Metric": "f1"
+  },
+  {
+    "Model": "text-davinci-003",
+    "Language": "vi",
+    "Score": 47.7,
+    "Dataset": "mlqa",
+    "Metric": "f1"
+  },
+  {
+    "Model": "text-davinci-003",
+    "Language": "zh",
+    "Score": 32.3,
+    "Dataset": "mlqa",
+    "Metric": "f1"
+  },
+  {
+    "Model": "text-davinci-003",
+    "Language": "avg",
+    "Score": 48.4,
+    "Dataset": "mlqa",
+    "Metric": "f1"
+  },
+  {
+    "Model": "text-davinci-003 (TT)",
+    "Language": "en",
+    "Score": 74.8,
+    "Dataset": "mlqa",
+    "Metric": "f1"
+  },
+  {
+    "Model": "text-davinci-003 (TT)",
+    "Language": "ar",
+    "Score": 48.2,
+    "Dataset": "mlqa",
+    "Metric": "f1"
+  },
+  {
+    "Model": "text-davinci-003 (TT)",
+    "Language": "de",
+    "Score": 53.5,
+    "Dataset": "mlqa",
+    "Metric": "f1"
+  },
+  {
+    "Model": "text-davinci-003 (TT)",
+    "Language": "es",
+    "Score": 62.9,
+    "Dataset": "mlqa",
+    "Metric": "f1"
+  },
+  {
+    "Model": "text-davinci-003 (TT)",
+    "Language": "hi",
+    "Score": 49.2,
+    "Dataset": "mlqa",
+    "Metric": "f1"
+  },
+  {
+    "Model": "text-davinci-003 (TT)",
+    "Language": "vi",
+    "Score": 51.0,
+    "Dataset": "mlqa",
+    "Metric": "f1"
+  },
+  {
+    "Model": "text-davinci-003 (TT)",
+    "Language": "zh",
+    "Score": 45.2,
+    "Dataset": "mlqa",
+    "Metric": "f1"
+  },
+  {
+    "Model": "text-davinci-003 (TT)",
+    "Language": "avg",
+    "Score": 55.0,
+    "Dataset": "mlqa",
+    "Metric": "f1"
+  },
+  {
+    "Model": "gpt-4-32k",
+    "Language": "en",
+    "Score": 80.3,
+    "Dataset": "mlqa",
+    "Metric": "f1"
+  },
+  {
+    "Model": "gpt-4-32k",
+    "Language": "ar",
+    "Score": 59.1,
+    "Dataset": "mlqa",
+    "Metric": "f1"
+  },
+  {
+    "Model": "gpt-4-32k",
+    "Language": "de",
+    "Score": 64.7,
+    "Dataset": "mlqa",
+    "Metric": "f1"
+  },
+  {
+    "Model": "gpt-4-32k",
+    "Language": "es",
+    "Score": 70.0,
+    "Dataset": "mlqa",
+    "Metric": "f1"
+  },
+  {
+    "Model": "gpt-4-32k",
+    "Language": "hi",
+    "Score": 57.3,
+    "Dataset": "mlqa",
+    "Metric": "f1"
+  },
+  {
+    "Model": "gpt-4-32k",
+    "Language": "vi",
+    "Score": 72.2,
+    "Dataset": "mlqa",
+    "Metric": "f1"
+  },
+  {
+    "Model": "gpt-4-32k",
+    "Language": "zh",
+    "Score": 67.1,
+    "Dataset": "mlqa",
+    "Metric": "f1"
+  },
+  {
+    "Model": "gpt-4-32k",
+    "Language": "avg",
+    "Score": 67.2,
+    "Dataset": "mlqa",
+    "Metric": "f1"
+  },
+  {
+    "Model": "mBERT",
+    "Language": "en",
+    "Score": 67.0,
+    "Dataset": "mlqa",
+    "Metric": "exact_match"
+  },
+  {
+    "Model": "mBERT",
+    "Language": "ar",
+    "Score": 34.6,
+    "Dataset": "mlqa",
+    "Metric": "exact_match"
+  },
+  {
+    "Model": "mBERT",
+    "Language": "de",
+    "Score": 43.8,
+    "Dataset": "mlqa",
+    "Metric": "exact_match"
+  },
+  {
+    "Model": "mBERT",
+    "Language": "es",
+    "Score": 49.2,
+    "Dataset": "mlqa",
+    "Metric": "exact_match"
+  },
+  {
+    "Model": "mBERT",
+    "Language": "hi",
+    "Score": 35.3,
+    "Dataset": "mlqa",
+    "Metric": "exact_match"
+  },
+  {
+    "Model": "mBERT",
+    "Language": "vi",
+    "Score": 40.7,
+    "Dataset": "mlqa",
+    "Metric": "exact_match"
+  },
+  {
+    "Model": "mBERT",
+    "Language": "zh",
+    "Score": 38.6,
+    "Dataset": "mlqa",
+    "Metric": "exact_match"
+  },
+  {
+    "Model": "mBERT",
+    "Language": "avg",
+    "Score": 44.2,
+    "Dataset": "mlqa",
+    "Metric": "exact_match"
+  },
+  {
+    "Model": "mT5-Base",
+    "Language": "en",
+    "Score": 66.9,
+    "Dataset": "mlqa",
+    "Metric": "exact_match"
+  },
+  {
+    "Model": "mT5-Base",
+    "Language": "ar",
+    "Score": 36.9,
+    "Dataset": "mlqa",
+    "Metric": "exact_match"
+  },
+  {
+    "Model": "mT5-Base",
+    "Language": "de",
+    "Score": 43.2,
+    "Dataset": "mlqa",
+    "Metric": "exact_match"
+  },
+  {
+    "Model": "mT5-Base",
+    "Language": "es",
+    "Score": 47.2,
+    "Dataset": "mlqa",
+    "Metric": "exact_match"
+  },
+  {
+    "Model": "mT5-Base",
+    "Language": "hi",
+    "Score": 37.9,
+    "Dataset": "mlqa",
+    "Metric": "exact_match"
+  },
+  {
+    "Model": "mT5-Base",
+    "Language": "vi",
+    "Score": 44.1,
+    "Dataset": "mlqa",
+    "Metric": "exact_match"
+  },
+  {
+    "Model": "mT5-Base",
+    "Language": "zh",
+    "Score": 38.6,
+    "Dataset": "mlqa",
+    "Metric": "exact_match"
+  },
+  {
+    "Model": "mT5-Base",
+    "Language": "avg",
+    "Score": 45.0,
+    "Dataset": "mlqa",
+    "Metric": "exact_match"
+  },
+  {
+    "Model": "XLM-R Large",
+    "Language": "en",
+    "Score": 70.6,
+    "Dataset": "mlqa",
+    "Metric": "exact_match"
+  },
+  {
+    "Model": "XLM-R Large",
+    "Language": "ar",
+    "Score": 47.1,
+    "Dataset": "mlqa",
+    "Metric": "exact_match"
+  },
+  {
+    "Model": "XLM-R Large",
+    "Language": "de",
+    "Score": 54.9,
+    "Dataset": "mlqa",
+    "Metric": "exact_match"
+  },
+  {
+    "Model": "XLM-R Large",
+    "Language": "es",
+    "Score": 56.6,
+    "Dataset": "mlqa",
+    "Metric": "exact_match"
+  },
+  {
+    "Model": "XLM-R Large",
+    "Language": "hi",
+    "Score": 53.1,
+    "Dataset": "mlqa",
+    "Metric": "exact_match"
+  },
+  {
+    "Model": "XLM-R Large",
+    "Language": "vi",
+    "Score": 52.9,
+    "Dataset": "mlqa",
+    "Metric": "exact_match"
+  },
+  {
+    "Model": "XLM-R Large",
+    "Language": "zh",
+    "Score": 37.0,
+    "Dataset": "mlqa",
+    "Metric": "exact_match"
+  },
+  {
+    "Model": "XLM-R Large",
+    "Language": "avg",
+    "Score": 53.2,
+    "Dataset": "mlqa",
+    "Metric": "exact_match"
+  },
+  {
+    "Model": "TuLRv6 - XXL",
+    "Language": "en",
+    "Score": 74.4,
+    "Dataset": "mlqa",
+    "Metric": "exact_match"
+  },
+  {
+    "Model": "TuLRv6 - XXL",
+    "Language": "ar",
+    "Score": 56.5,
+    "Dataset": "mlqa",
+    "Metric": "exact_match"
+  },
+  {
+    "Model": "TuLRv6 - XXL",
+    "Language": "de",
+    "Score": 67.0,
+    "Dataset": "mlqa",
+    "Metric": "exact_match"
+  },
+  {
+    "Model": "TuLRv6 - XXL",
+    "Language": "es",
+    "Score": 65.1,
+    "Dataset": "mlqa",
+    "Metric": "exact_match"
+  },
+  {
+    "Model": "TuLRv6 - XXL",
+    "Language": "hi",
+    "Score": 64.8,
+    "Dataset": "mlqa",
+    "Metric": "exact_match"
+  },
+  {
+    "Model": "TuLRv6 - XXL",
+    "Language": "vi",
+    "Score": 63.2,
+    "Dataset": "mlqa",
+    "Metric": "exact_match"
+  },
+  {
+    "Model": "TuLRv6 - XXL",
+    "Language": "zh",
+    "Score": 56.5,
+    "Dataset": "mlqa",
+    "Metric": "exact_match"
+  },
+  {
+    "Model": "TuLRv6 - XXL",
+    "Language": "avg",
+    "Score": 63.9,
+    "Dataset": "mlqa",
+    "Metric": "exact_match"
+  },
+  {
+    "Model": "gpt-3.5-turbo",
+    "Language": "en",
+    "Score": 53.2,
+    "Dataset": "mlqa",
+    "Metric": "exact_match"
+  },
+  {
+    "Model": "gpt-3.5-turbo",
+    "Language": "ar",
+    "Score": 23.9,
+    "Dataset": "mlqa",
+    "Metric": "exact_match"
+  },
+  {
+    "Model": "gpt-3.5-turbo",
+    "Language": "de",
+    "Score": 29.6,
+    "Dataset": "mlqa",
+    "Metric": "exact_match"
+  },
+  {
+    "Model": "gpt-3.5-turbo",
+    "Language": "es",
+    "Score": 29.4,
+    "Dataset": "mlqa",
+    "Metric": "exact_match"
+  },
+  {
+    "Model": "gpt-3.5-turbo",
+    "Language": "hi",
+    "Score": 28.9,
+    "Dataset": "mlqa",
+    "Metric": "exact_match"
+  },
+  {
+    "Model": "gpt-3.5-turbo",
+    "Language": "vi",
+    "Score": 35.1,
+    "Dataset": "mlqa",
+    "Metric": "exact_match"
+  },
+  {
+    "Model": "gpt-3.5-turbo",
+    "Language": "zh",
+    "Score": 29.4,
+    "Dataset": "mlqa",
+    "Metric": "exact_match"
+  },
+  {
+    "Model": "gpt-3.5-turbo",
+    "Language": "avg",
+    "Score": 32.8,
+    "Dataset": "mlqa",
+    "Metric": "exact_match"
+  },
+  {
+    "Model": "gpt-3.5-turbo (TT)",
+    "Language": "en",
+    "Score": 53.2,
+    "Dataset": "mlqa",
+    "Metric": "exact_match"
+  },
+  {
+    "Model": "gpt-3.5-turbo (TT)",
+    "Language": "ar",
+    "Score": 18.4,
+    "Dataset": "mlqa",
+    "Metric": "exact_match"
+  },
+  {
+    "Model": "gpt-3.5-turbo (TT)",
+    "Language": "de",
+    "Score": 26.2,
+    "Dataset": "mlqa",
+    "Metric": "exact_match"
+  },
+  {
+    "Model": "gpt-3.5-turbo (TT)",
+    "Language": "es",
+    "Score": 31.8,
+    "Dataset": "mlqa",
+    "Metric": "exact_match"
+  },
+  {
+    "Model": "gpt-3.5-turbo (TT)",
+    "Language": "hi",
+    "Score": 20.0,
+    "Dataset": "mlqa",
+    "Metric": "exact_match"
+  },
+  {
+    "Model": "gpt-3.5-turbo (TT)",
+    "Language": "vi",
+    "Score": 22.5,
+    "Dataset": "mlqa",
+    "Metric": "exact_match"
+  },
+  {
+    "Model": "gpt-3.5-turbo (TT)",
+    "Language": "zh",
+    "Score": 17.2,
+    "Dataset": "mlqa",
+    "Metric": "exact_match"
+  },
+  {
+    "Model": "gpt-3.5-turbo (TT)",
+    "Language": "avg",
+    "Score": 27.0,
+    "Dataset": "mlqa",
+    "Metric": "exact_match"
+  },
+  {
+    "Model": "text-davinci-003",
+    "Language": "en",
+    "Score": 59.0,
+    "Dataset": "mlqa",
+    "Metric": "exact_match"
+  },
+  {
+    "Model": "text-davinci-003",
+    "Language": "ar",
+    "Score": 21.7,
+    "Dataset": "mlqa",
+    "Metric": "exact_match"
+  },
+  {
+    "Model": "text-davinci-003",
+    "Language": "de",
+    "Score": 38.1,
+    "Dataset": "mlqa",
+    "Metric": "exact_match"
+  },
+  {
+    "Model": "text-davinci-003",
+    "Language": "es",
+    "Score": 37.8,
+    "Dataset": "mlqa",
+    "Metric": "exact_match"
+  },
+  {
+    "Model": "text-davinci-003",
+    "Language": "hi",
+    "Score": 14.1,
+    "Dataset": "mlqa",
+    "Metric": "exact_match"
+  },
+  {
+    "Model": "text-davinci-003",
+    "Language": "vi",
+    "Score": 29.7,
+    "Dataset": "mlqa",
+    "Metric": "exact_match"
+  },
+  {
+    "Model": "text-davinci-003",
+    "Language": "zh",
+    "Score": 31.7,
+    "Dataset": "mlqa",
+    "Metric": "exact_match"
+  },
+  {
+    "Model": "text-davinci-003",
+    "Language": "avg",
+    "Score": 33.1,
+    "Dataset": "mlqa",
+    "Metric": "exact_match"
+  },
+  {
+    "Model": "text-davinci-003 (TT)",
+    "Language": "en",
+    "Score": 59.0,
+    "Dataset": "mlqa",
+    "Metric": "exact_match"
+  },
+  {
+    "Model": "text-davinci-003 (TT)",
+    "Language": "ar",
+    "Score": 25.6,
+    "Dataset": "mlqa",
+    "Metric": "exact_match"
+  },
+  {
+    "Model": "text-davinci-003 (TT)",
+    "Language": "de",
+    "Score": 33.9,
+    "Dataset": "mlqa",
+    "Metric": "exact_match"
+  },
+  {
+    "Model": "text-davinci-003 (TT)",
+    "Language": "es",
+    "Score": 40.9,
+    "Dataset": "mlqa",
+    "Metric": "exact_match"
+  },
+  {
+    "Model": "text-davinci-003 (TT)",
+    "Language": "hi",
+    "Score": 28.7,
+    "Dataset": "mlqa",
+    "Metric": "exact_match"
+  },
+  {
+    "Model": "text-davinci-003 (TT)",
+    "Language": "vi",
+    "Score": 30.4,
+    "Dataset": "mlqa",
+    "Metric": "exact_match"
+  },
+  {
+    "Model": "text-davinci-003 (TT)",
+    "Language": "zh",
+    "Score": 24.1,
+    "Dataset": "mlqa",
+    "Metric": "exact_match"
+  },
+  {
+    "Model": "text-davinci-003 (TT)",
+    "Language": "avg",
+    "Score": 34.7,
+    "Dataset": "mlqa",
+    "Metric": "exact_match"
+  },
+  {
+    "Model": "gpt-4-32k",
+    "Language": "en",
+    "Score": 62.8,
+    "Dataset": "mlqa",
+    "Metric": "exact_match"
+  },
+  {
+    "Model": "gpt-4-32k",
+    "Language": "ar",
+    "Score": 33.5,
+    "Dataset": "mlqa",
+    "Metric": "exact_match"
+  },
+  {
+    "Model": "gpt-4-32k",
+    "Language": "de",
+    "Score": 44.4,
+    "Dataset": "mlqa",
+    "Metric": "exact_match"
+  },
+  {
+    "Model": "gpt-4-32k",
+    "Language": "es",
+    "Score": 45.9,
+    "Dataset": "mlqa",
+    "Metric": "exact_match"
+  },
+  {
+    "Model": "gpt-4-32k",
+    "Language": "hi",
+    "Score": 35.6,
+    "Dataset": "mlqa",
+    "Metric": "exact_match"
+  },
+  {
+    "Model": "gpt-4-32k",
+    "Language": "vi",
+    "Score": 49.0,
+    "Dataset": "mlqa",
+    "Metric": "exact_match"
+  },
+  {
+    "Model": "gpt-4-32k",
+    "Language": "zh",
+    "Score": 38.4,
+    "Dataset": "mlqa",
+    "Metric": "exact_match"
+  },
+  {
+    "Model": "gpt-4-32k",
+    "Language": "avg",
+    "Score": 44.2,
+    "Dataset": "mlqa",
+    "Metric": "exact_match"
+  },
+  {
+    "Model": "BLOOMZ",
+    "Language": "as",
+    "Score": 40.6,
+    "Dataset": "indicqa",
+    "Metric": "f1"
+  },
+  {
+    "Model": "BLOOMZ",
+    "Language": "bn",
+    "Score": 42.9,
+    "Dataset": "indicqa",
+    "Metric": "f1"
+  },
+  {
+    "Model": "BLOOMZ",
+    "Language": "gu",
+    "Score": 37.2,
+    "Dataset": "indicqa",
+    "Metric": "f1"
+  },
+  {
+    "Model": "BLOOMZ",
+    "Language": "hi",
+    "Score": 44.0,
+    "Dataset": "indicqa",
+    "Metric": "f1"
+  },
+  {
+    "Model": "BLOOMZ",
+    "Language": "kn",
+    "Score": 37.8,
+    "Dataset": "indicqa",
+    "Metric": "f1"
+  },
+  {
+    "Model": "BLOOMZ",
+    "Language": "ml",
+    "Score": 30.5,
+    "Dataset": "indicqa",
+    "Metric": "f1"
+  },
+  {
+    "Model": "BLOOMZ",
+    "Language": "mr",
+    "Score": 39.2,
+    "Dataset": "indicqa",
+    "Metric": "f1"
+  },
+  {
+    "Model": "BLOOMZ",
+    "Language": "or",
+    "Score": 25.4,
+    "Dataset": "indicqa",
+    "Metric": "f1"
+  },
+  {
+    "Model": "BLOOMZ",
+    "Language": "pa",
+    "Score": 26.4,
+    "Dataset": "indicqa",
+    "Metric": "f1"
+  },
+  {
+    "Model": "BLOOMZ",
+    "Language": "ta",
+    "Score": 39.7,
+    "Dataset": "indicqa",
+    "Metric": "f1"
+  },
+  {
+    "Model": "BLOOMZ",
+    "Language": "te",
+    "Score": 38.9,
+    "Dataset": "indicqa",
+    "Metric": "f1"
+  },
+  {
+    "Model": "BLOOMZ",
+    "Language": "avg",
+    "Score": 36.6,
+    "Dataset": "indicqa",
+    "Metric": "f1"
+  },
+  {
+    "Model": "gpt-3.5-turbo",
+    "Language": "as",
+    "Score": 35.3,
+    "Dataset": "indicqa",
+    "Metric": "f1"
+  },
+  {
+    "Model": "gpt-3.5-turbo",
+    "Language": "bn",
+    "Score": 49.5,
+    "Dataset": "indicqa",
+    "Metric": "f1"
+  },
+  {
+    "Model": "gpt-3.5-turbo",
+    "Language": "gu",
+    "Score": 40.5,
+    "Dataset": "indicqa",
+    "Metric": "f1"
+  },
+  {
+    "Model": "gpt-3.5-turbo",
+    "Language": "hi",
+    "Score": 55.9,
+    "Dataset": "indicqa",
+    "Metric": "f1"
+  },
+  {
+    "Model": "gpt-3.5-turbo",
+    "Language": "kn",
+    "Score": 35.3,
+    "Dataset": "indicqa",
+    "Metric": "f1"
+  },
+  {
+    "Model": "gpt-3.5-turbo",
+    "Language": "ml",
+    "Score": 30.0,
+    "Dataset": "indicqa",
+    "Metric": "f1"
+  },
+  {
+    "Model": "gpt-3.5-turbo",
+    "Language": "mr",
+    "Score": 50.0,
+    "Dataset": "indicqa",
+    "Metric": "f1"
+  },
+  {
+    "Model": "gpt-3.5-turbo",
+    "Language": "or",
+    "Score": 22.1,
+    "Dataset": "indicqa",
+    "Metric": "f1"
+  },
+  {
+    "Model": "gpt-3.5-turbo",
+    "Language": "pa",
+    "Score": 35.8,
+    "Dataset": "indicqa",
+    "Metric": "f1"
+  },
+  {
+    "Model": "gpt-3.5-turbo",
+    "Language": "ta",
+    "Score": 32.7,
+    "Dataset": "indicqa",
+    "Metric": "f1"
+  },
+  {
+    "Model": "gpt-3.5-turbo",
+    "Language": "te",
+    "Score": 32.9,
+    "Dataset": "indicqa",
+    "Metric": "f1"
+  },
+  {
+    "Model": "gpt-3.5-turbo",
+    "Language": "avg",
+    "Score": 38.2,
+    "Dataset": "indicqa",
+    "Metric": "f1"
+  },
+  {
+    "Model": "text-davinci-003",
+    "Language": "as",
+    "Score": 6.7,
+    "Dataset": "indicqa",
+    "Metric": "f1"
+  },
+  {
+    "Model": "text-davinci-003",
+    "Language": "bn",
+    "Score": 10.3,
+    "Dataset": "indicqa",
+    "Metric": "f1"
+  },
+  {
+    "Model": "text-davinci-003",
+    "Language": "gu",
+    "Score": 5.4,
+    "Dataset": "indicqa",
+    "Metric": "f1"
+  },
+  {
+    "Model": "text-davinci-003",
+    "Language": "hi",
+    "Score": 16.8,
+    "Dataset": "indicqa",
+    "Metric": "f1"
+  },
+  {
+    "Model": "text-davinci-003",
+    "Language": "kn",
+    "Score": 7.1,
+    "Dataset": "indicqa",
+    "Metric": "f1"
+  },
+  {
+    "Model": "text-davinci-003",
+    "Language": "ml",
+    "Score": 3.6,
+    "Dataset": "indicqa",
+    "Metric": "f1"
+  },
+  {
+    "Model": "text-davinci-003",
+    "Language": "mr",
+    "Score": 14.6,
+    "Dataset": "indicqa",
+    "Metric": "f1"
+  },
+  {
+    "Model": "text-davinci-003",
+    "Language": "or",
+    "Score": 6.9,
+    "Dataset": "indicqa",
+    "Metric": "f1"
+  },
+  {
+    "Model": "text-davinci-003",
+    "Language": "pa",
+    "Score": 10.7,
+    "Dataset": "indicqa",
+    "Metric": "f1"
+  },
+  {
+    "Model": "text-davinci-003",
+    "Language": "ta",
+    "Score": 4.2,
+    "Dataset": "indicqa",
+    "Metric": "f1"
+  },
+  {
+    "Model": "text-davinci-003",
+    "Language": "te",
+    "Score": 6.8,
+    "Dataset": "indicqa",
+    "Metric": "f1"
+  },
+  {
+    "Model": "text-davinci-003",
+    "Language": "avg",
+    "Score": 8.4,
+    "Dataset": "indicqa",
+    "Metric": "f1"
+  },
+  {
+    "Model": "gpt-4-32k",
+    "Language": "as",
+    "Score": 58.8,
+    "Dataset": "indicqa",
+    "Metric": "f1"
+  },
+  {
+    "Model": "gpt-4-32k",
+    "Language": "bn",
+    "Score": 67.1,
+    "Dataset": "indicqa",
+    "Metric": "f1"
+  },
+  {
+    "Model": "gpt-4-32k",
+    "Language": "gu",
+    "Score": 59.4,
+    "Dataset": "indicqa",
+    "Metric": "f1"
+  },
+  {
+    "Model": "gpt-4-32k",
+    "Language": "hi",
+    "Score": 75.2,
+    "Dataset": "indicqa",
+    "Metric": "f1"
+  },
+  {
+    "Model": "gpt-4-32k",
+    "Language": "kn",
+    "Score": 47.1,
+    "Dataset": "indicqa",
+    "Metric": "f1"
+  },
+  {
+    "Model": "gpt-4-32k",
+    "Language": "ml",
+    "Score": 48.3,
+    "Dataset": "indicqa",
+    "Metric": "f1"
+  },
+  {
+    "Model": "gpt-4-32k",
+    "Language": "mr",
+    "Score": 60.7,
+    "Dataset": "indicqa",
+    "Metric": "f1"
+  },
+  {
+    "Model": "gpt-4-32k",
+    "Language": "or",
+    "Score": 29.9,
+    "Dataset": "indicqa",
+    "Metric": "f1"
+  },
+  {
+    "Model": "gpt-4-32k",
+    "Language": "pa",
+    "Score": 56.1,
+    "Dataset": "indicqa",
+    "Metric": "f1"
+  },
+  {
+    "Model": "gpt-4-32k",
+    "Language": "ta",
+    "Score": 54.0,
+    "Dataset": "indicqa",
+    "Metric": "f1"
+  },
+  {
+    "Model": "gpt-4-32k",
+    "Language": "te",
+    "Score": 47.9,
+    "Dataset": "indicqa",
+    "Metric": "f1"
+  },
+  {
+    "Model": "gpt-4-32k",
+    "Language": "avg",
+    "Score": 55.0,
+    "Dataset": "indicqa",
+    "Metric": "f1"
+  },
+  {
+    "Model": "BLOOMZ",
+    "Language": "as",
+    "Score": 31.7,
+    "Dataset": "indicqa",
+    "Metric": "exact_match"
+  },
+  {
+    "Model": "BLOOMZ",
+    "Language": "bn",
+    "Score": 36.6,
+    "Dataset": "indicqa",
+    "Metric": "exact_match"
+  },
+  {
+    "Model": "BLOOMZ",
+    "Language": "gu",
+    "Score": 29.9,
+    "Dataset": "indicqa",
+    "Metric": "exact_match"
+  },
+  {
+    "Model": "BLOOMZ",
+    "Language": "hi",
+    "Score": 45.1,
+    "Dataset": "indicqa",
+    "Metric": "exact_match"
+  },
+  {
+    "Model": "BLOOMZ",
+    "Language": "kn",
+    "Score": 26.6,
+    "Dataset": "indicqa",
+    "Metric": "exact_match"
+  },
+  {
+    "Model": "BLOOMZ",
+    "Language": "ml",
+    "Score": 28.4,
+    "Dataset": "indicqa",
+    "Metric": "exact_match"
+  },
+  {
+    "Model": "BLOOMZ",
+    "Language": "mr",
+    "Score": 33.0,
+    "Dataset": "indicqa",
+    "Metric": "exact_match"
+  },
+  {
+    "Model": "BLOOMZ",
+    "Language": "or",
+    "Score": 22.0,
+    "Dataset": "indicqa",
+    "Metric": "exact_match"
+  },
+  {
+    "Model": "BLOOMZ",
+    "Language": "pa",
+    "Score": 33.5,
+    "Dataset": "indicqa",
+    "Metric": "exact_match"
+  },
+  {
+    "Model": "BLOOMZ",
+    "Language": "ta",
+    "Score": 35.9,
+    "Dataset": "indicqa",
+    "Metric": "exact_match"
+  },
+  {
+    "Model": "BLOOMZ",
+    "Language": "te",
+    "Score": 34.7,
+    "Dataset": "indicqa",
+    "Metric": "exact_match"
+  },
+  {
+    "Model": "BLOOMZ",
+    "Language": "avg",
+    "Score": 32.5,
+    "Dataset": "indicqa",
+    "Metric": "exact_match"
+  },
+  {
+    "Model": "gpt-3.5-turbo",
+    "Language": "as",
+    "Score": 21.4,
+    "Dataset": "indicqa",
+    "Metric": "exact_match"
+  },
+  {
+    "Model": "gpt-3.5-turbo",
+    "Language": "bn",
+    "Score": 30.2,
+    "Dataset": "indicqa",
+    "Metric": "exact_match"
+  },
+  {
+    "Model": "gpt-3.5-turbo",
+    "Language": "gu",
+    "Score": 25.5,
+    "Dataset": "indicqa",
+    "Metric": "exact_match"
+  },
+  {
+    "Model": "gpt-3.5-turbo",
+    "Language": "hi",
+    "Score": 39.3,
+    "Dataset": "indicqa",
+    "Metric": "exact_match"
+  },
+  {
+    "Model": "gpt-3.5-turbo",
+    "Language": "kn",
+    "Score": 20.4,
+    "Dataset": "indicqa",
+    "Metric": "exact_match"
+  },
+  {
+    "Model": "gpt-3.5-turbo",
+    "Language": "ml",
+    "Score": 19.2,
+    "Dataset": "indicqa",
+    "Metric": "exact_match"
+  },
+  {
+    "Model": "gpt-3.5-turbo",
+    "Language": "mr",
+    "Score": 32.0,
+    "Dataset": "indicqa",
+    "Metric": "exact_match"
+  },
+  {
+    "Model": "gpt-3.5-turbo",
+    "Language": "or",
+    "Score": 12.7,
+    "Dataset": "indicqa",
+    "Metric": "exact_match"
+  },
+  {
+    "Model": "gpt-3.5-turbo",
+    "Language": "pa",
+    "Score": 15.1,
+    "Dataset": "indicqa",
+    "Metric": "exact_match"
+  },
+  {
+    "Model": "gpt-3.5-turbo",
+    "Language": "ta",
+    "Score": 21.6,
+    "Dataset": "indicqa",
+    "Metric": "exact_match"
+  },
+  {
+    "Model": "gpt-3.5-turbo",
+    "Language": "te",
+    "Score": 19.7,
+    "Dataset": "indicqa",
+    "Metric": "exact_match"
+  },
+  {
+    "Model": "gpt-3.5-turbo",
+    "Language": "avg",
+    "Score": 23.4,
+    "Dataset": "indicqa",
+    "Metric": "exact_match"
+  },
+  {
+    "Model": "text-davinci-003",
+    "Language": "as",
+    "Score": 3.2,
+    "Dataset": "indicqa",
+    "Metric": "exact_match"
+  },
+  {
+    "Model": "text-davinci-003",
+    "Language": "bn",
+    "Score": 5.8,
+    "Dataset": "indicqa",
+    "Metric": "exact_match"
+  },
+  {
+    "Model": "text-davinci-003",
+    "Language": "gu",
+    "Score": 3.5,
+    "Dataset": "indicqa",
+    "Metric": "exact_match"
+  },
+  {
+    "Model": "text-davinci-003",
+    "Language": "hi",
+    "Score": 11.8,
+    "Dataset": "indicqa",
+    "Metric": "exact_match"
+  },
+  {
+    "Model": "text-davinci-003",
+    "Language": "kn",
+    "Score": 3.9,
+    "Dataset": "indicqa",
+    "Metric": "exact_match"
+  },
+  {
+    "Model": "text-davinci-003",
+    "Language": "ml",
+    "Score": 2.3,
+    "Dataset": "indicqa",
+    "Metric": "exact_match"
+  },
+  {
+    "Model": "text-davinci-003",
+    "Language": "mr",
+    "Score": 8.5,
+    "Dataset": "indicqa",
+    "Metric": "exact_match"
+  },
+  {
+    "Model": "text-davinci-003",
+    "Language": "or",
+    "Score": 3.4,
+    "Dataset": "indicqa",
+    "Metric": "exact_match"
+  },
+  {
+    "Model": "text-davinci-003",
+    "Language": "pa",
+    "Score": 4.1,
+    "Dataset": "indicqa",
+    "Metric": "exact_match"
+  },
+  {
+    "Model": "text-davinci-003",
+    "Language": "ta",
+    "Score": 2.5,
+    "Dataset": "indicqa",
+    "Metric": "exact_match"
+  },
+  {
+    "Model": "text-davinci-003",
+    "Language": "te",
+    "Score": 3.6,
+    "Dataset": "indicqa",
+    "Metric": "exact_match"
+  },
+  {
+    "Model": "text-davinci-003",
+    "Language": "avg",
+    "Score": 4.8,
+    "Dataset": "indicqa",
+    "Metric": "exact_match"
+  },
+  {
+    "Model": "gpt-4-32k",
+    "Language": "as",
+    "Score": 40.4,
+    "Dataset": "indicqa",
+    "Metric": "exact_match"
+  },
+  {
+    "Model": "gpt-4-32k",
+    "Language": "bn",
+    "Score": 47.4,
+    "Dataset": "indicqa",
+    "Metric": "exact_match"
+  },
+  {
+    "Model": "gpt-4-32k",
+    "Language": "gu",
+    "Score": 42.4,
+    "Dataset": "indicqa",
+    "Metric": "exact_match"
+  },
+  {
+    "Model": "gpt-4-32k",
+    "Language": "hi",
+    "Score": 62.2,
+    "Dataset": "indicqa",
+    "Metric": "exact_match"
+  },
+  {
+    "Model": "gpt-4-32k",
+    "Language": "kn",
+    "Score": 31.6,
+    "Dataset": "indicqa",
+    "Metric": "exact_match"
+  },
+  {
+    "Model": "gpt-4-32k",
+    "Language": "ml",
+    "Score": 33.7,
+    "Dataset": "indicqa",
+    "Metric": "exact_match"
+  },
+  {
+    "Model": "gpt-4-32k",
+    "Language": "mr",
+    "Score": 43.1,
+    "Dataset": "indicqa",
+    "Metric": "exact_match"
+  },
+  {
+    "Model": "gpt-4-32k",
+    "Language": "or",
+    "Score": 16.7,
+    "Dataset": "indicqa",
+    "Metric": "exact_match"
+  },
+  {
+    "Model": "gpt-4-32k",
+    "Language": "pa",
+    "Score": 34.1,
+    "Dataset": "indicqa",
+    "Metric": "exact_match"
+  },
+  {
+    "Model": "gpt-4-32k",
+    "Language": "ta",
+    "Score": 39.7,
+    "Dataset": "indicqa",
+    "Metric": "exact_match"
+  },
+  {
+    "Model": "gpt-4-32k",
+    "Language": "te",
+    "Score": 27.8,
+    "Dataset": "indicqa",
+    "Metric": "exact_match"
+  },
+  {
+    "Model": "gpt-4-32k",
+    "Language": "avg",
+    "Score": 38.1,
+    "Dataset": "indicqa",
+    "Metric": "exact_match"
+  },
+  {
+    "Model": "mBERT",
+    "Language": "en",
+    "Score": 96.4,
+    "Dataset": "udpos",
+    "Metric": "f1"
+  },
+  {
+    "Model": "mBERT",
+    "Language": "af",
+    "Score": 86.7,
+    "Dataset": "udpos",
+    "Metric": "f1"
+  },
+  {
+    "Model": "mBERT",
+    "Language": "ar",
+    "Score": 50.0,
+    "Dataset": "udpos",
+    "Metric": "f1"
+  },
+  {
+    "Model": "mBERT",
+    "Language": "bg",
+    "Score": 84.7,
+    "Dataset": "udpos",
+    "Metric": "f1"
+  },
+  {
+    "Model": "mBERT",
+    "Language": "de",
+    "Score": 88.7,
+    "Dataset": "udpos",
+    "Metric": "f1"
+  },
+  {
+    "Model": "mBERT",
+    "Language": "el",
+    "Score": 80.9,
+    "Dataset": "udpos",
+    "Metric": "f1"
+  },
+  {
+    "Model": "mBERT",
+    "Language": "es",
+    "Score": 86.6,
+    "Dataset": "udpos",
+    "Metric": "f1"
+  },
+  {
+    "Model": "mBERT",
+    "Language": "et",
+    "Score": 79.9,
+    "Dataset": "udpos",
+    "Metric": "f1"
+  },
+  {
+    "Model": "mBERT",
+    "Language": "eu",
+    "Score": 62.1,
+    "Dataset": "udpos",
+    "Metric": "f1"
+  },
+  {
+    "Model": "mBERT",
+    "Language": "fa",
+    "Score": 65.5,
+    "Dataset": "udpos",
+    "Metric": "f1"
+  },
+  {
+    "Model": "mBERT",
+    "Language": "fi",
+    "Score": 73.3,
+    "Dataset": "udpos",
+    "Metric": "f1"
+  },
+  {
+    "Model": "mBERT",
+    "Language": "fr",
+    "Score": 81.2,
+    "Dataset": "udpos",
+    "Metric": "f1"
+  },
+  {
+    "Model": "mBERT",
+    "Language": "he",
+    "Score": 55.5,
+    "Dataset": "udpos",
+    "Metric": "f1"
+  },
+  {
+    "Model": "mBERT",
+    "Language": "hi",
+    "Score": 66.0,
+    "Dataset": "udpos",
+    "Metric": "f1"
+  },
+  {
+    "Model": "mBERT",
+    "Language": "hu",
+    "Score": 78.6,
+    "Dataset": "udpos",
+    "Metric": "f1"
+  },
+  {
+    "Model": "mBERT",
+    "Language": "id",
+    "Score": 74.2,
+    "Dataset": "udpos",
+    "Metric": "f1"
+  },
+  {
+    "Model": "mBERT",
+    "Language": "it",
+    "Score": 87.8,
+    "Dataset": "udpos",
+    "Metric": "f1"
+  },
+  {
+    "Model": "mBERT",
+    "Language": "ja",
+    "Score": 47.2,
+    "Dataset": "udpos",
+    "Metric": "f1"
+  },
+  {
+    "Model": "mBERT",
+    "Language": "kk",
+    "Score": 70.4,
+    "Dataset": "udpos",
+    "Metric": "f1"
+  },
+  {
+    "Model": "mBERT",
+    "Language": "ko",
+    "Score": 51.7,
+    "Dataset": "udpos",
+    "Metric": "f1"
+  },
+  {
+    "Model": "mBERT",
+    "Language": "lt",
+    "Score": 78.8,
+    "Dataset": "udpos",
+    "Metric": "f1"
+  },
+  {
+    "Model": "mBERT",
+    "Language": "mr",
+    "Score": 68.7,
+    "Dataset": "udpos",
+    "Metric": "f1"
+  },
+  {
+    "Model": "mBERT",
+    "Language": "nl",
+    "Score": 88.6,
+    "Dataset": "udpos",
+    "Metric": "f1"
+  },
+  {
+    "Model": "mBERT",
+    "Language": "pl",
+    "Score": 80.7,
+    "Dataset": "udpos",
+    "Metric": "f1"
+  },
+  {
+    "Model": "mBERT",
+    "Language": "pt",
+    "Score": 88.0,
+    "Dataset": "udpos",
+    "Metric": "f1"
+  },
+  {
+    "Model": "mBERT",
+    "Language": "ro",
+    "Score": 71.5,
+    "Dataset": "udpos",
+    "Metric": "f1"
+  },
+  {
+    "Model": "mBERT",
+    "Language": "ru",
+    "Score": 82.4,
+    "Dataset": "udpos",
+    "Metric": "f1"
+  },
+  {
+    "Model": "mBERT",
+    "Language": "ta",
+    "Score": 58.5,
+    "Dataset": "udpos",
+    "Metric": "f1"
+  },
+  {
+    "Model": "mBERT",
+    "Language": "te",
+    "Score": 75.2,
+    "Dataset": "udpos",
+    "Metric": "f1"
+  },
+  {
+    "Model": "mBERT",
+    "Language": "th",
+    "Score": 41.3,
+    "Dataset": "udpos",
+    "Metric": "f1"
+  },
+  {
+    "Model": "mBERT",
+    "Language": "tl",
+    "Score": 80.5,
+    "Dataset": "udpos",
+    "Metric": "f1"
+  },
+  {
+    "Model": "mBERT",
+    "Language": "tr",
+    "Score": 70.5,
+    "Dataset": "udpos",
+    "Metric": "f1"
+  },
+  {
+    "Model": "mBERT",
+    "Language": "uk",
+    "Score": 80.6,
+    "Dataset": "udpos",
+    "Metric": "f1"
+  },
+  {
+    "Model": "mBERT",
+    "Language": "ur",
+    "Score": 56.6,
+    "Dataset": "udpos",
+    "Metric": "f1"
+  },
+  {
+    "Model": "mBERT",
+    "Language": "vi",
+    "Score": 55.4,
+    "Dataset": "udpos",
+    "Metric": "f1"
+  },
+  {
+    "Model": "mBERT",
+    "Language": "wo",
+    "Score": 0.0,
+    "Dataset": "udpos",
+    "Metric": "f1"
+  },
+  {
+    "Model": "mBERT",
+    "Language": "yo",
+    "Score": 56.6,
+    "Dataset": "udpos",
+    "Metric": "f1"
+  },
+  {
+    "Model": "mBERT",
+    "Language": "zh",
+    "Score": 59.6,
+    "Dataset": "udpos",
+    "Metric": "f1"
+  },
+  {
+    "Model": "mBERT",
+    "Language": "avg",
+    "Score": 71.9,
+    "Dataset": "udpos",
+    "Metric": "f1"
+  },
+  {
+    "Model": "XLM-R Large",
+    "Language": "en",
+    "Score": 97.0,
+    "Dataset": "udpos",
+    "Metric": "f1"
+  },
+  {
+    "Model": "XLM-R Large",
+    "Language": "af",
+    "Score": 89.2,
+    "Dataset": "udpos",
+    "Metric": "f1"
+  },
+  {
+    "Model": "XLM-R Large",
+    "Language": "ar",
+    "Score": 63.0,
+    "Dataset": "udpos",
+    "Metric": "f1"
+  },
+  {
+    "Model": "XLM-R Large",
+    "Language": "bg",
+    "Score": 88.3,
+    "Dataset": "udpos",
+    "Metric": "f1"
+  },
+  {
+    "Model": "XLM-R Large",
+    "Language": "de",
+    "Score": 91.2,
+    "Dataset": "udpos",
+    "Metric": "f1"
+  },
+  {
+    "Model": "XLM-R Large",
+    "Language": "el",
+    "Score": 86.5,
+    "Dataset": "udpos",
+    "Metric": "f1"
+  },
+  {
+    "Model": "XLM-R Large",
+    "Language": "es",
+    "Score": 89.2,
+    "Dataset": "udpos",
+    "Metric": "f1"
+  },
+  {
+    "Model": "XLM-R Large",
+    "Language": "et",
+    "Score": 87.3,
+    "Dataset": "udpos",
+    "Metric": "f1"
+  },
+  {
+    "Model": "XLM-R Large",
+    "Language": "eu",
+    "Score": 74.9,
+    "Dataset": "udpos",
+    "Metric": "f1"
+  },
+  {
+    "Model": "XLM-R Large",
+    "Language": "fa",
+    "Score": 70.8,
+    "Dataset": "udpos",
+    "Metric": "f1"
+  },
+  {
+    "Model": "XLM-R Large",
+    "Language": "fi",
+    "Score": 82.7,
+    "Dataset": "udpos",
+    "Metric": "f1"
+  },
+  {
+    "Model": "XLM-R Large",
+    "Language": "fr",
+    "Score": 86.7,
+    "Dataset": "udpos",
+    "Metric": "f1"
+  },
+  {
+    "Model": "XLM-R Large",
+    "Language": "he",
+    "Score": 67.5,
+    "Dataset": "udpos",
+    "Metric": "f1"
+  },
+  {
+    "Model": "XLM-R Large",
+    "Language": "hi",
+    "Score": 75.2,
+    "Dataset": "udpos",
+    "Metric": "f1"
+  },
+  {
+    "Model": "XLM-R Large",
+    "Language": "hu",
+    "Score": 83.4,
+    "Dataset": "udpos",
+    "Metric": "f1"
+  },
+  {
+    "Model": "XLM-R Large",
+    "Language": "id",
+    "Score": 75.7,
+    "Dataset": "udpos",
+    "Metric": "f1"
+  },
+  {
+    "Model": "XLM-R Large",
+    "Language": "it",
+    "Score": 89.2,
+    "Dataset": "udpos",
+    "Metric": "f1"
+  },
+  {
+    "Model": "XLM-R Large",
+    "Language": "ja",
+    "Score": 29.3,
+    "Dataset": "udpos",
+    "Metric": "f1"
+  },
+  {
+    "Model": "XLM-R Large",
+    "Language": "kk",
+    "Score": 78.3,
+    "Dataset": "udpos",
+    "Metric": "f1"
+  },
+  {
+    "Model": "XLM-R Large",
+    "Language": "ko",
+    "Score": 57.1,
+    "Dataset": "udpos",
+    "Metric": "f1"
+  },
+  {
+    "Model": "XLM-R Large",
+    "Language": "lt",
+    "Score": 84.2,
+    "Dataset": "udpos",
+    "Metric": "f1"
+  },
+  {
+    "Model": "XLM-R Large",
+    "Language": "mr",
+    "Score": 81.8,
+    "Dataset": "udpos",
+    "Metric": "f1"
+  },
+  {
+    "Model": "XLM-R Large",
+    "Language": "nl",
+    "Score": 89.5,
+    "Dataset": "udpos",
+    "Metric": "f1"
+  },
+  {
+    "Model": "XLM-R Large",
+    "Language": "pl",
+    "Score": 86.8,
+    "Dataset": "udpos",
+    "Metric": "f1"
+  },
+  {
+    "Model": "XLM-R Large",
+    "Language": "pt",
+    "Score": 90.2,
+    "Dataset": "udpos",
+    "Metric": "f1"
+  },
+  {
+    "Model": "XLM-R Large",
+    "Language": "ro",
+    "Score": 82.6,
+    "Dataset": "udpos",
+    "Metric": "f1"
+  },
+  {
+    "Model": "XLM-R Large",
+    "Language": "ru",
+    "Score": 87.3,
+    "Dataset": "udpos",
+    "Metric": "f1"
+  },
+  {
+    "Model": "XLM-R Large",
+    "Language": "ta",
+    "Score": 64.0,
+    "Dataset": "udpos",
+    "Metric": "f1"
+  },
+  {
+    "Model": "XLM-R Large",
+    "Language": "te",
+    "Score": 84.2,
+    "Dataset": "udpos",
+    "Metric": "f1"
+  },
+  {
+    "Model": "XLM-R Large",
+    "Language": "th",
+    "Score": 48.5,
+    "Dataset": "udpos",
+    "Metric": "f1"
+  },
+  {
+    "Model": "XLM-R Large",
+    "Language": "tl",
+    "Score": 92.4,
+    "Dataset": "udpos",
+    "Metric": "f1"
+  },
+  {
+    "Model": "XLM-R Large",
+    "Language": "tr",
+    "Score": 81.2,
+    "Dataset": "udpos",
+    "Metric": "f1"
+  },
+  {
+    "Model": "XLM-R Large",
+    "Language": "uk",
+    "Score": 85.8,
+    "Dataset": "udpos",
+    "Metric": "f1"
+  },
+  {
+    "Model": "XLM-R Large",
+    "Language": "ur",
+    "Score": 70.8,
+    "Dataset": "udpos",
+    "Metric": "f1"
+  },
+  {
+    "Model": "XLM-R Large",
+    "Language": "vi",
+    "Score": 58.5,
+    "Dataset": "udpos",
+    "Metric": "f1"
+  },
+  {
+    "Model": "XLM-R Large",
+    "Language": "wo",
+    "Score": 0.0,
+    "Dataset": "udpos",
+    "Metric": "f1"
+  },
+  {
+    "Model": "XLM-R Large",
+    "Language": "yo",
+    "Score": 24.8,
+    "Dataset": "udpos",
+    "Metric": "f1"
+  },
+  {
+    "Model": "XLM-R Large",
+    "Language": "zh",
+    "Score": 44.1,
+    "Dataset": "udpos",
+    "Metric": "f1"
+  },
+  {
+    "Model": "XLM-R Large",
+    "Language": "avg",
+    "Score": 76.2,
+    "Dataset": "udpos",
+    "Metric": "f1"
+  },
+  {
+    "Model": "gpt-3.5-turbo",
+    "Language": "en",
+    "Score": 78.5,
+    "Dataset": "udpos",
+    "Metric": "f1"
+  },
+  {
+    "Model": "gpt-3.5-turbo",
+    "Language": "af",
+    "Score": 74.3,
+    "Dataset": "udpos",
+    "Metric": "f1"
+  },
+  {
+    "Model": "gpt-3.5-turbo",
+    "Language": "ar",
+    "Score": 38.3,
+    "Dataset": "udpos",
+    "Metric": "f1"
+  },
+  {
+    "Model": "gpt-3.5-turbo",
+    "Language": "bg",
+    "Score": 79.1,
+    "Dataset": "udpos",
+    "Metric": "f1"
+  },
+  {
+    "Model": "gpt-3.5-turbo",
+    "Language": "de",
+    "Score": 80.7,
+    "Dataset": "udpos",
+    "Metric": "f1"
+  },
+  {
+    "Model": "gpt-3.5-turbo",
+    "Language": "el",
+    "Score": 47.1,
+    "Dataset": "udpos",
+    "Metric": "f1"
+  },
+  {
+    "Model": "gpt-3.5-turbo",
+    "Language": "es",
+    "Score": 34.8,
+    "Dataset": "udpos",
+    "Metric": "f1"
+  },
+  {
+    "Model": "gpt-3.5-turbo",
+    "Language": "et",
+    "Score": 76.0,
+    "Dataset": "udpos",
+    "Metric": "f1"
+  },
+  {
+    "Model": "gpt-3.5-turbo",
+    "Language": "eu",
+    "Score": 72.0,
+    "Dataset": "udpos",
+    "Metric": "f1"
+  },
+  {
+    "Model": "gpt-3.5-turbo",
+    "Language": "fa",
+    "Score": 46.7,
+    "Dataset": "udpos",
+    "Metric": "f1"
+  },
+  {
+    "Model": "gpt-3.5-turbo",
+    "Language": "fi",
+    "Score": 79.5,
+    "Dataset": "udpos",
+    "Metric": "f1"
+  },
+  {
+    "Model": "gpt-3.5-turbo",
+    "Language": "fr",
+    "Score": 78.0,
+    "Dataset": "udpos",
+    "Metric": "f1"
+  },
+  {
+    "Model": "gpt-3.5-turbo",
+    "Language": "he",
+    "Score": 53.8,
+    "Dataset": "udpos",
+    "Metric": "f1"
+  },
+  {
+    "Model": "gpt-3.5-turbo",
+    "Language": "hi",
+    "Score": 50.7,
+    "Dataset": "udpos",
+    "Metric": "f1"
+  },
+  {
+    "Model": "gpt-3.5-turbo",
+    "Language": "hu",
+    "Score": 65.4,
+    "Dataset": "udpos",
+    "Metric": "f1"
+  },
+  {
+    "Model": "gpt-3.5-turbo",
+    "Language": "id",
+    "Score": 63.6,
+    "Dataset": "udpos",
+    "Metric": "f1"
+  },
+  {
+    "Model": "gpt-3.5-turbo",
+    "Language": "it",
+    "Score": 75.4,
+    "Dataset": "udpos",
+    "Metric": "f1"
+  },
+  {
+    "Model": "gpt-3.5-turbo",
+    "Language": "ja",
+    "Score": 47.4,
+    "Dataset": "udpos",
+    "Metric": "f1"
+  },
+  {
+    "Model": "gpt-3.5-turbo",
+    "Language": "kk",
+    "Score": 64.8,
+    "Dataset": "udpos",
+    "Metric": "f1"
+  },
+  {
+    "Model": "gpt-3.5-turbo",
+    "Language": "ko",
+    "Score": 39.0,
+    "Dataset": "udpos",
+    "Metric": "f1"
+  },
+  {
+    "Model": "gpt-3.5-turbo",
+    "Language": "lt",
+    "Score": 71.3,
+    "Dataset": "udpos",
+    "Metric": "f1"
+  },
+  {
+    "Model": "gpt-3.5-turbo",
+    "Language": "mr",
+    "Score": 57.9,
+    "Dataset": "udpos",
+    "Metric": "f1"
+  },
+  {
+    "Model": "gpt-3.5-turbo",
+    "Language": "nl",
+    "Score": 78.3,
+    "Dataset": "udpos",
+    "Metric": "f1"
+  },
+  {
+    "Model": "gpt-3.5-turbo",
+    "Language": "pl",
+    "Score": 81.7,
+    "Dataset": "udpos",
+    "Metric": "f1"
+  },
+  {
+    "Model": "gpt-3.5-turbo",
+    "Language": "pt",
+    "Score": 76.7,
+    "Dataset": "udpos",
+    "Metric": "f1"
+  },
+  {
+    "Model": "gpt-3.5-turbo",
+    "Language": "ro",
+    "Score": 66.7,
+    "Dataset": "udpos",
+    "Metric": "f1"
+  },
+  {
+    "Model": "gpt-3.5-turbo",
+    "Language": "ru",
+    "Score": 69.9,
+    "Dataset": "udpos",
+    "Metric": "f1"
+  },
+  {
+    "Model": "gpt-3.5-turbo",
+    "Language": "ta",
+    "Score": 32.6,
+    "Dataset": "udpos",
+    "Metric": "f1"
+  },
+  {
+    "Model": "gpt-3.5-turbo",
+    "Language": "te",
+    "Score": 79.8,
+    "Dataset": "udpos",
+    "Metric": "f1"
+  },
+  {
+    "Model": "gpt-3.5-turbo",
+    "Language": "th",
+    "Score": 25.5,
+    "Dataset": "udpos",
+    "Metric": "f1"
+  },
+  {
+    "Model": "gpt-3.5-turbo",
+    "Language": "tl",
+    "Score": 54.3,
+    "Dataset": "udpos",
+    "Metric": "f1"
+  },
+  {
+    "Model": "gpt-3.5-turbo",
+    "Language": "tr",
+    "Score": 77.2,
+    "Dataset": "udpos",
+    "Metric": "f1"
+  },
+  {
+    "Model": "gpt-3.5-turbo",
+    "Language": "uk",
+    "Score": 58.9,
+    "Dataset": "udpos",
+    "Metric": "f1"
+  },
+  {
+    "Model": "gpt-3.5-turbo",
+    "Language": "ur",
+    "Score": 39.9,
+    "Dataset": "udpos",
+    "Metric": "f1"
+  },
+  {
+    "Model": "gpt-3.5-turbo",
+    "Language": "vi",
+    "Score": 57.7,
+    "Dataset": "udpos",
+    "Metric": "f1"
+  },
+  {
+    "Model": "gpt-3.5-turbo",
+    "Language": "wo",
+    "Score": 50.4,
+    "Dataset": "udpos",
+    "Metric": "f1"
+  },
+  {
+    "Model": "gpt-3.5-turbo",
+    "Language": "yo",
+    "Score": 7.0,
+    "Dataset": "udpos",
+    "Metric": "f1"
+  },
+  {
+    "Model": "gpt-3.5-turbo",
+    "Language": "zh",
+    "Score": 57.2,
+    "Dataset": "udpos",
+    "Metric": "f1"
+  },
+  {
+    "Model": "gpt-3.5-turbo",
+    "Language": "avg",
+    "Score": 60.2,
+    "Dataset": "udpos",
+    "Metric": "f1"
+  },
+  {
+    "Model": "gpt-4-32k",
+    "Language": "en",
+    "Score": 84.1,
+    "Dataset": "udpos",
+    "Metric": "f1"
+  },
+  {
+    "Model": "gpt-4-32k",
+    "Language": "af",
+    "Score": 77.6,
+    "Dataset": "udpos",
+    "Metric": "f1"
+  },
+  {
+    "Model": "gpt-4-32k",
+    "Language": "ar",
+    "Score": 42.0,
+    "Dataset": "udpos",
+    "Metric": "f1"
+  },
+  {
+    "Model": "gpt-4-32k",
+    "Language": "bg",
+    "Score": 83.1,
+    "Dataset": "udpos",
+    "Metric": "f1"
+  },
+  {
+    "Model": "gpt-4-32k",
+    "Language": "de",
+    "Score": 86.3,
+    "Dataset": "udpos",
+    "Metric": "f1"
+  },
+  {
+    "Model": "gpt-4-32k",
+    "Language": "el",
+    "Score": 49.8,
+    "Dataset": "udpos",
+    "Metric": "f1"
+  },
+  {
+    "Model": "gpt-4-32k",
+    "Language": "es",
+    "Score": 68.4,
+    "Dataset": "udpos",
+    "Metric": "f1"
+  },
+  {
+    "Model": "gpt-4-32k",
+    "Language": "et",
+    "Score": 80.2,
+    "Dataset": "udpos",
+    "Metric": "f1"
+  },
+  {
+    "Model": "gpt-4-32k",
+    "Language": "eu",
+    "Score": 79.3,
+    "Dataset": "udpos",
+    "Metric": "f1"
+  },
+  {
+    "Model": "gpt-4-32k",
+    "Language": "fa",
+    "Score": 46.4,
+    "Dataset": "udpos",
+    "Metric": "f1"
+  },
+  {
+    "Model": "gpt-4-32k",
+    "Language": "fi",
+    "Score": 82.7,
+    "Dataset": "udpos",
+    "Metric": "f1"
+  },
+  {
+    "Model": "gpt-4-32k",
+    "Language": "fr",
+    "Score": 85.4,
+    "Dataset": "udpos",
+    "Metric": "f1"
+  },
+  {
+    "Model": "gpt-4-32k",
+    "Language": "he",
+    "Score": 60.4,
+    "Dataset": "udpos",
+    "Metric": "f1"
+  },
+  {
+    "Model": "gpt-4-32k",
+    "Language": "hi",
+    "Score": 52.2,
+    "Dataset": "udpos",
+    "Metric": "f1"
+  },
+  {
+    "Model": "gpt-4-32k",
+    "Language": "hu",
+    "Score": 68.3,
+    "Dataset": "udpos",
+    "Metric": "f1"
+  },
+  {
+    "Model": "gpt-4-32k",
+    "Language": "id",
+    "Score": 68.6,
+    "Dataset": "udpos",
+    "Metric": "f1"
+  },
+  {
+    "Model": "gpt-4-32k",
+    "Language": "it",
+    "Score": 84.1,
+    "Dataset": "udpos",
+    "Metric": "f1"
+  },
+  {
+    "Model": "gpt-4-32k",
+    "Language": "ja",
+    "Score": 60.2,
+    "Dataset": "udpos",
+    "Metric": "f1"
+  },
+  {
+    "Model": "gpt-4-32k",
+    "Language": "kk",
+    "Score": 71.8,
+    "Dataset": "udpos",
+    "Metric": "f1"
+  },
+  {
+    "Model": "gpt-4-32k",
+    "Language": "ko",
+    "Score": 51.2,
+    "Dataset": "udpos",
+    "Metric": "f1"
+  },
+  {
+    "Model": "gpt-4-32k",
+    "Language": "lt",
+    "Score": 73.7,
+    "Dataset": "udpos",
+    "Metric": "f1"
+  },
+  {
+    "Model": "gpt-4-32k",
+    "Language": "mr",
+    "Score": 79.1,
+    "Dataset": "udpos",
+    "Metric": "f1"
+  },
+  {
+    "Model": "gpt-4-32k",
+    "Language": "nl",
+    "Score": 81.8,
+    "Dataset": "udpos",
+    "Metric": "f1"
+  },
+  {
+    "Model": "gpt-4-32k",
+    "Language": "pl",
+    "Score": 80.7,
+    "Dataset": "udpos",
+    "Metric": "f1"
+  },
+  {
+    "Model": "gpt-4-32k",
+    "Language": "pt",
+    "Score": 81.0,
+    "Dataset": "udpos",
+    "Metric": "f1"
+  },
+  {
+    "Model": "gpt-4-32k",
+    "Language": "ro",
+    "Score": 66.3,
+    "Dataset": "udpos",
+    "Metric": "f1"
+  },
+  {
+    "Model": "gpt-4-32k",
+    "Language": "ru",
+    "Score": 74.7,
+    "Dataset": "udpos",
+    "Metric": "f1"
+  },
+  {
+    "Model": "gpt-4-32k",
+    "Language": "ta",
+    "Score": 34.7,
+    "Dataset": "udpos",
+    "Metric": "f1"
+  },
+  {
+    "Model": "gpt-4-32k",
+    "Language": "te",
+    "Score": 84.6,
+    "Dataset": "udpos",
+    "Metric": "f1"
+  },
+  {
+    "Model": "gpt-4-32k",
+    "Language": "th",
+    "Score": 31.2,
+    "Dataset": "udpos",
+    "Metric": "f1"
+  },
+  {
+    "Model": "gpt-4-32k",
+    "Language": "tl",
+    "Score": 58.4,
+    "Dataset": "udpos",
+    "Metric": "f1"
+  },
+  {
+    "Model": "gpt-4-32k",
+    "Language": "tr",
+    "Score": 77.0,
+    "Dataset": "udpos",
+    "Metric": "f1"
+  },
+  {
+    "Model": "gpt-4-32k",
+    "Language": "uk",
+    "Score": 61.9,
+    "Dataset": "udpos",
+    "Metric": "f1"
+  },
+  {
+    "Model": "gpt-4-32k",
+    "Language": "ur",
+    "Score": 41.3,
+    "Dataset": "udpos",
+    "Metric": "f1"
+  },
+  {
+    "Model": "gpt-4-32k",
+    "Language": "vi",
+    "Score": 64.7,
+    "Dataset": "udpos",
+    "Metric": "f1"
+  },
+  {
+    "Model": "gpt-4-32k",
+    "Language": "wo",
+    "Score": 59.1,
+    "Dataset": "udpos",
+    "Metric": "f1"
+  },
+  {
+    "Model": "gpt-4-32k",
+    "Language": "yo",
+    "Score": 33.8,
+    "Dataset": "udpos",
+    "Metric": "f1"
+  },
+  {
+    "Model": "gpt-4-32k",
+    "Language": "zh",
+    "Score": 63.5,
+    "Dataset": "udpos",
+    "Metric": "f1"
+  },
+  {
+    "Model": "gpt-4-32k",
+    "Language": "avg",
+    "Score": 66.6,
+    "Dataset": "udpos",
+    "Metric": "f1"
+  },
+  {
+    "Model": "mBERT",
+    "Language": "en",
+    "Score": 86.4,
+    "Dataset": "panx",
+    "Metric": "f1"
+  },
+  {
+    "Model": "mBERT",
+    "Language": "af",
+    "Score": 76.1,
+    "Dataset": "panx",
+    "Metric": "f1"
+  },
+  {
+    "Model": "mBERT",
+    "Language": "ar",
+    "Score": 42.9,
+    "Dataset": "panx",
+    "Metric": "f1"
+  },
+  {
+    "Model": "mBERT",
+    "Language": "az",
+    "Score": 65.5,
+    "Dataset": "panx",
+    "Metric": "f1"
+  },
+  {
+    "Model": "mBERT",
+    "Language": "bg",
+    "Score": 76.7,
+    "Dataset": "panx",
+    "Metric": "f1"
+  },
+  {
+    "Model": "mBERT",
+    "Language": "bn",
+    "Score": 69.7,
+    "Dataset": "panx",
+    "Metric": "f1"
+  },
+  {
+    "Model": "mBERT",
+    "Language": "de",
+    "Score": 79.5,
+    "Dataset": "panx",
+    "Metric": "f1"
+  },
+  {
+    "Model": "mBERT",
+    "Language": "el",
+    "Score": 70.9,
+    "Dataset": "panx",
+    "Metric": "f1"
+  },
+  {
+    "Model": "mBERT",
+    "Language": "es",
+    "Score": 75.3,
+    "Dataset": "panx",
+    "Metric": "f1"
+  },
+  {
+    "Model": "mBERT",
+    "Language": "et",
+    "Score": 75.8,
+    "Dataset": "panx",
+    "Metric": "f1"
+  },
+  {
+    "Model": "mBERT",
+    "Language": "eu",
+    "Score": 64.4,
+    "Dataset": "panx",
+    "Metric": "f1"
+  },
+  {
+    "Model": "mBERT",
+    "Language": "fa",
+    "Score": 40.0,
+    "Dataset": "panx",
+    "Metric": "f1"
+  },
+  {
+    "Model": "mBERT",
+    "Language": "fi",
+    "Score": 76.6,
+    "Dataset": "panx",
+    "Metric": "f1"
+  },
+  {
+    "Model": "mBERT",
+    "Language": "fr",
+    "Score": 79.6,
+    "Dataset": "panx",
+    "Metric": "f1"
+  },
+  {
+    "Model": "mBERT",
+    "Language": "gu",
+    "Score": 51.3,
+    "Dataset": "panx",
+    "Metric": "f1"
+  },
+  {
+    "Model": "mBERT",
+    "Language": "he",
+    "Score": 56.2,
+    "Dataset": "panx",
+    "Metric": "f1"
+  },
+  {
+    "Model": "mBERT",
+    "Language": "hi",
+    "Score": 65.9,
+    "Dataset": "panx",
+    "Metric": "f1"
+  },
+  {
+    "Model": "mBERT",
+    "Language": "hu",
+    "Score": 76.1,
+    "Dataset": "panx",
+    "Metric": "f1"
+  },
+  {
+    "Model": "mBERT",
+    "Language": "id",
+    "Score": 61.0,
+    "Dataset": "panx",
+    "Metric": "f1"
+  },
+  {
+    "Model": "mBERT",
+    "Language": "it",
+    "Score": 81.3,
+    "Dataset": "panx",
+    "Metric": "f1"
+  },
+  {
+    "Model": "mBERT",
+    "Language": "ja",
+    "Score": 29.2,
+    "Dataset": "panx",
+    "Metric": "f1"
+  },
+  {
+    "Model": "mBERT",
+    "Language": "jv",
+    "Score": 62.4,
+    "Dataset": "panx",
+    "Metric": "f1"
+  },
+  {
+    "Model": "mBERT",
+    "Language": "ka",
+    "Score": 65.1,
+    "Dataset": "panx",
+    "Metric": "f1"
+  },
+  {
+    "Model": "mBERT",
+    "Language": "kk",
+    "Score": 50.3,
+    "Dataset": "panx",
+    "Metric": "f1"
+  },
+  {
+    "Model": "mBERT",
+    "Language": "ko",
+    "Score": 59.5,
+    "Dataset": "panx",
+    "Metric": "f1"
+  },
+  {
+    "Model": "mBERT",
+    "Language": "lt",
+    "Score": 75.8,
+    "Dataset": "panx",
+    "Metric": "f1"
+  },
+  {
+    "Model": "mBERT",
+    "Language": "ml",
+    "Score": 53.0,
+    "Dataset": "panx",
+    "Metric": "f1"
+  },
+  {
+    "Model": "mBERT",
+    "Language": "mr",
+    "Score": 57.0,
+    "Dataset": "panx",
+    "Metric": "f1"
+  },
+  {
+    "Model": "mBERT",
+    "Language": "ms",
+    "Score": 67.1,
+    "Dataset": "panx",
+    "Metric": "f1"
+  },
+  {
+    "Model": "mBERT",
+    "Language": "my",
+    "Score": 45.7,
+    "Dataset": "panx",
+    "Metric": "f1"
+  },
+  {
+    "Model": "mBERT",
+    "Language": "nl",
+    "Score": 81.0,
+    "Dataset": "panx",
+    "Metric": "f1"
+  },
+  {
+    "Model": "mBERT",
+    "Language": "pa",
+    "Score": 30.5,
+    "Dataset": "panx",
+    "Metric": "f1"
+  },
+  {
+    "Model": "mBERT",
+    "Language": "pl",
+    "Score": 79.2,
+    "Dataset": "panx",
+    "Metric": "f1"
+  },
+  {
+    "Model": "mBERT",
+    "Language": "pt",
+    "Score": 80.4,
+    "Dataset": "panx",
+    "Metric": "f1"
+  },
+  {
+    "Model": "mBERT",
+    "Language": "qu",
+    "Score": 58.5,
+    "Dataset": "panx",
+    "Metric": "f1"
+  },
+  {
+    "Model": "mBERT",
+    "Language": "ro",
+    "Score": 74.0,
+    "Dataset": "panx",
+    "Metric": "f1"
+  },
+  {
+    "Model": "mBERT",
+    "Language": "ru",
+    "Score": 63.9,
+    "Dataset": "panx",
+    "Metric": "f1"
+  },
+  {
+    "Model": "mBERT",
+    "Language": "sw",
+    "Score": 71.4,
+    "Dataset": "panx",
+    "Metric": "f1"
+  },
+  {
+    "Model": "mBERT",
+    "Language": "ta",
+    "Score": 50.7,
+    "Dataset": "panx",
+    "Metric": "f1"
+  },
+  {
+    "Model": "mBERT",
+    "Language": "te",
+    "Score": 48.9,
+    "Dataset": "panx",
+    "Metric": "f1"
+  },
+  {
+    "Model": "mBERT",
+    "Language": "th",
+    "Score": 0.4,
+    "Dataset": "panx",
+    "Metric": "f1"
+  },
+  {
+    "Model": "mBERT",
+    "Language": "tl",
+    "Score": 72.6,
+    "Dataset": "panx",
+    "Metric": "f1"
+  },
+  {
+    "Model": "mBERT",
+    "Language": "tr",
+    "Score": 73.4,
+    "Dataset": "panx",
+    "Metric": "f1"
+  },
+  {
+    "Model": "mBERT",
+    "Language": "uk",
+    "Score": 69.7,
+    "Dataset": "panx",
+    "Metric": "f1"
+  },
+  {
+    "Model": "mBERT",
+    "Language": "ur",
+    "Score": 35.4,
+    "Dataset": "panx",
+    "Metric": "f1"
+  },
+  {
+    "Model": "mBERT",
+    "Language": "vi",
+    "Score": 74.5,
+    "Dataset": "panx",
+    "Metric": "f1"
+  },
+  {
+    "Model": "mBERT",
+    "Language": "yo",
+    "Score": 45.8,
+    "Dataset": "panx",
+    "Metric": "f1"
+  },
+  {
+    "Model": "mBERT",
+    "Language": "zh",
+    "Score": 42.5,
+    "Dataset": "panx",
+    "Metric": "f1"
+  },
+  {
+    "Model": "mBERT",
+    "Language": "avg",
+    "Score": 62.3,
+    "Dataset": "panx",
+    "Metric": "f1"
+  },
+  {
+    "Model": "XLM-R Large",
+    "Language": "en",
+    "Score": 85.4,
+    "Dataset": "panx",
+    "Metric": "f1"
+  },
+  {
+    "Model": "XLM-R Large",
+    "Language": "af",
+    "Score": 78.6,
+    "Dataset": "panx",
+    "Metric": "f1"
+  },
+  {
+    "Model": "XLM-R Large",
+    "Language": "ar",
+    "Score": 47.3,
+    "Dataset": "panx",
+    "Metric": "f1"
+  },
+  {
+    "Model": "XLM-R Large",
+    "Language": "az",
+    "Score": 69.4,
+    "Dataset": "panx",
+    "Metric": "f1"
+  },
+  {
+    "Model": "XLM-R Large",
+    "Language": "bg",
+    "Score": 80.9,
+    "Dataset": "panx",
+    "Metric": "f1"
+  },
+  {
+    "Model": "XLM-R Large",
+    "Language": "bn",
+    "Score": 74.7,
+    "Dataset": "panx",
+    "Metric": "f1"
+  },
+  {
+    "Model": "XLM-R Large",
+    "Language": "de",
+    "Score": 80.7,
+    "Dataset": "panx",
+    "Metric": "f1"
+  },
+  {
+    "Model": "XLM-R Large",
+    "Language": "el",
+    "Score": 79.2,
+    "Dataset": "panx",
+    "Metric": "f1"
+  },
+  {
+    "Model": "XLM-R Large",
+    "Language": "es",
+    "Score": 71.8,
+    "Dataset": "panx",
+    "Metric": "f1"
+  },
+  {
+    "Model": "XLM-R Large",
+    "Language": "et",
+    "Score": 78.7,
+    "Dataset": "panx",
+    "Metric": "f1"
+  },
+  {
+    "Model": "XLM-R Large",
+    "Language": "eu",
+    "Score": 61.6,
+    "Dataset": "panx",
+    "Metric": "f1"
+  },
+  {
+    "Model": "XLM-R Large",
+    "Language": "fa",
+    "Score": 55.2,
+    "Dataset": "panx",
+    "Metric": "f1"
+  },
+  {
+    "Model": "XLM-R Large",
+    "Language": "fi",
+    "Score": 79.6,
+    "Dataset": "panx",
+    "Metric": "f1"
+  },
+  {
+    "Model": "XLM-R Large",
+    "Language": "fr",
+    "Score": 79.8,
+    "Dataset": "panx",
+    "Metric": "f1"
+  },
+  {
+    "Model": "XLM-R Large",
+    "Language": "gu",
+    "Score": 62.7,
+    "Dataset": "panx",
+    "Metric": "f1"
+  },
+  {
+    "Model": "XLM-R Large",
+    "Language": "he",
+    "Score": 55.5,
+    "Dataset": "panx",
+    "Metric": "f1"
+  },
+  {
+    "Model": "XLM-R Large",
+    "Language": "hi",
+    "Score": 70.9,
+    "Dataset": "panx",
+    "Metric": "f1"
+  },
+  {
+    "Model": "XLM-R Large",
+    "Language": "hu",
+    "Score": 80.2,
+    "Dataset": "panx",
+    "Metric": "f1"
+  },
+  {
+    "Model": "XLM-R Large",
+    "Language": "id",
+    "Score": 51.8,
+    "Dataset": "panx",
+    "Metric": "f1"
+  },
+  {
+    "Model": "XLM-R Large",
+    "Language": "it",
+    "Score": 80.3,
+    "Dataset": "panx",
+    "Metric": "f1"
+  },
+  {
+    "Model": "XLM-R Large",
+    "Language": "ja",
+    "Score": 18.5,
+    "Dataset": "panx",
+    "Metric": "f1"
+  },
+  {
+    "Model": "XLM-R Large",
+    "Language": "jv",
+    "Score": 61.9,
+    "Dataset": "panx",
+    "Metric": "f1"
+  },
+  {
+    "Model": "XLM-R Large",
+    "Language": "ka",
+    "Score": 70.9,
+    "Dataset": "panx",
+    "Metric": "f1"
+  },
+  {
+    "Model": "XLM-R Large",
+    "Language": "kk",
+    "Score": 54.4,
+    "Dataset": "panx",
+    "Metric": "f1"
+  },
+  {
+    "Model": "XLM-R Large",
+    "Language": "ko",
+    "Score": 59.2,
+    "Dataset": "panx",
+    "Metric": "f1"
+  },
+  {
+    "Model": "XLM-R Large",
+    "Language": "lt",
+    "Score": 75.8,
+    "Dataset": "panx",
+    "Metric": "f1"
+  },
+  {
+    "Model": "XLM-R Large",
+    "Language": "ml",
+    "Score": 60.2,
+    "Dataset": "panx",
+    "Metric": "f1"
+  },
+  {
+    "Model": "XLM-R Large",
+    "Language": "mr",
+    "Score": 63.4,
+    "Dataset": "panx",
+    "Metric": "f1"
+  },
+  {
+    "Model": "XLM-R Large",
+    "Language": "ms",
+    "Score": 68.5,
+    "Dataset": "panx",
+    "Metric": "f1"
+  },
+  {
+    "Model": "XLM-R Large",
+    "Language": "my",
+    "Score": 55.2,
+    "Dataset": "panx",
+    "Metric": "f1"
+  },
+  {
+    "Model": "XLM-R Large",
+    "Language": "nl",
+    "Score": 83.2,
+    "Dataset": "panx",
+    "Metric": "f1"
+  },
+  {
+    "Model": "XLM-R Large",
+    "Language": "pa",
+    "Score": 49.4,
+    "Dataset": "panx",
+    "Metric": "f1"
+  },
+  {
+    "Model": "XLM-R Large",
+    "Language": "pl",
+    "Score": 79.3,
+    "Dataset": "panx",
+    "Metric": "f1"
+  },
+  {
+    "Model": "XLM-R Large",
+    "Language": "pt",
+    "Score": 79.9,
+    "Dataset": "panx",
+    "Metric": "f1"
+  },
+  {
+    "Model": "XLM-R Large",
+    "Language": "qu",
+    "Score": 58.5,
+    "Dataset": "panx",
+    "Metric": "f1"
+  },
+  {
+    "Model": "XLM-R Large",
+    "Language": "ro",
+    "Score": 78.7,
+    "Dataset": "panx",
+    "Metric": "f1"
+  },
+  {
+    "Model": "XLM-R Large",
+    "Language": "ru",
+    "Score": 71.9,
+    "Dataset": "panx",
+    "Metric": "f1"
+  },
+  {
+    "Model": "XLM-R Large",
+    "Language": "sw",
+    "Score": 68.9,
+    "Dataset": "panx",
+    "Metric": "f1"
+  },
+  {
+    "Model": "XLM-R Large",
+    "Language": "ta",
+    "Score": 58.4,
+    "Dataset": "panx",
+    "Metric": "f1"
+  },
+  {
+    "Model": "XLM-R Large",
+    "Language": "te",
+    "Score": 53.8,
+    "Dataset": "panx",
+    "Metric": "f1"
+  },
+  {
+    "Model": "XLM-R Large",
+    "Language": "th",
+    "Score": 0.7,
+    "Dataset": "panx",
+    "Metric": "f1"
+  },
+  {
+    "Model": "XLM-R Large",
+    "Language": "tl",
+    "Score": 74.7,
+    "Dataset": "panx",
+    "Metric": "f1"
+  },
+  {
+    "Model": "XLM-R Large",
+    "Language": "tr",
+    "Score": 80.3,
+    "Dataset": "panx",
+    "Metric": "f1"
+  },
+  {
+    "Model": "XLM-R Large",
+    "Language": "uk",
+    "Score": 78.0,
+    "Dataset": "panx",
+    "Metric": "f1"
+  },
+  {
+    "Model": "XLM-R Large",
+    "Language": "ur",
+    "Score": 60.3,
+    "Dataset": "panx",
+    "Metric": "f1"
+  },
+  {
+    "Model": "XLM-R Large",
+    "Language": "vi",
+    "Score": 78.3,
+    "Dataset": "panx",
+    "Metric": "f1"
+  },
+  {
+    "Model": "XLM-R Large",
+    "Language": "yo",
+    "Score": 37.0,
+    "Dataset": "panx",
+    "Metric": "f1"
+  },
+  {
+    "Model": "XLM-R Large",
+    "Language": "zh",
+    "Score": 26.6,
+    "Dataset": "panx",
+    "Metric": "f1"
+  },
+  {
+    "Model": "XLM-R Large",
+    "Language": "avg",
+    "Score": 65.2,
+    "Dataset": "panx",
+    "Metric": "f1"
+  },
+  {
+    "Model": "gpt-3.5-turbo",
+    "Language": "en",
+    "Score": 43.2,
+    "Dataset": "panx",
+    "Metric": "f1"
+  },
+  {
+    "Model": "gpt-3.5-turbo",
+    "Language": "af",
+    "Score": 43.8,
+    "Dataset": "panx",
+    "Metric": "f1"
+  },
+  {
+    "Model": "gpt-3.5-turbo",
+    "Language": "ar",
+    "Score": 45.4,
+    "Dataset": "panx",
+    "Metric": "f1"
+  },
+  {
+    "Model": "gpt-3.5-turbo",
+    "Language": "az",
+    "Score": 42.1,
+    "Dataset": "panx",
+    "Metric": "f1"
+  },
+  {
+    "Model": "gpt-3.5-turbo",
+    "Language": "bg",
+    "Score": 51.6,
+    "Dataset": "panx",
+    "Metric": "f1"
+  },
+  {
+    "Model": "gpt-3.5-turbo",
+    "Language": "bn",
+    "Score": 40.3,
+    "Dataset": "panx",
+    "Metric": "f1"
+  },
+  {
+    "Model": "gpt-3.5-turbo",
+    "Language": "de",
+    "Score": 52.7,
+    "Dataset": "panx",
+    "Metric": "f1"
+  },
+  {
+    "Model": "gpt-3.5-turbo",
+    "Language": "el",
+    "Score": 41.0,
+    "Dataset": "panx",
+    "Metric": "f1"
+  },
+  {
+    "Model": "gpt-3.5-turbo",
+    "Language": "es",
+    "Score": 60.2,
+    "Dataset": "panx",
+    "Metric": "f1"
+  },
+  {
+    "Model": "gpt-3.5-turbo",
+    "Language": "et",
+    "Score": 58.7,
+    "Dataset": "panx",
+    "Metric": "f1"
+  },
+  {
+    "Model": "gpt-3.5-turbo",
+    "Language": "eu",
+    "Score": 31.5,
+    "Dataset": "panx",
+    "Metric": "f1"
+  },
+  {
+    "Model": "gpt-3.5-turbo",
+    "Language": "fa",
+    "Score": 39.3,
+    "Dataset": "panx",
+    "Metric": "f1"
+  },
+  {
+    "Model": "gpt-3.5-turbo",
+    "Language": "fi",
+    "Score": 59.1,
+    "Dataset": "panx",
+    "Metric": "f1"
+  },
+  {
+    "Model": "gpt-3.5-turbo",
+    "Language": "fr",
+    "Score": 50.7,
+    "Dataset": "panx",
+    "Metric": "f1"
+  },
+  {
+    "Model": "gpt-3.5-turbo",
+    "Language": "gu",
+    "Score": 18.4,
+    "Dataset": "panx",
+    "Metric": "f1"
+  },
+  {
+    "Model": "gpt-3.5-turbo",
+    "Language": "he",
+    "Score": 34.3,
+    "Dataset": "panx",
+    "Metric": "f1"
+  },
+  {
+    "Model": "gpt-3.5-turbo",
+    "Language": "hi",
+    "Score": 45.5,
+    "Dataset": "panx",
+    "Metric": "f1"
+  },
+  {
+    "Model": "gpt-3.5-turbo",
+    "Language": "hu",
+    "Score": 53.7,
+    "Dataset": "panx",
+    "Metric": "f1"
+  },
+  {
+    "Model": "gpt-3.5-turbo",
+    "Language": "id",
+    "Score": 58.4,
+    "Dataset": "panx",
+    "Metric": "f1"
+  },
+  {
+    "Model": "gpt-3.5-turbo",
+    "Language": "it",
+    "Score": 60.0,
+    "Dataset": "panx",
+    "Metric": "f1"
+  },
+  {
+    "Model": "gpt-3.5-turbo",
+    "Language": "ja",
+    "Score": 7.4,
+    "Dataset": "panx",
+    "Metric": "f1"
+  },
+  {
+    "Model": "gpt-3.5-turbo",
+    "Language": "jv",
+    "Score": 57.7,
+    "Dataset": "panx",
+    "Metric": "f1"
+  },
+  {
+    "Model": "gpt-3.5-turbo",
+    "Language": "ka",
+    "Score": 25.1,
+    "Dataset": "panx",
+    "Metric": "f1"
+  },
+  {
+    "Model": "gpt-3.5-turbo",
+    "Language": "kk",
+    "Score": 30.9,
+    "Dataset": "panx",
+    "Metric": "f1"
+  },
+  {
+    "Model": "gpt-3.5-turbo",
+    "Language": "ko",
+    "Score": 27.9,
+    "Dataset": "panx",
+    "Metric": "f1"
+  },
+  {
+    "Model": "gpt-3.5-turbo",
+    "Language": "lt",
+    "Score": 51.9,
+    "Dataset": "panx",
+    "Metric": "f1"
+  },
+  {
+    "Model": "gpt-3.5-turbo",
+    "Language": "ml",
+    "Score": 25.2,
+    "Dataset": "panx",
+    "Metric": "f1"
+  },
+  {
+    "Model": "gpt-3.5-turbo",
+    "Language": "mr",
+    "Score": 34.4,
+    "Dataset": "panx",
+    "Metric": "f1"
+  },
+  {
+    "Model": "gpt-3.5-turbo",
+    "Language": "ms",
+    "Score": 52.0,
+    "Dataset": "panx",
+    "Metric": "f1"
+  },
+  {
+    "Model": "gpt-3.5-turbo",
+    "Language": "my",
+    "Score": 8.7,
+    "Dataset": "panx",
+    "Metric": "f1"
+  },
+  {
+    "Model": "gpt-3.5-turbo",
+    "Language": "nl",
+    "Score": 59.4,
+    "Dataset": "panx",
+    "Metric": "f1"
+  },
+  {
+    "Model": "gpt-3.5-turbo",
+    "Language": "pa",
+    "Score": 36.7,
+    "Dataset": "panx",
+    "Metric": "f1"
+  },
+  {
+    "Model": "gpt-3.5-turbo",
+    "Language": "pl",
+    "Score": 58.4,
+    "Dataset": "panx",
+    "Metric": "f1"
+  },
+  {
+    "Model": "gpt-3.5-turbo",
+    "Language": "pt",
+    "Score": 48.9,
+    "Dataset": "panx",
+    "Metric": "f1"
+  },
+  {
+    "Model": "gpt-3.5-turbo",
+    "Language": "qu",
+    "Score": 41.9,
+    "Dataset": "panx",
+    "Metric": "f1"
+  },
+  {
+    "Model": "gpt-3.5-turbo",
+    "Language": "ro",
+    "Score": 42.7,
+    "Dataset": "panx",
+    "Metric": "f1"
+  },
+  {
+    "Model": "gpt-3.5-turbo",
+    "Language": "ru",
+    "Score": 29.4,
+    "Dataset": "panx",
+    "Metric": "f1"
+  },
+  {
+    "Model": "gpt-3.5-turbo",
+    "Language": "sw",
+    "Score": 57.7,
+    "Dataset": "panx",
+    "Metric": "f1"
+  },
+  {
+    "Model": "gpt-3.5-turbo",
+    "Language": "ta",
+    "Score": 26.0,
+    "Dataset": "panx",
+    "Metric": "f1"
+  },
+  {
+    "Model": "gpt-3.5-turbo",
+    "Language": "te",
+    "Score": 22.0,
+    "Dataset": "panx",
+    "Metric": "f1"
+  },
+  {
+    "Model": "gpt-3.5-turbo",
+    "Language": "th",
+    "Score": 1.7,
+    "Dataset": "panx",
+    "Metric": "f1"
+  },
+  {
+    "Model": "gpt-3.5-turbo",
+    "Language": "tl",
+    "Score": 36.5,
+    "Dataset": "panx",
+    "Metric": "f1"
+  },
+  {
+    "Model": "gpt-3.5-turbo",
+    "Language": "tr",
+    "Score": 50.5,
+    "Dataset": "panx",
+    "Metric": "f1"
+  },
+  {
+    "Model": "gpt-3.5-turbo",
+    "Language": "uk",
+    "Score": 34.4,
+    "Dataset": "panx",
+    "Metric": "f1"
+  },
+  {
+    "Model": "gpt-3.5-turbo",
+    "Language": "ur",
+    "Score": 35.7,
+    "Dataset": "panx",
+    "Metric": "f1"
+  },
+  {
+    "Model": "gpt-3.5-turbo",
+    "Language": "vi",
+    "Score": 33.5,
+    "Dataset": "panx",
+    "Metric": "f1"
+  },
+  {
+    "Model": "gpt-3.5-turbo",
+    "Language": "yo",
+    "Score": 56.9,
+    "Dataset": "panx",
+    "Metric": "f1"
+  },
+  {
+    "Model": "gpt-3.5-turbo",
+    "Language": "zh",
+    "Score": 13.3,
+    "Dataset": "panx",
+    "Metric": "f1"
+  },
+  {
+    "Model": "gpt-3.5-turbo",
+    "Language": "avg",
+    "Score": 40.3,
+    "Dataset": "panx",
+    "Metric": "f1"
+  },
+  {
+    "Model": "gpt-4-32k",
+    "Language": "en",
+    "Score": 49.7,
+    "Dataset": "panx",
+    "Metric": "f1"
+  },
+  {
+    "Model": "gpt-4-32k",
+    "Language": "af",
+    "Score": 55.9,
+    "Dataset": "panx",
+    "Metric": "f1"
+  },
+  {
+    "Model": "gpt-4-32k",
+    "Language": "ar",
+    "Score": 59.4,
+    "Dataset": "panx",
+    "Metric": "f1"
+  },
+  {
+    "Model": "gpt-4-32k",
+    "Language": "az",
+    "Score": 59.6,
+    "Dataset": "panx",
+    "Metric": "f1"
+  },
+  {
+    "Model": "gpt-4-32k",
+    "Language": "bg",
+    "Score": 62.6,
+    "Dataset": "panx",
+    "Metric": "f1"
+  },
+  {
+    "Model": "gpt-4-32k",
+    "Language": "bn",
+    "Score": 52.7,
+    "Dataset": "panx",
+    "Metric": "f1"
+  },
+  {
+    "Model": "gpt-4-32k",
+    "Language": "de",
+    "Score": 69.2,
+    "Dataset": "panx",
+    "Metric": "f1"
+  },
+  {
+    "Model": "gpt-4-32k",
+    "Language": "el",
+    "Score": 54.4,
+    "Dataset": "panx",
+    "Metric": "f1"
+  },
+  {
+    "Model": "gpt-4-32k",
+    "Language": "es",
+    "Score": 68.6,
+    "Dataset": "panx",
+    "Metric": "f1"
+  },
+  {
+    "Model": "gpt-4-32k",
+    "Language": "et",
+    "Score": 74.4,
+    "Dataset": "panx",
+    "Metric": "f1"
+  },
+  {
+    "Model": "gpt-4-32k",
+    "Language": "eu",
+    "Score": 57.8,
+    "Dataset": "panx",
+    "Metric": "f1"
+  },
+  {
+    "Model": "gpt-4-32k",
+    "Language": "fa",
+    "Score": 67.6,
+    "Dataset": "panx",
+    "Metric": "f1"
+  },
+  {
+    "Model": "gpt-4-32k",
+    "Language": "fi",
+    "Score": 71.1,
+    "Dataset": "panx",
+    "Metric": "f1"
+  },
+  {
+    "Model": "gpt-4-32k",
+    "Language": "fr",
+    "Score": 68.5,
+    "Dataset": "panx",
+    "Metric": "f1"
+  },
+  {
+    "Model": "gpt-4-32k",
+    "Language": "gu",
+    "Score": 23.8,
+    "Dataset": "panx",
+    "Metric": "f1"
+  },
+  {
+    "Model": "gpt-4-32k",
+    "Language": "he",
+    "Score": 48.0,
+    "Dataset": "panx",
+    "Metric": "f1"
+  },
+  {
+    "Model": "gpt-4-32k",
+    "Language": "hi",
+    "Score": 59.4,
+    "Dataset": "panx",
+    "Metric": "f1"
+  },
+  {
+    "Model": "gpt-4-32k",
+    "Language": "hu",
+    "Score": 71.9,
+    "Dataset": "panx",
+    "Metric": "f1"
+  },
+  {
+    "Model": "gpt-4-32k",
+    "Language": "id",
+    "Score": 72.7,
+    "Dataset": "panx",
+    "Metric": "f1"
+  },
+  {
+    "Model": "gpt-4-32k",
+    "Language": "it",
+    "Score": 72.8,
+    "Dataset": "panx",
+    "Metric": "f1"
+  },
+  {
+    "Model": "gpt-4-32k",
+    "Language": "ja",
+    "Score": 9.2,
+    "Dataset": "panx",
+    "Metric": "f1"
+  },
+  {
+    "Model": "gpt-4-32k",
+    "Language": "jv",
+    "Score": 68.8,
+    "Dataset": "panx",
+    "Metric": "f1"
+  },
+  {
+    "Model": "gpt-4-32k",
+    "Language": "ka",
+    "Score": 31.6,
+    "Dataset": "panx",
+    "Metric": "f1"
+  },
+  {
+    "Model": "gpt-4-32k",
+    "Language": "kk",
+    "Score": 45.3,
+    "Dataset": "panx",
+    "Metric": "f1"
+  },
+  {
+    "Model": "gpt-4-32k",
+    "Language": "ko",
+    "Score": 51.4,
+    "Dataset": "panx",
+    "Metric": "f1"
+  },
+  {
+    "Model": "gpt-4-32k",
+    "Language": "lt",
+    "Score": 71.3,
+    "Dataset": "panx",
+    "Metric": "f1"
+  },
+  {
+    "Model": "gpt-4-32k",
+    "Language": "ml",
+    "Score": 35.6,
+    "Dataset": "panx",
+    "Metric": "f1"
+  },
+  {
+    "Model": "gpt-4-32k",
+    "Language": "mr",
+    "Score": 47.4,
+    "Dataset": "panx",
+    "Metric": "f1"
+  },
+  {
+    "Model": "gpt-4-32k",
+    "Language": "ms",
+    "Score": 64.1,
+    "Dataset": "panx",
+    "Metric": "f1"
+  },
+  {
+    "Model": "gpt-4-32k",
+    "Language": "my",
+    "Score": 16.3,
+    "Dataset": "panx",
+    "Metric": "f1"
+  },
+  {
+    "Model": "gpt-4-32k",
+    "Language": "nl",
+    "Score": 67.9,
+    "Dataset": "panx",
+    "Metric": "f1"
+  },
+  {
+    "Model": "gpt-4-32k",
+    "Language": "pa",
+    "Score": 49.8,
+    "Dataset": "panx",
+    "Metric": "f1"
+  },
+  {
+    "Model": "gpt-4-32k",
+    "Language": "pl",
+    "Score": 70.3,
+    "Dataset": "panx",
+    "Metric": "f1"
+  },
+  {
+    "Model": "gpt-4-32k",
+    "Language": "pt",
+    "Score": 64.5,
+    "Dataset": "panx",
+    "Metric": "f1"
+  },
+  {
+    "Model": "gpt-4-32k",
+    "Language": "qu",
+    "Score": 69.8,
+    "Dataset": "panx",
+    "Metric": "f1"
+  },
+  {
+    "Model": "gpt-4-32k",
+    "Language": "ro",
+    "Score": 59.6,
+    "Dataset": "panx",
+    "Metric": "f1"
+  },
+  {
+    "Model": "gpt-4-32k",
+    "Language": "ru",
+    "Score": 64.8,
+    "Dataset": "panx",
+    "Metric": "f1"
+  },
+  {
+    "Model": "gpt-4-32k",
+    "Language": "sw",
+    "Score": 68.9,
+    "Dataset": "panx",
+    "Metric": "f1"
+  },
+  {
+    "Model": "gpt-4-32k",
+    "Language": "ta",
+    "Score": 36.9,
+    "Dataset": "panx",
+    "Metric": "f1"
+  },
+  {
+    "Model": "gpt-4-32k",
+    "Language": "te",
+    "Score": 33.0,
+    "Dataset": "panx",
+    "Metric": "f1"
+  },
+  {
+    "Model": "gpt-4-32k",
+    "Language": "th",
+    "Score": 2.5,
+    "Dataset": "panx",
+    "Metric": "f1"
+  },
+  {
+    "Model": "gpt-4-32k",
+    "Language": "tl",
+    "Score": 61.9,
+    "Dataset": "panx",
+    "Metric": "f1"
+  },
+  {
+    "Model": "gpt-4-32k",
+    "Language": "tr",
+    "Score": 72.9,
+    "Dataset": "panx",
+    "Metric": "f1"
+  },
+  {
+    "Model": "gpt-4-32k",
+    "Language": "uk",
+    "Score": 58.4,
+    "Dataset": "panx",
+    "Metric": "f1"
+  },
+  {
+    "Model": "gpt-4-32k",
+    "Language": "ur",
+    "Score": 69.6,
+    "Dataset": "panx",
+    "Metric": "f1"
+  },
+  {
+    "Model": "gpt-4-32k",
+    "Language": "vi",
+    "Score": 58.4,
+    "Dataset": "panx",
+    "Metric": "f1"
+  },
+  {
+    "Model": "gpt-4-32k",
+    "Language": "yo",
+    "Score": 73.9,
+    "Dataset": "panx",
+    "Metric": "f1"
+  },
+  {
+    "Model": "gpt-4-32k",
+    "Language": "zh",
+    "Score": 18.5,
+    "Dataset": "panx",
+    "Metric": "f1"
+  },
+  {
+    "Model": "gpt-4-32k",
+    "Language": "avg",
+    "Score": 55.5,
+    "Dataset": "panx",
+    "Metric": "f1"
+  },
+  {
+    "Model": "BLOOMZ",
+    "Language": "ar",
+    "Score": 79.7,
+    "Dataset": "xstorycloze",
+    "Metric": "accuracy"
+  },
+  {
+    "Model": "BLOOMZ",
+    "Language": "en",
+    "Score": 95.7,
+    "Dataset": "xstorycloze",
+    "Metric": "accuracy"
+  },
+  {
+    "Model": "BLOOMZ",
+    "Language": "es",
+    "Score": 87.3,
+    "Dataset": "xstorycloze",
+    "Metric": "accuracy"
+  },
+  {
+    "Model": "BLOOMZ",
+    "Language": "eu",
+    "Score": 70.5,
+    "Dataset": "xstorycloze",
+    "Metric": "accuracy"
+  },
+  {
+    "Model": "BLOOMZ",
+    "Language": "hi",
+    "Score": 79.9,
+    "Dataset": "xstorycloze",
+    "Metric": "accuracy"
+  },
+  {
+    "Model": "BLOOMZ",
+    "Language": "id",
+    "Score": 85.6,
+    "Dataset": "xstorycloze",
+    "Metric": "accuracy"
+  },
+  {
+    "Model": "BLOOMZ",
+    "Language": "my",
+    "Score": 49.9,
+    "Dataset": "xstorycloze",
+    "Metric": "accuracy"
+  },
+  {
+    "Model": "BLOOMZ",
+    "Language": "ru",
+    "Score": 67.3,
+    "Dataset": "xstorycloze",
+    "Metric": "accuracy"
+  },
+  {
+    "Model": "BLOOMZ",
+    "Language": "sw",
+    "Score": 65.3,
+    "Dataset": "xstorycloze",
+    "Metric": "accuracy"
+  },
+  {
+    "Model": "BLOOMZ",
+    "Language": "te",
+    "Score": 67.4,
+    "Dataset": "xstorycloze",
+    "Metric": "accuracy"
+  },
+  {
+    "Model": "BLOOMZ",
+    "Language": "zh",
+    "Score": 90.0,
+    "Dataset": "xstorycloze",
+    "Metric": "accuracy"
+  },
+  {
+    "Model": "BLOOMZ",
+    "Language": "avg",
+    "Score": 76.2,
+    "Dataset": "xstorycloze",
+    "Metric": "accuracy"
+  },
+  {
+    "Model": "XGLM",
+    "Language": "ar",
+    "Score": 59.8,
+    "Dataset": "xstorycloze",
+    "Metric": "accuracy"
+  },
+  {
+    "Model": "XGLM",
+    "Language": "en",
+    "Score": 75.9,
+    "Dataset": "xstorycloze",
+    "Metric": "accuracy"
+  },
+  {
+    "Model": "XGLM",
+    "Language": "es",
+    "Score": 69.2,
+    "Dataset": "xstorycloze",
+    "Metric": "accuracy"
+  },
+  {
+    "Model": "XGLM",
+    "Language": "eu",
+    "Score": 63.8,
+    "Dataset": "xstorycloze",
+    "Metric": "accuracy"
+  },
+  {
+    "Model": "XGLM",
+    "Language": "hi",
+    "Score": 62.5,
+    "Dataset": "xstorycloze",
+    "Metric": "accuracy"
+  },
+  {
+    "Model": "XGLM",
+    "Language": "id",
+    "Score": 70.8,
+    "Dataset": "xstorycloze",
+    "Metric": "accuracy"
+  },
+  {
+    "Model": "XGLM",
+    "Language": "my",
+    "Score": 61.2,
+    "Dataset": "xstorycloze",
+    "Metric": "accuracy"
+  },
+  {
+    "Model": "XGLM",
+    "Language": "ru",
+    "Score": 72.4,
+    "Dataset": "xstorycloze",
+    "Metric": "accuracy"
+  },
+  {
+    "Model": "XGLM",
+    "Language": "sw",
+    "Score": 65.2,
+    "Dataset": "xstorycloze",
+    "Metric": "accuracy"
+  },
+  {
+    "Model": "XGLM",
+    "Language": "te",
+    "Score": 63.4,
+    "Dataset": "xstorycloze",
+    "Metric": "accuracy"
+  },
+  {
+    "Model": "XGLM",
+    "Language": "zh",
+    "Score": 67.7,
+    "Dataset": "xstorycloze",
+    "Metric": "accuracy"
+  },
+  {
+    "Model": "XGLM",
+    "Language": "avg",
+    "Score": 66.5,
+    "Dataset": "xstorycloze",
+    "Metric": "accuracy"
+  },
+  {
+    "Model": "gpt-3.5-turbo",
+    "Language": "ar",
+    "Score": 92.5,
+    "Dataset": "xstorycloze",
+    "Metric": "accuracy"
+  },
+  {
+    "Model": "gpt-3.5-turbo",
+    "Language": "en",
+    "Score": 96.8,
+    "Dataset": "xstorycloze",
+    "Metric": "accuracy"
+  },
+  {
+    "Model": "gpt-3.5-turbo",
+    "Language": "es",
+    "Score": 95.8,
+    "Dataset": "xstorycloze",
+    "Metric": "accuracy"
+  },
+  {
+    "Model": "gpt-3.5-turbo",
+    "Language": "eu",
+    "Score": 78.4,
+    "Dataset": "xstorycloze",
+    "Metric": "accuracy"
+  },
+  {
+    "Model": "gpt-3.5-turbo",
+    "Language": "hi",
+    "Score": 91.1,
+    "Dataset": "xstorycloze",
+    "Metric": "accuracy"
+  },
+  {
+    "Model": "gpt-3.5-turbo",
+    "Language": "id",
+    "Score": 95.0,
+    "Dataset": "xstorycloze",
+    "Metric": "accuracy"
+  },
+  {
+    "Model": "gpt-3.5-turbo",
+    "Language": "my",
+    "Score": 57.2,
+    "Dataset": "xstorycloze",
+    "Metric": "accuracy"
+  },
+  {
+    "Model": "gpt-3.5-turbo",
+    "Language": "ru",
+    "Score": 96.6,
+    "Dataset": "xstorycloze",
+    "Metric": "accuracy"
+  },
+  {
+    "Model": "gpt-3.5-turbo",
+    "Language": "sw",
+    "Score": 92.3,
+    "Dataset": "xstorycloze",
+    "Metric": "accuracy"
+  },
+  {
+    "Model": "gpt-3.5-turbo",
+    "Language": "te",
+    "Score": 73.1,
+    "Dataset": "xstorycloze",
+    "Metric": "accuracy"
+  },
+  {
+    "Model": "gpt-3.5-turbo",
+    "Language": "zh",
+    "Score": 95.6,
+    "Dataset": "xstorycloze",
+    "Metric": "accuracy"
+  },
+  {
+    "Model": "gpt-3.5-turbo",
+    "Language": "avg",
+    "Score": 87.7,
+    "Dataset": "xstorycloze",
+    "Metric": "accuracy"
+  },
+  {
+    "Model": "gpt-3.5-turbo (TT)",
+    "Language": "ar",
+    "Score": 94.3,
+    "Dataset": "xstorycloze",
+    "Metric": "accuracy"
+  },
+  {
+    "Model": "gpt-3.5-turbo (TT)",
+    "Language": "en",
+    "Score": 96.8,
+    "Dataset": "xstorycloze",
+    "Metric": "accuracy"
+  },
+  {
+    "Model": "gpt-3.5-turbo (TT)",
+    "Language": "es",
+    "Score": 96.1,
+    "Dataset": "xstorycloze",
+    "Metric": "accuracy"
+  },
+  {
+    "Model": "gpt-3.5-turbo (TT)",
+    "Language": "eu",
+    "Score": 92.5,
+    "Dataset": "xstorycloze",
+    "Metric": "accuracy"
+  },
+  {
+    "Model": "gpt-3.5-turbo (TT)",
+    "Language": "hi",
+    "Score": 94.7,
+    "Dataset": "xstorycloze",
+    "Metric": "accuracy"
+  },
+  {
+    "Model": "gpt-3.5-turbo (TT)",
+    "Language": "id",
+    "Score": 95.2,
+    "Dataset": "xstorycloze",
+    "Metric": "accuracy"
+  },
+  {
+    "Model": "gpt-3.5-turbo (TT)",
+    "Language": "my",
+    "Score": 88.6,
+    "Dataset": "xstorycloze",
+    "Metric": "accuracy"
+  },
+  {
+    "Model": "gpt-3.5-turbo (TT)",
+    "Language": "ru",
+    "Score": 96.2,
+    "Dataset": "xstorycloze",
+    "Metric": "accuracy"
+  },
+  {
+    "Model": "gpt-3.5-turbo (TT)",
+    "Language": "sw",
+    "Score": 88.7,
+    "Dataset": "xstorycloze",
+    "Metric": "accuracy"
+  },
+  {
+    "Model": "gpt-3.5-turbo (TT)",
+    "Language": "te",
+    "Score": 93.6,
+    "Dataset": "xstorycloze",
+    "Metric": "accuracy"
+  },
+  {
+    "Model": "gpt-3.5-turbo (TT)",
+    "Language": "zh",
+    "Score": 95.6,
+    "Dataset": "xstorycloze",
+    "Metric": "accuracy"
+  },
+  {
+    "Model": "gpt-3.5-turbo (TT)",
+    "Language": "avg",
+    "Score": 93.9,
+    "Dataset": "xstorycloze",
+    "Metric": "accuracy"
+  },
+  {
+    "Model": "text-davinci-003",
+    "Language": "ar",
+    "Score": 87.4,
+    "Dataset": "xstorycloze",
+    "Metric": "accuracy"
+  },
+  {
+    "Model": "text-davinci-003",
+    "Language": "en",
+    "Score": 98.3,
+    "Dataset": "xstorycloze",
+    "Metric": "accuracy"
+  },
+  {
+    "Model": "text-davinci-003",
+    "Language": "es",
+    "Score": 97.6,
+    "Dataset": "xstorycloze",
+    "Metric": "accuracy"
+  },
+  {
+    "Model": "text-davinci-003",
+    "Language": "eu",
+    "Score": 78.1,
+    "Dataset": "xstorycloze",
+    "Metric": "accuracy"
+  },
+  {
+    "Model": "text-davinci-003",
+    "Language": "hi",
+    "Score": 77.8,
+    "Dataset": "xstorycloze",
+    "Metric": "accuracy"
+  },
+  {
+    "Model": "text-davinci-003",
+    "Language": "id",
+    "Score": 96.4,
+    "Dataset": "xstorycloze",
+    "Metric": "accuracy"
+  },
+  {
+    "Model": "text-davinci-003",
+    "Language": "my",
+    "Score": 47.4,
+    "Dataset": "xstorycloze",
+    "Metric": "accuracy"
+  },
+  {
+    "Model": "text-davinci-003",
+    "Language": "ru",
+    "Score": 94.2,
+    "Dataset": "xstorycloze",
+    "Metric": "accuracy"
+  },
+  {
+    "Model": "text-davinci-003",
+    "Language": "sw",
+    "Score": 78.1,
+    "Dataset": "xstorycloze",
+    "Metric": "accuracy"
+  },
+  {
+    "Model": "text-davinci-003",
+    "Language": "te",
+    "Score": 57.6,
+    "Dataset": "xstorycloze",
+    "Metric": "accuracy"
+  },
+  {
+    "Model": "text-davinci-003",
+    "Language": "zh",
+    "Score": 95.0,
+    "Dataset": "xstorycloze",
+    "Metric": "accuracy"
+  },
+  {
+    "Model": "text-davinci-003",
+    "Language": "avg",
+    "Score": 82.5,
+    "Dataset": "xstorycloze",
+    "Metric": "accuracy"
+  },
+  {
+    "Model": "text-davinci-003 (TT)",
+    "Language": "ar",
+    "Score": 95.0,
+    "Dataset": "xstorycloze",
+    "Metric": "accuracy"
+  },
+  {
+    "Model": "text-davinci-003 (TT)",
+    "Language": "en",
+    "Score": 98.3,
+    "Dataset": "xstorycloze",
+    "Metric": "accuracy"
+  },
+  {
+    "Model": "text-davinci-003 (TT)",
+    "Language": "es",
+    "Score": 96.2,
+    "Dataset": "xstorycloze",
+    "Metric": "accuracy"
+  },
+  {
+    "Model": "text-davinci-003 (TT)",
+    "Language": "eu",
+    "Score": 94.1,
+    "Dataset": "xstorycloze",
+    "Metric": "accuracy"
+  },
+  {
+    "Model": "text-davinci-003 (TT)",
+    "Language": "hi",
+    "Score": 95.1,
+    "Dataset": "xstorycloze",
+    "Metric": "accuracy"
+  },
+  {
+    "Model": "text-davinci-003 (TT)",
+    "Language": "id",
+    "Score": 95.9,
+    "Dataset": "xstorycloze",
+    "Metric": "accuracy"
+  },
+  {
+    "Model": "text-davinci-003 (TT)",
+    "Language": "my",
+    "Score": 90.1,
+    "Dataset": "xstorycloze",
+    "Metric": "accuracy"
+  },
+  {
+    "Model": "text-davinci-003 (TT)",
+    "Language": "ru",
+    "Score": 96.9,
+    "Dataset": "xstorycloze",
+    "Metric": "accuracy"
+  },
+  {
+    "Model": "text-davinci-003 (TT)",
+    "Language": "sw",
+    "Score": 90.7,
+    "Dataset": "xstorycloze",
+    "Metric": "accuracy"
+  },
+  {
+    "Model": "text-davinci-003 (TT)",
+    "Language": "te",
+    "Score": 94.3,
+    "Dataset": "xstorycloze",
+    "Metric": "accuracy"
+  },
+  {
+    "Model": "text-davinci-003 (TT)",
+    "Language": "zh",
+    "Score": 96.2,
+    "Dataset": "xstorycloze",
+    "Metric": "accuracy"
+  },
+  {
+    "Model": "text-davinci-003 (TT)",
+    "Language": "avg",
+    "Score": 94.8,
+    "Dataset": "xstorycloze",
+    "Metric": "accuracy"
+  },
+  {
+    "Model": "gpt-4-32k",
+    "Language": "ar",
+    "Score": 99.1,
+    "Dataset": "xstorycloze",
+    "Metric": "accuracy"
+  },
+  {
+    "Model": "gpt-4-32k",
+    "Language": "en",
+    "Score": 99.6,
+    "Dataset": "xstorycloze",
+    "Metric": "accuracy"
+  },
+  {
+    "Model": "gpt-4-32k",
+    "Language": "es",
+    "Score": 99.5,
+    "Dataset": "xstorycloze",
+    "Metric": "accuracy"
+  },
+  {
+    "Model": "gpt-4-32k",
+    "Language": "eu",
+    "Score": 97.6,
+    "Dataset": "xstorycloze",
+    "Metric": "accuracy"
+  },
+  {
+    "Model": "gpt-4-32k",
+    "Language": "hi",
+    "Score": 98.8,
+    "Dataset": "xstorycloze",
+    "Metric": "accuracy"
+  },
+  {
+    "Model": "gpt-4-32k",
+    "Language": "id",
+    "Score": 99.0,
+    "Dataset": "xstorycloze",
+    "Metric": "accuracy"
+  },
+  {
+    "Model": "gpt-4-32k",
+    "Language": "my",
+    "Score": 77.6,
+    "Dataset": "xstorycloze",
+    "Metric": "accuracy"
+  },
+  {
+    "Model": "gpt-4-32k",
+    "Language": "ru",
+    "Score": 99.1,
+    "Dataset": "xstorycloze",
+    "Metric": "accuracy"
+  },
+  {
+    "Model": "gpt-4-32k",
+    "Language": "sw",
+    "Score": 98.4,
+    "Dataset": "xstorycloze",
+    "Metric": "accuracy"
+  },
+  {
+    "Model": "gpt-4-32k",
+    "Language": "te",
+    "Score": 93.4,
+    "Dataset": "xstorycloze",
+    "Metric": "accuracy"
+  },
+  {
+    "Model": "gpt-4-32k",
+    "Language": "zh",
+    "Score": 99.2,
+    "Dataset": "xstorycloze",
+    "Metric": "accuracy"
+  },
+  {
+    "Model": "gpt-4-32k",
+    "Language": "avg",
+    "Score": 96.5,
+    "Dataset": "xstorycloze",
+    "Metric": "accuracy"
+  },
+  {
+    "Model": "gpt-4-32k (TT)",
+    "Language": "ar",
+    "Score": 97.7,
+    "Dataset": "xstorycloze",
+    "Metric": "accuracy"
+  },
+  {
+    "Model": "gpt-4-32k (TT)",
+    "Language": "en",
+    "Score": 99.6,
+    "Dataset": "xstorycloze",
+    "Metric": "accuracy"
+  },
+  {
+    "Model": "gpt-4-32k (TT)",
+    "Language": "es",
+    "Score": 98.7,
+    "Dataset": "xstorycloze",
+    "Metric": "accuracy"
+  },
+  {
+    "Model": "gpt-4-32k (TT)",
+    "Language": "eu",
+    "Score": 96.8,
+    "Dataset": "xstorycloze",
+    "Metric": "accuracy"
+  },
+  {
+    "Model": "gpt-4-32k (TT)",
+    "Language": "hi",
+    "Score": 97.9,
+    "Dataset": "xstorycloze",
+    "Metric": "accuracy"
+  },
+  {
+    "Model": "gpt-4-32k (TT)",
+    "Language": "id",
+    "Score": 98.1,
+    "Dataset": "xstorycloze",
+    "Metric": "accuracy"
+  },
+  {
+    "Model": "gpt-4-32k (TT)",
+    "Language": "my",
+    "Score": 93.2,
+    "Dataset": "xstorycloze",
+    "Metric": "accuracy"
+  },
+  {
+    "Model": "gpt-4-32k (TT)",
+    "Language": "ru",
+    "Score": 99.2,
+    "Dataset": "xstorycloze",
+    "Metric": "accuracy"
+  },
+  {
+    "Model": "gpt-4-32k (TT)",
+    "Language": "sw",
+    "Score": 93.6,
+    "Dataset": "xstorycloze",
+    "Metric": "accuracy"
+  },
+  {
+    "Model": "gpt-4-32k (TT)",
+    "Language": "te",
+    "Score": 96.4,
+    "Dataset": "xstorycloze",
+    "Metric": "accuracy"
+  },
+  {
+    "Model": "gpt-4-32k (TT)",
+    "Language": "zh",
+    "Score": 98.3,
+    "Dataset": "xstorycloze",
+    "Metric": "accuracy"
+  },
+  {
+    "Model": "gpt-4-32k (TT)",
+    "Language": "avg",
+    "Score": 97.0,
+    "Dataset": "xstorycloze",
+    "Metric": "accuracy"
+  },
+  {
+    "Model": "mBERT",
+    "Language": "en",
+    "Score": 94.0,
+    "Dataset": "pawsx",
+    "Metric": "accuracy"
+  },
+  {
+    "Model": "mBERT",
+    "Language": "de",
+    "Score": 85.7,
+    "Dataset": "pawsx",
+    "Metric": "accuracy"
+  },
+  {
+    "Model": "mBERT",
+    "Language": "es",
+    "Score": 87.4,
+    "Dataset": "pawsx",
+    "Metric": "accuracy"
+  },
+  {
+    "Model": "mBERT",
+    "Language": "fr",
+    "Score": 87.0,
+    "Dataset": "pawsx",
+    "Metric": "accuracy"
+  },
+  {
+    "Model": "mBERT",
+    "Language": "ja",
+    "Score": 73.0,
+    "Dataset": "pawsx",
+    "Metric": "accuracy"
+  },
+  {
+    "Model": "mBERT",
+    "Language": "ko",
+    "Score": 69.6,
+    "Dataset": "pawsx",
+    "Metric": "accuracy"
+  },
+  {
+    "Model": "mBERT",
+    "Language": "zh",
+    "Score": 77.0,
+    "Dataset": "pawsx",
+    "Metric": "accuracy"
+  },
+  {
+    "Model": "mBERT",
+    "Language": "avg",
+    "Score": 81.9,
+    "Dataset": "pawsx",
+    "Metric": "accuracy"
+  },
+  {
+    "Model": "mT5-Base",
+    "Language": "en",
+    "Score": 95.4,
+    "Dataset": "pawsx",
+    "Metric": "accuracy"
+  },
+  {
+    "Model": "mT5-Base",
+    "Language": "de",
+    "Score": 89.4,
+    "Dataset": "pawsx",
+    "Metric": "accuracy"
+  },
+  {
+    "Model": "mT5-Base",
+    "Language": "es",
+    "Score": 89.6,
+    "Dataset": "pawsx",
+    "Metric": "accuracy"
+  },
+  {
+    "Model": "mT5-Base",
+    "Language": "fr",
+    "Score": 91.2,
+    "Dataset": "pawsx",
+    "Metric": "accuracy"
+  },
+  {
+    "Model": "mT5-Base",
+    "Language": "ja",
+    "Score": 79.8,
+    "Dataset": "pawsx",
+    "Metric": "accuracy"
+  },
+  {
+    "Model": "mT5-Base",
+    "Language": "ko",
+    "Score": 78.5,
+    "Dataset": "pawsx",
+    "Metric": "accuracy"
+  },
+  {
+    "Model": "mT5-Base",
+    "Language": "zh",
+    "Score": 81.1,
+    "Dataset": "pawsx",
+    "Metric": "accuracy"
+  },
+  {
+    "Model": "mT5-Base",
+    "Language": "avg",
+    "Score": 86.4,
+    "Dataset": "pawsx",
+    "Metric": "accuracy"
+  },
+  {
+    "Model": "XLM-R Large",
+    "Language": "en",
+    "Score": 94.7,
+    "Dataset": "pawsx",
+    "Metric": "accuracy"
+  },
+  {
+    "Model": "XLM-R Large",
+    "Language": "de",
+    "Score": 89.7,
+    "Dataset": "pawsx",
+    "Metric": "accuracy"
+  },
+  {
+    "Model": "XLM-R Large",
+    "Language": "es",
+    "Score": 90.1,
+    "Dataset": "pawsx",
+    "Metric": "accuracy"
+  },
+  {
+    "Model": "XLM-R Large",
+    "Language": "fr",
+    "Score": 90.4,
+    "Dataset": "pawsx",
+    "Metric": "accuracy"
+  },
+  {
+    "Model": "XLM-R Large",
+    "Language": "ja",
+    "Score": 78.7,
+    "Dataset": "pawsx",
+    "Metric": "accuracy"
+  },
+  {
+    "Model": "XLM-R Large",
+    "Language": "ko",
+    "Score": 79.0,
+    "Dataset": "pawsx",
+    "Metric": "accuracy"
+  },
+  {
+    "Model": "XLM-R Large",
+    "Language": "zh",
+    "Score": 82.3,
+    "Dataset": "pawsx",
+    "Metric": "accuracy"
+  },
+  {
+    "Model": "XLM-R Large",
+    "Language": "avg",
+    "Score": 86.4,
+    "Dataset": "pawsx",
+    "Metric": "accuracy"
+  },
+  {
+    "Model": "TuLRv6 - XXL",
+    "Language": "en",
+    "Score": 97.2,
+    "Dataset": "pawsx",
+    "Metric": "accuracy"
+  },
+  {
+    "Model": "TuLRv6 - XXL",
+    "Language": "de",
+    "Score": 95.1,
+    "Dataset": "pawsx",
+    "Metric": "accuracy"
+  },
+  {
+    "Model": "TuLRv6 - XXL",
+    "Language": "es",
+    "Score": 94.8,
+    "Dataset": "pawsx",
+    "Metric": "accuracy"
+  },
+  {
+    "Model": "TuLRv6 - XXL",
+    "Language": "fr",
+    "Score": 95.6,
+    "Dataset": "pawsx",
+    "Metric": "accuracy"
+  },
+  {
+    "Model": "TuLRv6 - XXL",
+    "Language": "ja",
+    "Score": 89.4,
+    "Dataset": "pawsx",
+    "Metric": "accuracy"
+  },
+  {
+    "Model": "TuLRv6 - XXL",
+    "Language": "ko",
+    "Score": 90.4,
+    "Dataset": "pawsx",
+    "Metric": "accuracy"
+  },
+  {
+    "Model": "TuLRv6 - XXL",
+    "Language": "zh",
+    "Score": 90.4,
+    "Dataset": "pawsx",
+    "Metric": "accuracy"
+  },
+  {
+    "Model": "TuLRv6 - XXL",
+    "Language": "avg",
+    "Score": 93.2,
+    "Dataset": "pawsx",
+    "Metric": "accuracy"
+  },
+  {
+    "Model": "BLOOMZ",
+    "Language": "en",
+    "Score": 89.8,
+    "Dataset": "pawsx",
+    "Metric": "accuracy"
+  },
+  {
+    "Model": "BLOOMZ",
+    "Language": "de",
+    "Score": 84.3,
+    "Dataset": "pawsx",
+    "Metric": "accuracy"
+  },
+  {
+    "Model": "BLOOMZ",
+    "Language": "es",
+    "Score": 88.9,
+    "Dataset": "pawsx",
+    "Metric": "accuracy"
+  },
+  {
+    "Model": "BLOOMZ",
+    "Language": "fr",
+    "Score": 87.5,
+    "Dataset": "pawsx",
+    "Metric": "accuracy"
+  },
+  {
+    "Model": "BLOOMZ",
+    "Language": "ja",
+    "Score": 74.4,
+    "Dataset": "pawsx",
+    "Metric": "accuracy"
+  },
+  {
+    "Model": "BLOOMZ",
+    "Language": "ko",
+    "Score": 85.8,
+    "Dataset": "pawsx",
+    "Metric": "accuracy"
+  },
+  {
+    "Model": "BLOOMZ",
+    "Language": "zh",
+    "Score": 65.2,
+    "Dataset": "pawsx",
+    "Metric": "accuracy"
+  },
+  {
+    "Model": "BLOOMZ",
+    "Language": "avg",
+    "Score": 82.3,
+    "Dataset": "pawsx",
+    "Metric": "accuracy"
+  },
+  {
+    "Model": "gpt-3.5-turbo",
+    "Language": "en",
+    "Score": 72.4,
+    "Dataset": "pawsx",
+    "Metric": "accuracy"
+  },
+  {
+    "Model": "gpt-3.5-turbo",
+    "Language": "de",
+    "Score": 70.6,
+    "Dataset": "pawsx",
+    "Metric": "accuracy"
+  },
+  {
+    "Model": "gpt-3.5-turbo",
+    "Language": "es",
+    "Score": 72.0,
+    "Dataset": "pawsx",
+    "Metric": "accuracy"
+  },
+  {
+    "Model": "gpt-3.5-turbo",
+    "Language": "fr",
+    "Score": 72.1,
+    "Dataset": "pawsx",
+    "Metric": "accuracy"
+  },
+  {
+    "Model": "gpt-3.5-turbo",
+    "Language": "ja",
+    "Score": 67.2,
+    "Dataset": "pawsx",
+    "Metric": "accuracy"
+  },
+  {
+    "Model": "gpt-3.5-turbo",
+    "Language": "ko",
+    "Score": 66.5,
+    "Dataset": "pawsx",
+    "Metric": "accuracy"
+  },
+  {
+    "Model": "gpt-3.5-turbo",
+    "Language": "zh",
+    "Score": 69.2,
+    "Dataset": "pawsx",
+    "Metric": "accuracy"
+  },
+  {
+    "Model": "gpt-3.5-turbo",
+    "Language": "avg",
+    "Score": 70.0,
+    "Dataset": "pawsx",
+    "Metric": "accuracy"
+  },
+  {
+    "Model": "gpt-3.5-turbo (TT)",
+    "Language": "en",
+    "Score": 72.4,
+    "Dataset": "pawsx",
+    "Metric": "accuracy"
+  },
+  {
+    "Model": "gpt-3.5-turbo (TT)",
+    "Language": "de",
+    "Score": 70.8,
+    "Dataset": "pawsx",
+    "Metric": "accuracy"
+  },
+  {
+    "Model": "gpt-3.5-turbo (TT)",
+    "Language": "es",
+    "Score": 69.7,
+    "Dataset": "pawsx",
+    "Metric": "accuracy"
+  },
+  {
+    "Model": "gpt-3.5-turbo (TT)",
+    "Language": "fr",
+    "Score": 70.1,
+    "Dataset": "pawsx",
+    "Metric": "accuracy"
+  },
+  {
+    "Model": "gpt-3.5-turbo (TT)",
+    "Language": "ja",
+    "Score": 61.9,
+    "Dataset": "pawsx",
+    "Metric": "accuracy"
+  },
+  {
+    "Model": "gpt-3.5-turbo (TT)",
+    "Language": "ko",
+    "Score": 62.5,
+    "Dataset": "pawsx",
+    "Metric": "accuracy"
+  },
+  {
+    "Model": "gpt-3.5-turbo (TT)",
+    "Language": "zh",
+    "Score": 63.1,
+    "Dataset": "pawsx",
+    "Metric": "accuracy"
+  },
+  {
+    "Model": "gpt-3.5-turbo (TT)",
+    "Language": "avg",
+    "Score": 67.2,
+    "Dataset": "pawsx",
+    "Metric": "accuracy"
+  },
+  {
+    "Model": "text-davinci-003",
+    "Language": "en",
+    "Score": 72.5,
+    "Dataset": "pawsx",
+    "Metric": "accuracy"
+  },
+  {
+    "Model": "text-davinci-003",
+    "Language": "de",
+    "Score": 70.6,
+    "Dataset": "pawsx",
+    "Metric": "accuracy"
+  },
+  {
+    "Model": "text-davinci-003",
+    "Language": "es",
+    "Score": 72.7,
+    "Dataset": "pawsx",
+    "Metric": "accuracy"
+  },
+  {
+    "Model": "text-davinci-003",
+    "Language": "fr",
+    "Score": 70.7,
+    "Dataset": "pawsx",
+    "Metric": "accuracy"
+  },
+  {
+    "Model": "text-davinci-003",
+    "Language": "ja",
+    "Score": 60.6,
+    "Dataset": "pawsx",
+    "Metric": "accuracy"
+  },
+  {
+    "Model": "text-davinci-003",
+    "Language": "ko",
+    "Score": 61.8,
+    "Dataset": "pawsx",
+    "Metric": "accuracy"
+  },
+  {
+    "Model": "text-davinci-003",
+    "Language": "zh",
+    "Score": 60.8,
+    "Dataset": "pawsx",
+    "Metric": "accuracy"
+  },
+  {
+    "Model": "text-davinci-003",
+    "Language": "avg",
+    "Score": 67.1,
+    "Dataset": "pawsx",
+    "Metric": "accuracy"
+  },
+  {
+    "Model": "text-davinci-003 (TT)",
+    "Language": "en",
+    "Score": 72.5,
+    "Dataset": "pawsx",
+    "Metric": "accuracy"
+  },
+  {
+    "Model": "text-davinci-003 (TT)",
+    "Language": "de",
+    "Score": 69.8,
+    "Dataset": "pawsx",
+    "Metric": "accuracy"
+  },
+  {
+    "Model": "text-davinci-003 (TT)",
+    "Language": "es",
+    "Score": 70.1,
+    "Dataset": "pawsx",
+    "Metric": "accuracy"
+  },
+  {
+    "Model": "text-davinci-003 (TT)",
+    "Language": "fr",
+    "Score": 71.3,
+    "Dataset": "pawsx",
+    "Metric": "accuracy"
+  },
+  {
+    "Model": "text-davinci-003 (TT)",
+    "Language": "ja",
+    "Score": 65.4,
+    "Dataset": "pawsx",
+    "Metric": "accuracy"
+  },
+  {
+    "Model": "text-davinci-003 (TT)",
+    "Language": "ko",
+    "Score": 65.8,
+    "Dataset": "pawsx",
+    "Metric": "accuracy"
+  },
+  {
+    "Model": "text-davinci-003 (TT)",
+    "Language": "zh",
+    "Score": 65.2,
+    "Dataset": "pawsx",
+    "Metric": "accuracy"
+  },
+  {
+    "Model": "text-davinci-003 (TT)",
+    "Language": "avg",
+    "Score": 68.6,
+    "Dataset": "pawsx",
+    "Metric": "accuracy"
+  },
+  {
+    "Model": "gpt-4-32k",
+    "Language": "en",
+    "Score": 76.2,
+    "Dataset": "pawsx",
+    "Metric": "accuracy"
+  },
+  {
+    "Model": "gpt-4-32k",
+    "Language": "de",
+    "Score": 74.0,
+    "Dataset": "pawsx",
+    "Metric": "accuracy"
+  },
+  {
+    "Model": "gpt-4-32k",
+    "Language": "es",
+    "Score": 74.1,
+    "Dataset": "pawsx",
+    "Metric": "accuracy"
+  },
+  {
+    "Model": "gpt-4-32k",
+    "Language": "fr",
+    "Score": 72.6,
+    "Dataset": "pawsx",
+    "Metric": "accuracy"
+  },
+  {
+    "Model": "gpt-4-32k",
+    "Language": "ja",
+    "Score": 71.5,
+    "Dataset": "pawsx",
+    "Metric": "accuracy"
+  },
+  {
+    "Model": "gpt-4-32k",
+    "Language": "ko",
+    "Score": 69.9,
+    "Dataset": "pawsx",
+    "Metric": "accuracy"
+  },
+  {
+    "Model": "gpt-4-32k",
+    "Language": "zh",
+    "Score": 72.6,
+    "Dataset": "pawsx",
+    "Metric": "accuracy"
+  },
+  {
+    "Model": "gpt-4-32k",
+    "Language": "avg",
+    "Score": 73.0,
+    "Dataset": "pawsx",
+    "Metric": "accuracy"
+  },
+  {
+    "Model": "mBERT",
+    "Language": "en",
+    "Score": 80.8,
+    "Dataset": "xnli",
+    "Metric": "accuracy"
+  },
+  {
+    "Model": "mBERT",
+    "Language": "ar",
+    "Score": 64.3,
+    "Dataset": "xnli",
+    "Metric": "accuracy"
+  },
+  {
+    "Model": "mBERT",
+    "Language": "bg",
+    "Score": 68.0,
+    "Dataset": "xnli",
+    "Metric": "accuracy"
+  },
+  {
+    "Model": "mBERT",
+    "Language": "de",
+    "Score": 70.0,
+    "Dataset": "xnli",
+    "Metric": "accuracy"
+  },
+  {
+    "Model": "mBERT",
+    "Language": "el",
+    "Score": 65.3,
+    "Dataset": "xnli",
+    "Metric": "accuracy"
+  },
+  {
+    "Model": "mBERT",
+    "Language": "es",
+    "Score": 73.5,
+    "Dataset": "xnli",
+    "Metric": "accuracy"
+  },
+  {
+    "Model": "mBERT",
+    "Language": "fr",
+    "Score": 73.4,
+    "Dataset": "xnli",
+    "Metric": "accuracy"
+  },
+  {
+    "Model": "mBERT",
+    "Language": "hi",
+    "Score": 58.9,
+    "Dataset": "xnli",
+    "Metric": "accuracy"
+  },
+  {
+    "Model": "mBERT",
+    "Language": "ru",
+    "Score": 67.8,
+    "Dataset": "xnli",
+    "Metric": "accuracy"
+  },
+  {
+    "Model": "mBERT",
+    "Language": "sw",
+    "Score": 49.7,
+    "Dataset": "xnli",
+    "Metric": "accuracy"
+  },
+  {
+    "Model": "mBERT",
+    "Language": "th",
+    "Score": 54.1,
+    "Dataset": "xnli",
+    "Metric": "accuracy"
+  },
+  {
+    "Model": "mBERT",
+    "Language": "tr",
+    "Score": 60.9,
+    "Dataset": "xnli",
+    "Metric": "accuracy"
+  },
+  {
+    "Model": "mBERT",
+    "Language": "ur",
+    "Score": 57.2,
+    "Dataset": "xnli",
+    "Metric": "accuracy"
+  },
+  {
+    "Model": "mBERT",
+    "Language": "vi",
+    "Score": 69.3,
+    "Dataset": "xnli",
+    "Metric": "accuracy"
+  },
+  {
+    "Model": "mBERT",
+    "Language": "zh",
+    "Score": 67.8,
+    "Dataset": "xnli",
+    "Metric": "accuracy"
+  },
+  {
+    "Model": "mBERT",
+    "Language": "avg",
+    "Score": 65.4,
+    "Dataset": "xnli",
+    "Metric": "accuracy"
+  },
+  {
+    "Model": "mT5-Base",
+    "Language": "en",
+    "Score": 84.7,
+    "Dataset": "xnli",
+    "Metric": "accuracy"
+  },
+  {
+    "Model": "mT5-Base",
+    "Language": "ar",
+    "Score": 73.3,
+    "Dataset": "xnli",
+    "Metric": "accuracy"
+  },
+  {
+    "Model": "mT5-Base",
+    "Language": "bg",
+    "Score": 78.6,
+    "Dataset": "xnli",
+    "Metric": "accuracy"
+  },
+  {
+    "Model": "mT5-Base",
+    "Language": "de",
+    "Score": 77.4,
+    "Dataset": "xnli",
+    "Metric": "accuracy"
+  },
+  {
+    "Model": "mT5-Base",
+    "Language": "el",
+    "Score": 77.1,
+    "Dataset": "xnli",
+    "Metric": "accuracy"
+  },
+  {
+    "Model": "mT5-Base",
+    "Language": "es",
+    "Score": 80.3,
+    "Dataset": "xnli",
+    "Metric": "accuracy"
+  },
+  {
+    "Model": "mT5-Base",
+    "Language": "fr",
+    "Score": 79.1,
+    "Dataset": "xnli",
+    "Metric": "accuracy"
+  },
+  {
+    "Model": "mT5-Base",
+    "Language": "hi",
+    "Score": 70.8,
+    "Dataset": "xnli",
+    "Metric": "accuracy"
+  },
+  {
+    "Model": "mT5-Base",
+    "Language": "ru",
+    "Score": 77.1,
+    "Dataset": "xnli",
+    "Metric": "accuracy"
+  },
+  {
+    "Model": "mT5-Base",
+    "Language": "sw",
+    "Score": 69.4,
+    "Dataset": "xnli",
+    "Metric": "accuracy"
+  },
+  {
+    "Model": "mT5-Base",
+    "Language": "th",
+    "Score": 73.2,
+    "Dataset": "xnli",
+    "Metric": "accuracy"
+  },
+  {
+    "Model": "mT5-Base",
+    "Language": "tr",
+    "Score": 72.8,
+    "Dataset": "xnli",
+    "Metric": "accuracy"
+  },
+  {
+    "Model": "mT5-Base",
+    "Language": "ur",
+    "Score": 68.3,
+    "Dataset": "xnli",
+    "Metric": "accuracy"
+  },
+  {
+    "Model": "mT5-Base",
+    "Language": "vi",
+    "Score": 74.2,
+    "Dataset": "xnli",
+    "Metric": "accuracy"
+  },
+  {
+    "Model": "mT5-Base",
+    "Language": "zh",
+    "Score": 74.1,
+    "Dataset": "xnli",
+    "Metric": "accuracy"
+  },
+  {
+    "Model": "mT5-Base",
+    "Language": "avg",
+    "Score": 75.4,
+    "Dataset": "xnli",
+    "Metric": "accuracy"
+  },
+  {
+    "Model": "XLM-R Large",
+    "Language": "en",
+    "Score": 88.7,
+    "Dataset": "xnli",
+    "Metric": "accuracy"
+  },
+  {
+    "Model": "XLM-R Large",
+    "Language": "ar",
+    "Score": 77.2,
+    "Dataset": "xnli",
+    "Metric": "accuracy"
+  },
+  {
+    "Model": "XLM-R Large",
+    "Language": "bg",
+    "Score": 83.0,
+    "Dataset": "xnli",
+    "Metric": "accuracy"
+  },
+  {
+    "Model": "XLM-R Large",
+    "Language": "de",
+    "Score": 82.5,
+    "Dataset": "xnli",
+    "Metric": "accuracy"
+  },
+  {
+    "Model": "XLM-R Large",
+    "Language": "el",
+    "Score": 80.8,
+    "Dataset": "xnli",
+    "Metric": "accuracy"
+  },
+  {
+    "Model": "XLM-R Large",
+    "Language": "es",
+    "Score": 83.7,
+    "Dataset": "xnli",
+    "Metric": "accuracy"
+  },
+  {
+    "Model": "XLM-R Large",
+    "Language": "fr",
+    "Score": 82.2,
+    "Dataset": "xnli",
+    "Metric": "accuracy"
+  },
+  {
+    "Model": "XLM-R Large",
+    "Language": "hi",
+    "Score": 75.6,
+    "Dataset": "xnli",
+    "Metric": "accuracy"
+  },
+  {
+    "Model": "XLM-R Large",
+    "Language": "ru",
+    "Score": 79.1,
+    "Dataset": "xnli",
+    "Metric": "accuracy"
+  },
+  {
+    "Model": "XLM-R Large",
+    "Language": "sw",
+    "Score": 71.2,
+    "Dataset": "xnli",
+    "Metric": "accuracy"
+  },
+  {
+    "Model": "XLM-R Large",
+    "Language": "th",
+    "Score": 77.4,
+    "Dataset": "xnli",
+    "Metric": "accuracy"
+  },
+  {
+    "Model": "XLM-R Large",
+    "Language": "tr",
+    "Score": 78.0,
+    "Dataset": "xnli",
+    "Metric": "accuracy"
+  },
+  {
+    "Model": "XLM-R Large",
+    "Language": "ur",
+    "Score": 71.7,
+    "Dataset": "xnli",
+    "Metric": "accuracy"
+  },
+  {
+    "Model": "XLM-R Large",
+    "Language": "vi",
+    "Score": 79.3,
+    "Dataset": "xnli",
+    "Metric": "accuracy"
+  },
+  {
+    "Model": "XLM-R Large",
+    "Language": "zh",
+    "Score": 78.2,
+    "Dataset": "xnli",
+    "Metric": "accuracy"
+  },
+  {
+    "Model": "XLM-R Large",
+    "Language": "avg",
+    "Score": 79.2,
+    "Dataset": "xnli",
+    "Metric": "accuracy"
+  },
+  {
+    "Model": "TuLRv6 - XXL",
+    "Language": "en",
+    "Score": 93.3,
+    "Dataset": "xnli",
+    "Metric": "accuracy"
+  },
+  {
+    "Model": "TuLRv6 - XXL",
+    "Language": "ar",
+    "Score": 89.0,
+    "Dataset": "xnli",
+    "Metric": "accuracy"
+  },
+  {
+    "Model": "TuLRv6 - XXL",
+    "Language": "bg",
+    "Score": 90.6,
+    "Dataset": "xnli",
+    "Metric": "accuracy"
+  },
+  {
+    "Model": "TuLRv6 - XXL",
+    "Language": "de",
+    "Score": 90.0,
+    "Dataset": "xnli",
+    "Metric": "accuracy"
+  },
+  {
+    "Model": "TuLRv6 - XXL",
+    "Language": "el",
+    "Score": 90.2,
+    "Dataset": "xnli",
+    "Metric": "accuracy"
+  },
+  {
+    "Model": "TuLRv6 - XXL",
+    "Language": "es",
+    "Score": 91.1,
+    "Dataset": "xnli",
+    "Metric": "accuracy"
+  },
+  {
+    "Model": "TuLRv6 - XXL",
+    "Language": "fr",
+    "Score": 90.7,
+    "Dataset": "xnli",
+    "Metric": "accuracy"
+  },
+  {
+    "Model": "TuLRv6 - XXL",
+    "Language": "hi",
+    "Score": 86.2,
+    "Dataset": "xnli",
+    "Metric": "accuracy"
+  },
+  {
+    "Model": "TuLRv6 - XXL",
+    "Language": "ru",
+    "Score": 89.2,
+    "Dataset": "xnli",
+    "Metric": "accuracy"
+  },
+  {
+    "Model": "TuLRv6 - XXL",
+    "Language": "sw",
+    "Score": 85.5,
+    "Dataset": "xnli",
+    "Metric": "accuracy"
+  },
+  {
+    "Model": "TuLRv6 - XXL",
+    "Language": "th",
+    "Score": 87.5,
+    "Dataset": "xnli",
+    "Metric": "accuracy"
+  },
+  {
+    "Model": "TuLRv6 - XXL",
+    "Language": "tr",
+    "Score": 88.4,
+    "Dataset": "xnli",
+    "Metric": "accuracy"
+  },
+  {
+    "Model": "TuLRv6 - XXL",
+    "Language": "ur",
+    "Score": 82.7,
+    "Dataset": "xnli",
+    "Metric": "accuracy"
+  },
+  {
+    "Model": "TuLRv6 - XXL",
+    "Language": "vi",
+    "Score": 89.0,
+    "Dataset": "xnli",
+    "Metric": "accuracy"
+  },
+  {
+    "Model": "TuLRv6 - XXL",
+    "Language": "zh",
+    "Score": 88.4,
+    "Dataset": "xnli",
+    "Metric": "accuracy"
+  },
+  {
+    "Model": "TuLRv6 - XXL",
+    "Language": "avg",
+    "Score": 88.8,
+    "Dataset": "xnli",
+    "Metric": "accuracy"
+  },
+  {
+    "Model": "BLOOMZ",
+    "Language": "en",
+    "Score": 67.5,
+    "Dataset": "xnli",
+    "Metric": "accuracy"
+  },
+  {
+    "Model": "BLOOMZ",
+    "Language": "ar",
+    "Score": 60.7,
+    "Dataset": "xnli",
+    "Metric": "accuracy"
+  },
+  {
+    "Model": "BLOOMZ",
+    "Language": "bg",
+    "Score": 46.5,
+    "Dataset": "xnli",
+    "Metric": "accuracy"
+  },
+  {
+    "Model": "BLOOMZ",
+    "Language": "de",
+    "Score": 54.0,
+    "Dataset": "xnli",
+    "Metric": "accuracy"
+  },
+  {
+    "Model": "BLOOMZ",
+    "Language": "el",
+    "Score": 47.4,
+    "Dataset": "xnli",
+    "Metric": "accuracy"
+  },
+  {
+    "Model": "BLOOMZ",
+    "Language": "es",
+    "Score": 61.2,
+    "Dataset": "xnli",
+    "Metric": "accuracy"
+  },
+  {
+    "Model": "BLOOMZ",
+    "Language": "fr",
+    "Score": 61.4,
+    "Dataset": "xnli",
+    "Metric": "accuracy"
+  },
+  {
+    "Model": "BLOOMZ",
+    "Language": "hi",
+    "Score": 56.8,
+    "Dataset": "xnli",
+    "Metric": "accuracy"
+  },
+  {
+    "Model": "BLOOMZ",
+    "Language": "ru",
+    "Score": 53.3,
+    "Dataset": "xnli",
+    "Metric": "accuracy"
+  },
+  {
+    "Model": "BLOOMZ",
+    "Language": "sw",
+    "Score": 50.4,
+    "Dataset": "xnli",
+    "Metric": "accuracy"
+  },
+  {
+    "Model": "BLOOMZ",
+    "Language": "th",
+    "Score": 43.8,
+    "Dataset": "xnli",
+    "Metric": "accuracy"
+  },
+  {
+    "Model": "BLOOMZ",
+    "Language": "tr",
+    "Score": 42.7,
+    "Dataset": "xnli",
+    "Metric": "accuracy"
+  },
+  {
+    "Model": "BLOOMZ",
+    "Language": "ur",
+    "Score": 50.0,
+    "Dataset": "xnli",
+    "Metric": "accuracy"
+  },
+  {
+    "Model": "BLOOMZ",
+    "Language": "vi",
+    "Score": 61.0,
+    "Dataset": "xnli",
+    "Metric": "accuracy"
+  },
+  {
+    "Model": "BLOOMZ",
+    "Language": "zh",
+    "Score": 56.7,
+    "Dataset": "xnli",
+    "Metric": "accuracy"
+  },
+  {
+    "Model": "BLOOMZ",
+    "Language": "avg",
+    "Score": 54.2,
+    "Dataset": "xnli",
+    "Metric": "accuracy"
+  },
+  {
+    "Model": "XGLM",
+    "Language": "en",
+    "Score": 52.6,
+    "Dataset": "xnli",
+    "Metric": "accuracy"
+  },
+  {
+    "Model": "XGLM",
+    "Language": "ar",
+    "Score": 46.4,
+    "Dataset": "xnli",
+    "Metric": "accuracy"
+  },
+  {
+    "Model": "XGLM",
+    "Language": "bg",
+    "Score": 48.9,
+    "Dataset": "xnli",
+    "Metric": "accuracy"
+  },
+  {
+    "Model": "XGLM",
+    "Language": "de",
+    "Score": 45.6,
+    "Dataset": "xnli",
+    "Metric": "accuracy"
+  },
+  {
+    "Model": "XGLM",
+    "Language": "el",
+    "Score": 48.7,
+    "Dataset": "xnli",
+    "Metric": "accuracy"
+  },
+  {
+    "Model": "XGLM",
+    "Language": "es",
+    "Score": 45.8,
+    "Dataset": "xnli",
+    "Metric": "accuracy"
+  },
+  {
+    "Model": "XGLM",
+    "Language": "fr",
+    "Score": 49.4,
+    "Dataset": "xnli",
+    "Metric": "accuracy"
+  },
+  {
+    "Model": "XGLM",
+    "Language": "hi",
+    "Score": 46.8,
+    "Dataset": "xnli",
+    "Metric": "accuracy"
+  },
+  {
+    "Model": "XGLM",
+    "Language": "ru",
+    "Score": 48.6,
+    "Dataset": "xnli",
+    "Metric": "accuracy"
+  },
+  {
+    "Model": "XGLM",
+    "Language": "sw",
+    "Score": 44.5,
+    "Dataset": "xnli",
+    "Metric": "accuracy"
+  },
+  {
+    "Model": "XGLM",
+    "Language": "th",
+    "Score": 46.6,
+    "Dataset": "xnli",
+    "Metric": "accuracy"
+  },
+  {
+    "Model": "XGLM",
+    "Language": "tr",
+    "Score": 45.4,
+    "Dataset": "xnli",
+    "Metric": "accuracy"
+  },
+  {
+    "Model": "XGLM",
+    "Language": "ur",
+    "Score": 43.4,
+    "Dataset": "xnli",
+    "Metric": "accuracy"
+  },
+  {
+    "Model": "XGLM",
+    "Language": "vi",
+    "Score": 48.5,
+    "Dataset": "xnli",
+    "Metric": "accuracy"
+  },
+  {
+    "Model": "XGLM",
+    "Language": "zh",
+    "Score": 48.8,
+    "Dataset": "xnli",
+    "Metric": "accuracy"
+  },
+  {
+    "Model": "XGLM",
+    "Language": "avg",
+    "Score": 47.3,
+    "Dataset": "xnli",
+    "Metric": "accuracy"
+  },
+  {
+    "Model": "gpt-3.5-turbo",
+    "Language": "en",
+    "Score": 76.2,
+    "Dataset": "xnli",
+    "Metric": "accuracy"
+  },
+  {
+    "Model": "gpt-3.5-turbo",
+    "Language": "ar",
+    "Score": 59.0,
+    "Dataset": "xnli",
+    "Metric": "accuracy"
+  },
+  {
+    "Model": "gpt-3.5-turbo",
+    "Language": "bg",
+    "Score": 63.5,
+    "Dataset": "xnli",
+    "Metric": "accuracy"
+  },
+  {
+    "Model": "gpt-3.5-turbo",
+    "Language": "de",
+    "Score": 67.3,
+    "Dataset": "xnli",
+    "Metric": "accuracy"
+  },
+  {
+    "Model": "gpt-3.5-turbo",
+    "Language": "el",
+    "Score": 65.1,
+    "Dataset": "xnli",
+    "Metric": "accuracy"
+  },
+  {
+    "Model": "gpt-3.5-turbo",
+    "Language": "es",
+    "Score": 70.3,
+    "Dataset": "xnli",
+    "Metric": "accuracy"
+  },
+  {
+    "Model": "gpt-3.5-turbo",
+    "Language": "fr",
+    "Score": 67.7,
+    "Dataset": "xnli",
+    "Metric": "accuracy"
+  },
+  {
+    "Model": "gpt-3.5-turbo",
+    "Language": "hi",
+    "Score": 55.5,
+    "Dataset": "xnli",
+    "Metric": "accuracy"
+  },
+  {
+    "Model": "gpt-3.5-turbo",
+    "Language": "ru",
+    "Score": 62.5,
+    "Dataset": "xnli",
+    "Metric": "accuracy"
+  },
+  {
+    "Model": "gpt-3.5-turbo",
+    "Language": "sw",
+    "Score": 56.3,
+    "Dataset": "xnli",
+    "Metric": "accuracy"
+  },
+  {
+    "Model": "gpt-3.5-turbo",
+    "Language": "th",
+    "Score": 54.0,
+    "Dataset": "xnli",
+    "Metric": "accuracy"
+  },
+  {
+    "Model": "gpt-3.5-turbo",
+    "Language": "tr",
+    "Score": 62.6,
+    "Dataset": "xnli",
+    "Metric": "accuracy"
+  },
+  {
+    "Model": "gpt-3.5-turbo",
+    "Language": "ur",
+    "Score": 49.1,
+    "Dataset": "xnli",
+    "Metric": "accuracy"
+  },
+  {
+    "Model": "gpt-3.5-turbo",
+    "Language": "vi",
+    "Score": 60.9,
+    "Dataset": "xnli",
+    "Metric": "accuracy"
+  },
+  {
+    "Model": "gpt-3.5-turbo",
+    "Language": "zh",
+    "Score": 62.1,
+    "Dataset": "xnli",
+    "Metric": "accuracy"
+  },
+  {
+    "Model": "gpt-3.5-turbo",
+    "Language": "avg",
+    "Score": 62.1,
+    "Dataset": "xnli",
+    "Metric": "accuracy"
+  },
+  {
+    "Model": "gpt-3.5-turbo (TT)",
+    "Language": "en",
+    "Score": 76.2,
+    "Dataset": "xnli",
+    "Metric": "accuracy"
+  },
+  {
+    "Model": "gpt-3.5-turbo (TT)",
+    "Language": "ar",
+    "Score": 62.7,
+    "Dataset": "xnli",
+    "Metric": "accuracy"
+  },
+  {
+    "Model": "gpt-3.5-turbo (TT)",
+    "Language": "bg",
+    "Score": 67.3,
+    "Dataset": "xnli",
+    "Metric": "accuracy"
+  },
+  {
+    "Model": "gpt-3.5-turbo (TT)",
+    "Language": "de",
+    "Score": 69.4,
+    "Dataset": "xnli",
+    "Metric": "accuracy"
+  },
+  {
+    "Model": "gpt-3.5-turbo (TT)",
+    "Language": "el",
+    "Score": 67.2,
+    "Dataset": "xnli",
+    "Metric": "accuracy"
+  },
+  {
+    "Model": "gpt-3.5-turbo (TT)",
+    "Language": "es",
+    "Score": 69.6,
+    "Dataset": "xnli",
+    "Metric": "accuracy"
+  },
+  {
+    "Model": "gpt-3.5-turbo (TT)",
+    "Language": "fr",
+    "Score": 69.0,
+    "Dataset": "xnli",
+    "Metric": "accuracy"
+  },
+  {
+    "Model": "gpt-3.5-turbo (TT)",
+    "Language": "hi",
+    "Score": 59.9,
+    "Dataset": "xnli",
+    "Metric": "accuracy"
+  },
+  {
+    "Model": "gpt-3.5-turbo (TT)",
+    "Language": "ru",
+    "Score": 63.7,
+    "Dataset": "xnli",
+    "Metric": "accuracy"
+  },
+  {
+    "Model": "gpt-3.5-turbo (TT)",
+    "Language": "sw",
+    "Score": 55.8,
+    "Dataset": "xnli",
+    "Metric": "accuracy"
+  },
+  {
+    "Model": "gpt-3.5-turbo (TT)",
+    "Language": "th",
+    "Score": 59.6,
+    "Dataset": "xnli",
+    "Metric": "accuracy"
+  },
+  {
+    "Model": "gpt-3.5-turbo (TT)",
+    "Language": "tr",
+    "Score": 63.8,
+    "Dataset": "xnli",
+    "Metric": "accuracy"
+  },
+  {
+    "Model": "gpt-3.5-turbo (TT)",
+    "Language": "ur",
+    "Score": 54.0,
+    "Dataset": "xnli",
+    "Metric": "accuracy"
+  },
+  {
+    "Model": "gpt-3.5-turbo (TT)",
+    "Language": "vi",
+    "Score": 63.9,
+    "Dataset": "xnli",
+    "Metric": "accuracy"
+  },
+  {
+    "Model": "gpt-3.5-turbo (TT)",
+    "Language": "zh",
+    "Score": 62.6,
+    "Dataset": "xnli",
+    "Metric": "accuracy"
+  },
+  {
+    "Model": "gpt-3.5-turbo (TT)",
+    "Language": "avg",
+    "Score": 64.3,
+    "Dataset": "xnli",
+    "Metric": "accuracy"
+  },
+  {
+    "Model": "text-davinci-003",
+    "Language": "en",
+    "Score": 79.5,
+    "Dataset": "xnli",
+    "Metric": "accuracy"
+  },
+  {
+    "Model": "text-davinci-003",
+    "Language": "ar",
+    "Score": 52.2,
+    "Dataset": "xnli",
+    "Metric": "accuracy"
+  },
+  {
+    "Model": "text-davinci-003",
+    "Language": "bg",
+    "Score": 61.8,
+    "Dataset": "xnli",
+    "Metric": "accuracy"
+  },
+  {
+    "Model": "text-davinci-003",
+    "Language": "de",
+    "Score": 65.8,
+    "Dataset": "xnli",
+    "Metric": "accuracy"
+  },
+  {
+    "Model": "text-davinci-003",
+    "Language": "el",
+    "Score": 59.7,
+    "Dataset": "xnli",
+    "Metric": "accuracy"
+  },
+  {
+    "Model": "text-davinci-003",
+    "Language": "es",
+    "Score": 71.0,
+    "Dataset": "xnli",
+    "Metric": "accuracy"
+  },
+  {
+    "Model": "text-davinci-003",
+    "Language": "fr",
+    "Score": 65.7,
+    "Dataset": "xnli",
+    "Metric": "accuracy"
+  },
+  {
+    "Model": "text-davinci-003",
+    "Language": "hi",
+    "Score": 47.6,
+    "Dataset": "xnli",
+    "Metric": "accuracy"
+  },
+  {
+    "Model": "text-davinci-003",
+    "Language": "ru",
+    "Score": 62.2,
+    "Dataset": "xnli",
+    "Metric": "accuracy"
+  },
+  {
+    "Model": "text-davinci-003",
+    "Language": "sw",
+    "Score": 50.2,
+    "Dataset": "xnli",
+    "Metric": "accuracy"
+  },
+  {
+    "Model": "text-davinci-003",
+    "Language": "th",
+    "Score": 51.1,
+    "Dataset": "xnli",
+    "Metric": "accuracy"
+  },
+  {
+    "Model": "text-davinci-003",
+    "Language": "tr",
+    "Score": 57.9,
+    "Dataset": "xnli",
+    "Metric": "accuracy"
+  },
+  {
+    "Model": "text-davinci-003",
+    "Language": "ur",
+    "Score": 50.0,
+    "Dataset": "xnli",
+    "Metric": "accuracy"
+  },
+  {
+    "Model": "text-davinci-003",
+    "Language": "vi",
+    "Score": 56.4,
+    "Dataset": "xnli",
+    "Metric": "accuracy"
+  },
+  {
+    "Model": "text-davinci-003",
+    "Language": "zh",
+    "Score": 58.0,
+    "Dataset": "xnli",
+    "Metric": "accuracy"
+  },
+  {
+    "Model": "text-davinci-003",
+    "Language": "avg",
+    "Score": 59.3,
+    "Dataset": "xnli",
+    "Metric": "accuracy"
+  },
+  {
+    "Model": "text-davinci-003 (TT)",
+    "Language": "en",
+    "Score": 79.5,
+    "Dataset": "xnli",
+    "Metric": "accuracy"
+  },
+  {
+    "Model": "text-davinci-003 (TT)",
+    "Language": "ar",
+    "Score": 65.1,
+    "Dataset": "xnli",
+    "Metric": "accuracy"
+  },
+  {
+    "Model": "text-davinci-003 (TT)",
+    "Language": "bg",
+    "Score": 70.8,
+    "Dataset": "xnli",
+    "Metric": "accuracy"
+  },
+  {
+    "Model": "text-davinci-003 (TT)",
+    "Language": "de",
+    "Score": 71.7,
+    "Dataset": "xnli",
+    "Metric": "accuracy"
+  },
+  {
+    "Model": "text-davinci-003 (TT)",
+    "Language": "el",
+    "Score": 69.3,
+    "Dataset": "xnli",
+    "Metric": "accuracy"
+  },
+  {
+    "Model": "text-davinci-003 (TT)",
+    "Language": "es",
+    "Score": 72.2,
+    "Dataset": "xnli",
+    "Metric": "accuracy"
+  },
+  {
+    "Model": "text-davinci-003 (TT)",
+    "Language": "fr",
+    "Score": 71.8,
+    "Dataset": "xnli",
+    "Metric": "accuracy"
+  },
+  {
+    "Model": "text-davinci-003 (TT)",
+    "Language": "hi",
+    "Score": 63.3,
+    "Dataset": "xnli",
+    "Metric": "accuracy"
+  },
+  {
+    "Model": "text-davinci-003 (TT)",
+    "Language": "ru",
+    "Score": 67.3,
+    "Dataset": "xnli",
+    "Metric": "accuracy"
+  },
+  {
+    "Model": "text-davinci-003 (TT)",
+    "Language": "sw",
+    "Score": 57.3,
+    "Dataset": "xnli",
+    "Metric": "accuracy"
+  },
+  {
+    "Model": "text-davinci-003 (TT)",
+    "Language": "th",
+    "Score": 62.0,
+    "Dataset": "xnli",
+    "Metric": "accuracy"
+  },
+  {
+    "Model": "text-davinci-003 (TT)",
+    "Language": "tr",
+    "Score": 67.6,
+    "Dataset": "xnli",
+    "Metric": "accuracy"
+  },
+  {
+    "Model": "text-davinci-003 (TT)",
+    "Language": "ur",
+    "Score": 55.1,
+    "Dataset": "xnli",
+    "Metric": "accuracy"
+  },
+  {
+    "Model": "text-davinci-003 (TT)",
+    "Language": "vi",
+    "Score": 66.9,
+    "Dataset": "xnli",
+    "Metric": "accuracy"
+  },
+  {
+    "Model": "text-davinci-003 (TT)",
+    "Language": "zh",
+    "Score": 65.8,
+    "Dataset": "xnli",
+    "Metric": "accuracy"
+  },
+  {
+    "Model": "text-davinci-003 (TT)",
+    "Language": "avg",
+    "Score": 67.1,
+    "Dataset": "xnli",
+    "Metric": "accuracy"
+  },
+  {
+    "Model": "gpt-4-32k",
+    "Language": "en",
+    "Score": 84.9,
+    "Dataset": "xnli",
+    "Metric": "accuracy"
+  },
+  {
+    "Model": "gpt-4-32k",
+    "Language": "ar",
+    "Score": 73.1,
+    "Dataset": "xnli",
+    "Metric": "accuracy"
+  },
+  {
+    "Model": "gpt-4-32k",
+    "Language": "bg",
+    "Score": 77.3,
+    "Dataset": "xnli",
+    "Metric": "accuracy"
+  },
+  {
+    "Model": "gpt-4-32k",
+    "Language": "de",
+    "Score": 78.8,
+    "Dataset": "xnli",
+    "Metric": "accuracy"
+  },
+  {
+    "Model": "gpt-4-32k",
+    "Language": "el",
+    "Score": 79.0,
+    "Dataset": "xnli",
+    "Metric": "accuracy"
+  },
+  {
+    "Model": "gpt-4-32k",
+    "Language": "es",
+    "Score": 78.8,
+    "Dataset": "xnli",
+    "Metric": "accuracy"
+  },
+  {
+    "Model": "gpt-4-32k",
+    "Language": "fr",
+    "Score": 79.5,
+    "Dataset": "xnli",
+    "Metric": "accuracy"
+  },
+  {
+    "Model": "gpt-4-32k",
+    "Language": "hi",
+    "Score": 72.0,
+    "Dataset": "xnli",
+    "Metric": "accuracy"
+  },
+  {
+    "Model": "gpt-4-32k",
+    "Language": "ru",
+    "Score": 74.3,
+    "Dataset": "xnli",
+    "Metric": "accuracy"
+  },
+  {
+    "Model": "gpt-4-32k",
+    "Language": "sw",
+    "Score": 70.9,
+    "Dataset": "xnli",
+    "Metric": "accuracy"
+  },
+  {
+    "Model": "gpt-4-32k",
+    "Language": "th",
+    "Score": 68.8,
+    "Dataset": "xnli",
+    "Metric": "accuracy"
+  },
+  {
+    "Model": "gpt-4-32k",
+    "Language": "tr",
+    "Score": 76.3,
+    "Dataset": "xnli",
+    "Metric": "accuracy"
+  },
+  {
+    "Model": "gpt-4-32k",
+    "Language": "ur",
+    "Score": 68.1,
+    "Dataset": "xnli",
+    "Metric": "accuracy"
+  },
+  {
+    "Model": "gpt-4-32k",
+    "Language": "vi",
+    "Score": 74.3,
+    "Dataset": "xnli",
+    "Metric": "accuracy"
+  },
+  {
+    "Model": "gpt-4-32k",
+    "Language": "zh",
+    "Score": 74.6,
+    "Dataset": "xnli",
+    "Metric": "accuracy"
+  },
+  {
+    "Model": "gpt-4-32k",
+    "Language": "avg",
+    "Score": 75.4,
+    "Dataset": "xnli",
+    "Metric": "accuracy"
+  },
+  {
+    "Model": "MuRIL",
+    "Language": "as",
+    "Score": 76.0,
+    "Dataset": "indicxnli",
+    "Metric": "accuracy"
+  },
+  {
+    "Model": "MuRIL",
+    "Language": "bn",
+    "Score": 75.0,
+    "Dataset": "indicxnli",
+    "Metric": "accuracy"
+  },
+  {
+    "Model": "MuRIL",
+    "Language": "gu",
+    "Score": 77.0,
+    "Dataset": "indicxnli",
+    "Metric": "accuracy"
+  },
+  {
+    "Model": "MuRIL",
+    "Language": "hi",
+    "Score": 77.0,
+    "Dataset": "indicxnli",
+    "Metric": "accuracy"
+  },
+  {
+    "Model": "MuRIL",
+    "Language": "kn",
+    "Score": 77.0,
+    "Dataset": "indicxnli",
+    "Metric": "accuracy"
+  },
+  {
+    "Model": "MuRIL",
+    "Language": "ml",
+    "Score": 79.0,
+    "Dataset": "indicxnli",
+    "Metric": "accuracy"
+  },
+  {
+    "Model": "MuRIL",
+    "Language": "mr",
+    "Score": 74.0,
+    "Dataset": "indicxnli",
+    "Metric": "accuracy"
+  },
+  {
+    "Model": "MuRIL",
+    "Language": "or",
+    "Score": 76.0,
+    "Dataset": "indicxnli",
+    "Metric": "accuracy"
+  },
+  {
+    "Model": "MuRIL",
+    "Language": "pa",
+    "Score": 77.0,
+    "Dataset": "indicxnli",
+    "Metric": "accuracy"
+  },
+  {
+    "Model": "MuRIL",
+    "Language": "ta",
+    "Score": 77.0,
+    "Dataset": "indicxnli",
+    "Metric": "accuracy"
+  },
+  {
+    "Model": "MuRIL",
+    "Language": "te",
+    "Score": 74.0,
+    "Dataset": "indicxnli",
+    "Metric": "accuracy"
+  },
+  {
+    "Model": "MuRIL",
+    "Language": "avg",
+    "Score": 76.0,
+    "Dataset": "indicxnli",
+    "Metric": "accuracy"
+  },
+  {
+    "Model": "gpt-3.5-turbo",
+    "Language": "as",
+    "Score": 49.5,
+    "Dataset": "indicxnli",
+    "Metric": "accuracy"
+  },
+  {
+    "Model": "gpt-3.5-turbo",
+    "Language": "bn",
+    "Score": 53.6,
+    "Dataset": "indicxnli",
+    "Metric": "accuracy"
+  },
+  {
+    "Model": "gpt-3.5-turbo",
+    "Language": "gu",
+    "Score": 50.6,
+    "Dataset": "indicxnli",
+    "Metric": "accuracy"
+  },
+  {
+    "Model": "gpt-3.5-turbo",
+    "Language": "hi",
+    "Score": 55.5,
+    "Dataset": "indicxnli",
+    "Metric": "accuracy"
+  },
+  {
+    "Model": "gpt-3.5-turbo",
+    "Language": "kn",
+    "Score": 53.9,
+    "Dataset": "indicxnli",
+    "Metric": "accuracy"
+  },
+  {
+    "Model": "gpt-3.5-turbo",
+    "Language": "ml",
+    "Score": 48.4,
+    "Dataset": "indicxnli",
+    "Metric": "accuracy"
+  },
+  {
+    "Model": "gpt-3.5-turbo",
+    "Language": "mr",
+    "Score": 49.9,
+    "Dataset": "indicxnli",
+    "Metric": "accuracy"
+  },
+  {
+    "Model": "gpt-3.5-turbo",
+    "Language": "or",
+    "Score": 47.4,
+    "Dataset": "indicxnli",
+    "Metric": "accuracy"
+  },
+  {
+    "Model": "gpt-3.5-turbo",
+    "Language": "pa",
+    "Score": 53.6,
+    "Dataset": "indicxnli",
+    "Metric": "accuracy"
+  },
+  {
+    "Model": "gpt-3.5-turbo",
+    "Language": "ta",
+    "Score": 48.2,
+    "Dataset": "indicxnli",
+    "Metric": "accuracy"
+  },
+  {
+    "Model": "gpt-3.5-turbo",
+    "Language": "te",
+    "Score": 47.4,
+    "Dataset": "indicxnli",
+    "Metric": "accuracy"
+  },
+  {
+    "Model": "gpt-3.5-turbo",
+    "Language": "avg",
+    "Score": 50.7,
+    "Dataset": "indicxnli",
+    "Metric": "accuracy"
+  },
+  {
+    "Model": "gpt-3.5-turbo (TT)",
+    "Language": "as",
+    "Score": 54.3,
+    "Dataset": "indicxnli",
+    "Metric": "accuracy"
+  },
+  {
+    "Model": "gpt-3.5-turbo (TT)",
+    "Language": "bn",
+    "Score": 61.6,
+    "Dataset": "indicxnli",
+    "Metric": "accuracy"
+  },
+  {
+    "Model": "gpt-3.5-turbo (TT)",
+    "Language": "gu",
+    "Score": 61.8,
+    "Dataset": "indicxnli",
+    "Metric": "accuracy"
+  },
+  {
+    "Model": "gpt-3.5-turbo (TT)",
+    "Language": "hi",
+    "Score": 59.6,
+    "Dataset": "indicxnli",
+    "Metric": "accuracy"
+  },
+  {
+    "Model": "gpt-3.5-turbo (TT)",
+    "Language": "kn",
+    "Score": 60.8,
+    "Dataset": "indicxnli",
+    "Metric": "accuracy"
+  },
+  {
+    "Model": "gpt-3.5-turbo (TT)",
+    "Language": "ml",
+    "Score": 59.9,
+    "Dataset": "indicxnli",
+    "Metric": "accuracy"
+  },
+  {
+    "Model": "gpt-3.5-turbo (TT)",
+    "Language": "mr",
+    "Score": 58.7,
+    "Dataset": "indicxnli",
+    "Metric": "accuracy"
+  },
+  {
+    "Model": "gpt-3.5-turbo (TT)",
+    "Language": "or",
+    "Score": 58.5,
+    "Dataset": "indicxnli",
+    "Metric": "accuracy"
+  },
+  {
+    "Model": "gpt-3.5-turbo (TT)",
+    "Language": "pa",
+    "Score": 62.3,
+    "Dataset": "indicxnli",
+    "Metric": "accuracy"
+  },
+  {
+    "Model": "gpt-3.5-turbo (TT)",
+    "Language": "ta",
+    "Score": 58.3,
+    "Dataset": "indicxnli",
+    "Metric": "accuracy"
+  },
+  {
+    "Model": "gpt-3.5-turbo (TT)",
+    "Language": "te",
+    "Score": 60.8,
+    "Dataset": "indicxnli",
+    "Metric": "accuracy"
+  },
+  {
+    "Model": "gpt-3.5-turbo (TT)",
+    "Language": "avg",
+    "Score": 59.7,
+    "Dataset": "indicxnli",
+    "Metric": "accuracy"
+  },
+  {
+    "Model": "text-davinci-003",
+    "Language": "as",
+    "Score": 48.6,
+    "Dataset": "indicxnli",
+    "Metric": "accuracy"
+  },
+  {
+    "Model": "text-davinci-003",
+    "Language": "bn",
+    "Score": 52.6,
+    "Dataset": "indicxnli",
+    "Metric": "accuracy"
+  },
+  {
+    "Model": "text-davinci-003",
+    "Language": "gu",
+    "Score": 51.2,
+    "Dataset": "indicxnli",
+    "Metric": "accuracy"
+  },
+  {
+    "Model": "text-davinci-003",
+    "Language": "hi",
+    "Score": 56.9,
+    "Dataset": "indicxnli",
+    "Metric": "accuracy"
+  },
+  {
+    "Model": "text-davinci-003",
+    "Language": "kn",
+    "Score": 49.1,
+    "Dataset": "indicxnli",
+    "Metric": "accuracy"
+  },
+  {
+    "Model": "text-davinci-003",
+    "Language": "ml",
+    "Score": 48.2,
+    "Dataset": "indicxnli",
+    "Metric": "accuracy"
+  },
+  {
+    "Model": "text-davinci-003",
+    "Language": "mr",
+    "Score": 49.4,
+    "Dataset": "indicxnli",
+    "Metric": "accuracy"
+  },
+  {
+    "Model": "text-davinci-003",
+    "Language": "or",
+    "Score": 46.4,
+    "Dataset": "indicxnli",
+    "Metric": "accuracy"
+  },
+  {
+    "Model": "text-davinci-003",
+    "Language": "pa",
+    "Score": 50.4,
+    "Dataset": "indicxnli",
+    "Metric": "accuracy"
+  },
+  {
+    "Model": "text-davinci-003",
+    "Language": "ta",
+    "Score": 45.5,
+    "Dataset": "indicxnli",
+    "Metric": "accuracy"
+  },
+  {
+    "Model": "text-davinci-003",
+    "Language": "te",
+    "Score": 47.2,
+    "Dataset": "indicxnli",
+    "Metric": "accuracy"
+  },
+  {
+    "Model": "text-davinci-003",
+    "Language": "avg",
+    "Score": 49.6,
+    "Dataset": "indicxnli",
+    "Metric": "accuracy"
+  },
+  {
+    "Model": "text-davinci-003 (TT)",
+    "Language": "as",
+    "Score": 56.0,
+    "Dataset": "indicxnli",
+    "Metric": "accuracy"
+  },
+  {
+    "Model": "text-davinci-003 (TT)",
+    "Language": "bn",
+    "Score": 66.0,
+    "Dataset": "indicxnli",
+    "Metric": "accuracy"
+  },
+  {
+    "Model": "text-davinci-003 (TT)",
+    "Language": "gu",
+    "Score": 64.7,
+    "Dataset": "indicxnli",
+    "Metric": "accuracy"
+  },
+  {
+    "Model": "text-davinci-003 (TT)",
+    "Language": "hi",
+    "Score": 62.6,
+    "Dataset": "indicxnli",
+    "Metric": "accuracy"
+  },
+  {
+    "Model": "text-davinci-003 (TT)",
+    "Language": "kn",
+    "Score": 63.9,
+    "Dataset": "indicxnli",
+    "Metric": "accuracy"
+  },
+  {
+    "Model": "text-davinci-003 (TT)",
+    "Language": "ml",
+    "Score": 61.8,
+    "Dataset": "indicxnli",
+    "Metric": "accuracy"
+  },
+  {
+    "Model": "text-davinci-003 (TT)",
+    "Language": "mr",
+    "Score": 60.9,
+    "Dataset": "indicxnli",
+    "Metric": "accuracy"
+  },
+  {
+    "Model": "text-davinci-003 (TT)",
+    "Language": "or",
+    "Score": 60.8,
+    "Dataset": "indicxnli",
+    "Metric": "accuracy"
+  },
+  {
+    "Model": "text-davinci-003 (TT)",
+    "Language": "pa",
+    "Score": 64.7,
+    "Dataset": "indicxnli",
+    "Metric": "accuracy"
+  },
+  {
+    "Model": "text-davinci-003 (TT)",
+    "Language": "ta",
+    "Score": 61.8,
+    "Dataset": "indicxnli",
+    "Metric": "accuracy"
+  },
+  {
+    "Model": "text-davinci-003 (TT)",
+    "Language": "te",
+    "Score": 63.1,
+    "Dataset": "indicxnli",
+    "Metric": "accuracy"
+  },
+  {
+    "Model": "text-davinci-003 (TT)",
+    "Language": "avg",
+    "Score": 62.4,
+    "Dataset": "indicxnli",
+    "Metric": "accuracy"
+  },
+  {
+    "Model": "gpt-4-32k",
+    "Language": "as",
+    "Score": 63.5,
+    "Dataset": "indicxnli",
+    "Metric": "accuracy"
+  },
+  {
+    "Model": "gpt-4-32k",
+    "Language": "bn",
+    "Score": 72.2,
+    "Dataset": "indicxnli",
+    "Metric": "accuracy"
+  },
+  {
+    "Model": "gpt-4-32k",
+    "Language": "gu",
+    "Score": 66.9,
+    "Dataset": "indicxnli",
+    "Metric": "accuracy"
+  },
+  {
+    "Model": "gpt-4-32k",
+    "Language": "hi",
+    "Score": 71.7,
+    "Dataset": "indicxnli",
+    "Metric": "accuracy"
+  },
+  {
+    "Model": "gpt-4-32k",
+    "Language": "kn",
+    "Score": 69.0,
+    "Dataset": "indicxnli",
+    "Metric": "accuracy"
+  },
+  {
+    "Model": "gpt-4-32k",
+    "Language": "ml",
+    "Score": 64.3,
+    "Dataset": "indicxnli",
+    "Metric": "accuracy"
+  },
+  {
+    "Model": "gpt-4-32k",
+    "Language": "mr",
+    "Score": 66.2,
+    "Dataset": "indicxnli",
+    "Metric": "accuracy"
+  },
+  {
+    "Model": "gpt-4-32k",
+    "Language": "or",
+    "Score": 61.1,
+    "Dataset": "indicxnli",
+    "Metric": "accuracy"
+  },
+  {
+    "Model": "gpt-4-32k",
+    "Language": "pa",
+    "Score": 71.1,
+    "Dataset": "indicxnli",
+    "Metric": "accuracy"
+  },
+  {
+    "Model": "gpt-4-32k",
+    "Language": "ta",
+    "Score": 63.7,
+    "Dataset": "indicxnli",
+    "Metric": "accuracy"
+  },
+  {
+    "Model": "gpt-4-32k",
+    "Language": "te",
+    "Score": 64.8,
+    "Dataset": "indicxnli",
+    "Metric": "accuracy"
+  },
+  {
+    "Model": "gpt-4-32k",
+    "Language": "avg",
+    "Score": 66.8,
+    "Dataset": "indicxnli",
+    "Metric": "accuracy"
+  }
+]
